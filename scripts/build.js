@@ -6,7 +6,11 @@ const WALLETInitialClaimableRewards = require('../constants/WALLETInitialClaimab
 const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
 
-const result = WALLETInitialClaimableRewards.concat(tokenList).concat(humanizerInfo)
+const result = {
+  WALLETInitialClaimableRewards: WALLETInitialClaimableRewards, 
+  tokenList: tokenList, 
+  humanizerInfo: humanizerInfo
+}
  
 jsonfile.writeFile('build/result.json', result)
   .then(() => console.log('Merge complete'))
