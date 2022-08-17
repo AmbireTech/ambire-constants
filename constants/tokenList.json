@@ -7,12 +7,6 @@
       "decimals": 18
     },
     {
-      "address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
-      "symbol": "WALLET",
-      "coingeckoId": "ambire-wallet",
-      "decimals": 18
-    },
-    {
       "address": "0x47cd7e91c3cbaaf266369fe8518345fc4fc12935",
       "symbol": "xWALLET",
       "coingeckoId": "ambire-xwallet",
