@@ -21,7 +21,5 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Install dependencies
       - run: yarn install
-      - name: Build
       - run: yarn run build
