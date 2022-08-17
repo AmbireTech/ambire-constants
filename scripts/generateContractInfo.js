@@ -1,11 +1,5 @@
 #!/usr/bin/env node
-import fetch from 'node-fetch'
-import { createRequire } from "module"
-const require = createRequire(import.meta.url)
-/*
-We are that, because using the ES6 modules way gives us an
-error: https://stackoverflow.com/questions/60205891/import-json-extension-in-es6-node-js-throws-an-error
-*/
+const fetch =  require('node-fetch')
 const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
 
