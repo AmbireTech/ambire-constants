@@ -5,7 +5,8 @@
   "type": "commonjs",
   "license": "MIT",
   "scripts": {
-    "generate:contractInfo": "node scripts/generateContractInfo.js > constants/humanizerInfo.json"
+    "generate:contractInfo": "node scripts/generateContractInfo.js > constants/humanizerInfo.json",
+    "build": "node scripts/build.js"
   },
   "dependencies": {
     "adex-protocol-eth": "git+https://git@github.com/AmbireTech/adex-protocol-eth.git",
