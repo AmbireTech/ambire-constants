@@ -5,9 +5,6 @@ import { createRequire } from "module"
 const require = createRequire(import.meta.url)
 const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
-// const fetch = require('node-fetch')
-// const ERC20 = require('adex-protocol-eth/abi/ERC20')
-// const ambireTokenList = require('../src/constants/tokenList.json')
 
 const etherscans = {
   ethereum: { host: 'api.etherscan.io', key: 'KJJ4NZ9EQHIFCQY5IJ775PT128YE15AV5S' },
