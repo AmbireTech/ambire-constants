@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const fetch =  require('node-fetch')
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
 
