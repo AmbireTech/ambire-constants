@@ -2,13 +2,13 @@
 
 ## About
 
-This repository contains the static files, shared between ambire-common, web and mobile wallets.
+This repository contains the static files, shared between `ambire-common` and the `web` and `mobile` wallets.
 
 ## Installation
 
 The project uses [Yarn](https://yarnpkg.com/). 
 
-1. Make sure that you have NodeJS v16.14.0 installed.
+1. Make sure that you have `NodeJS v16.14.0` installed.
 2. In the root folder run `yarn install`
 
 ## Available Scripts
