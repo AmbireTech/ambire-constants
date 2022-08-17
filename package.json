@@ -2,11 +2,12 @@
   "name": "ambire-constants",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "scripts": {
     "generate:contractInfo": "node scripts/generateContractInfo.js > constants/humanizerInfo.json"
   },
-  "peerDependencies": {
+  "dependencies": {
     "adex-protocol-eth": "git+https://git@github.com/AmbireTech/adex-protocol-eth.git"
   },
   "devDependencies": {
