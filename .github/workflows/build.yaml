@@ -21,6 +21,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+          
+      - name: Install dependencies
+        run: yarn install
+
       - name: Deploy
         run: |
           git config --global user.name $user_name
