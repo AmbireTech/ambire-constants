@@ -14,4 +14,7 @@ The project uses [Yarn](https://yarnpkg.com/).
 ## Available Scripts
 
 1. `generate:contractInfo` - this script generates `contants/humanizerInfo.json`.
+2. `build` - combines `humanizerInfo.json`, `tokenList.json` and `WALLETInitialClaimableRewards.json` into a single json file and copies `adexToStakingTransfers.json` into gh-pages
+3. `predeploy` - runs `generate:contractInfo` and `build`
+4. `deploy` - deploys the json files using gh-pages
 
