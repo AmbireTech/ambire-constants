@@ -21,13 +21,14 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      - run: yarn install
+      - name: Install dependencies
+        run: yarn install
 
       - name: Generate humanizerInfo.json
-      - run: yarn run generate:contractInfo
+        run: yarn run generate:contractInfo
 
       - name: Build
-      - run: yarn run build
+        run: yarn run build
 
       - name: Deploy
         run: |
