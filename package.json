@@ -6,13 +6,16 @@
   "license": "MIT",
   "scripts": {
     "generate:contractInfo": "node scripts/generateContractInfo.js > constants/humanizerInfo.json",
-    "build": "node scripts/build.js"
+    "build": "node scripts/build.js",
+    "predeploy": "yarn run build && yarn run generate:contractInfo",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "adex-protocol-eth": "git+https://git@github.com/AmbireTech/adex-protocol-eth.git",
     "jsonfile": "^6.1.0"
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "node-fetch": "^3.2.10"
   }
 }
