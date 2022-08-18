@@ -5,6 +5,7 @@ const adexToStakingTransfers = require('../constants/rpc/adexToStakingTransfers.
 const WALLETInitialClaimableRewards = require('../constants/WALLETInitialClaimableRewards.json')
 const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
+const packageJson = require('../constants/build-package.json')
 
 const result = {
   WALLETInitialClaimableRewards: WALLETInitialClaimableRewards, 
@@ -19,3 +20,7 @@ jsonfile.writeFile('build/result.json', result)
 jsonfile.writeFile('build/adexToStakingTransfers.json', adexToStakingTransfers)
   .then(() => console.log('adexToStakingTransfers copy complete'))
   .catch(err => console.log(err))
+
+jsonfile.writeFile('build/package.json', packageJson)
+  .then(() => console.log('Package.json built'))
+  .catch(error => console.log(error))
