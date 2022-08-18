@@ -18,3 +18,10 @@ The project uses [Yarn](https://yarnpkg.com/).
 3. `predeploy` - runs `generate:contractInfo` and `build`
 4. `deploy` - deploys the json files using gh-pages
 
+## Possible errors
+
+Incase you see this error, don't worry. Just rerun the github action after a few minutes.
+
+```
+{ status: '0', message: 'NOTOK', result: 'Max rate limit reached' }
+```
