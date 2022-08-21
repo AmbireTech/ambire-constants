@@ -1,11 +1,11 @@
 const jsonfile = require('jsonfile')
 // Single file
 const adexToStakingTransfers = require('../constants/rpc/adexToStakingTransfers.json')
+const packageJson = require('../constants/build-package.json')
 // Files to merge
 const WALLETInitialClaimableRewards = require('../constants/WALLETInitialClaimableRewards.json')
 const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
-const packageJson = require('../constants/build-package.json')
 
 const result = {
   WALLETInitialClaimableRewards: WALLETInitialClaimableRewards, 
@@ -15,7 +15,7 @@ const result = {
  
 jsonfile.writeFile('build/result.json', result)
   .then(() => console.log('Merge complete'))
-  .catch(error => console.error(error))
+  .catch(err => console.error(err))
 
 jsonfile.writeFile('build/adexToStakingTransfers.json', adexToStakingTransfers)
   .then(() => console.log('adexToStakingTransfers copy complete'))
@@ -23,4 +23,9 @@ jsonfile.writeFile('build/adexToStakingTransfers.json', adexToStakingTransfers)
 
 jsonfile.writeFile('build/package.json', packageJson)
   .then(() => console.log('Package.json built'))
-  .catch(error => console.log(error))
+  .catch(err => console.log(err))
+
+jsonfile.writeFile('build/cache.json', {
+  lastUpdated: Date.now()
+}).then(() => console.log('Cache.json built'))
+.catch(err => console.log(err))
