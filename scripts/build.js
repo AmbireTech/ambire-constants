@@ -1,4 +1,5 @@
 const jsonfile = require('jsonfile')
+const fs = require('fs')
 // Single file
 const adexToStakingTransfers = require('../constants/rpc/adexToStakingTransfers.json')
 const packageJson = require('../constants/build-package.json')
@@ -25,9 +26,12 @@ jsonfile.writeFile('build/package.json', packageJson)
   .then(() => console.log('Package.json built'))
   .catch(err => console.log(err))
 
-jsonfile.writeFile('build/CNAME', 'jason.ambire.com')
-  .then(() => console.log('CNAME file added'))
-  .catch(err => console.log(err))
+fs.writeFile("build/CNAME", "jason.ambire.com", (err) => {
+  if(err) {
+    return console.log(err);
+  }
+  console.log('CNAME file added')
+})
 
 jsonfile.writeFile('build/cache.json', {
   lastUpdated: Date.now()
