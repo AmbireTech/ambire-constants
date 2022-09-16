@@ -7,7 +7,7 @@
   "scripts": {
     "generate:contractInfo": "node scripts/generateContractInfo.js > constants/humanizerInfo.json",
     "build": "node scripts/build.js",
-    "predeploy": "yarn run build && yarn run generate:contractInfo",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
