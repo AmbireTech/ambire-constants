@@ -25,6 +25,10 @@ jsonfile.writeFile('build/package.json', packageJson)
   .then(() => console.log('Package.json built'))
   .catch(err => console.log(err))
 
+jsonfile.writeFile('build/CNAME', 'jason.ambire.com')
+  .then(() => console.log('CNAME file added'))
+  .catch(err => console.log(err))
+
 jsonfile.writeFile('build/cache.json', {
   lastUpdated: Date.now()
 }).then(() => console.log('Cache.json built'))
