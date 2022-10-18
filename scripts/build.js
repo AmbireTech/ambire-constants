@@ -4,12 +4,10 @@ const fs = require('fs')
 const adexToStakingTransfers = require('../constants/rpc/adexToStakingTransfers.json')
 const packageJson = require('../constants/build-package.json')
 // Files to merge
-const WALLETInitialClaimableRewards = require('../constants/WALLETInitialClaimableRewards.json')
 const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
 
 const result = {
-  WALLETInitialClaimableRewards: WALLETInitialClaimableRewards, 
   tokenList: tokenList, 
   humanizerInfo: humanizerInfo
 }
