@@ -175,19 +175,19 @@ const contracts = [
     name: 'Uniswap',
     network: 'polygon',
     addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
-    abiName: 'UniV3Router2'
+    abiName: 'UniV3Router3'
   },
   {
     name: 'Uniswap',
     network: 'arbitrum',
     addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
-    abiName: 'UniV3Router2'
+    abiName: 'UniV3Router4'
   },
   {
     name: 'Uniswap',
     network: 'optimism',
     addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
-    abiName: 'UniV3Router2'
+    abiName: 'UniV3Router5'
   },
   { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F' },
   { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
