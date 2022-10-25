@@ -6,7 +6,16 @@ const ambireTokenList = require('../constants/tokenList.json')
 const etherscans = {
   ethereum: { host: 'api.etherscan.io', key: 'KJJ4NZ9EQHIFCQY5IJ775PT128YE15AV5S' },
   polygon: { host: 'api.polygonscan.com', key: 'YE5YYHA7BH6IPBN5T71UKW5MPEFZ5HUGJJ' },
-  bsc: { host: 'api.bscscan.com', key: 'YQM54RYW91YSQA4QJZIJT4E6NWGKTZKQG3' }
+  bsc: { host: 'api.bscscan.com', key: 'YQM54RYW91YSQA4QJZIJT4E6NWGKTZKQG3' },
+  arbitrum: { host: 'api.arbiscan.io/', key: 'FIIYWMPVI4A9EPVZITN8R1YGFTFK84I12A' },
+  optimism: { host: 'api-optimistic.etherscan.io', key: '959ZZFJ3A53JT4IR3HNHZHJX426NQHZWWS' },
+  avalanche: { host: 'api.snowtrace.io', key: 'PE6FNFM267GVCM3J23QX26J3WWUKI46FJZ' }, 
+  moonriver: { host: 'api-moonriver.moonscan.io', key: 'BCVGVFUVUAIEKE914PRQW2RTZUJ8ZB5GS8' },
+  moonbeam: { host: 'api-moonbeam.moonscan.io', key: 'UIYN6R2PEUM86KQGIM9AFRFQB5IVQ72SY2' },
+  andromeda: { host: 'andromeda-explorer.metis.io', key: '' },
+  fantom: { host: 'api.ftmscan.com', key: 'D2UJ8TV1UNUDA4TPWE2DWTPF69PWAJPTNG' },
+  gnosis: { host: 'blockscout.com/eth/mainnet', key: ''},
+  kucoin: { host: 'api.explorer.kcc.io/vip', key: 'cpzPVTSUT2FowxQOFlIn'}
 }
 
 const yearnVaults = [
@@ -162,6 +171,24 @@ const contracts = [
     addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
     abiName: 'UniV3Router2'
   },
+  {
+    name: 'Uniswap',
+    network: 'polygon',
+    addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
+    abiName: 'UniV3Router2'
+  },
+  {
+    name: 'Uniswap',
+    network: 'arbitrum',
+    addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
+    abiName: 'UniV3Router2'
+  },
+  {
+    name: 'Uniswap',
+    network: 'optimism',
+    addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
+    abiName: 'UniV3Router2'
+  },
   { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F' },
   { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
   { name: 'SushiSwap', network: 'fantom', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
@@ -281,9 +308,10 @@ async function generate() {
     if (!abiName) continue
     const { host, key } = etherscans[network]
     // @TODO rate limiting
-    const abiResp = await fetch(
+    const url = (network === 'kucoin') ? 
+      `https://api.explorer.kcc.io/vipapi/contract/getabi?address=${abiAddr || addr}&apikey=${key}` :
       `https://${host}/api?module=contract&action=getabi&address=${abiAddr || addr}&apikey=${key}`
-    ).then((r) => r.json())
+    const abiResp = await fetch(url).then((r) => r.json())
     if (abiResp.status !== '1') throw abiResp
     abis[abiName] = JSON.parse(abiResp.result)
   }
