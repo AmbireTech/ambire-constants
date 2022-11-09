@@ -210,6 +210,7 @@ const contracts = [
     abiName: 'AaveLendingPoolV2'
   },
   { name: 'Aave', network: 'polygon', addr: '0x8dff5e27ea6b7ac08ebfdf9eb090f32ee9a30fcf' },
+  { name: 'Aave', network: 'ethereum', addr: '0xeffc18fc3b7eb8e676dac549e0c693ad50d1ce31' },
   {
     name: 'Aave',
     network: 'ethereum',
