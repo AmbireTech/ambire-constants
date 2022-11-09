@@ -145,7 +145,7 @@ const contracts = [
   {
     name: '$WALLET distributor',
     network: 'ethereum',
-    addr: '0xA23C1bf0D0988DF467E9156a33A32f6BA6a9AF52'
+    addr: '0x6FDb43bca2D8fe6284242d92620156205d4fA028'
   },
   {
     name: 'PancakeSwap',
