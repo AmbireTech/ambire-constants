@@ -189,6 +189,18 @@ const contracts = [
     addr: '0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45',
     abiName: 'UniV3Router5'
   },
+  {
+    name: 'UniswapV3Pool',
+    network: 'ethereum',
+    addr: '0xc36442b4a4522e871399cd717abdd847ab11fe88',
+    abiName: 'UniswapV3Pool'
+  },
+  {
+    name: 'UniswapV3Pool',
+    network: 'polygon',
+    addr: '0xc36442b4a4522e871399cd717abdd847ab11fe88',
+    abiName: 'UniswapV3Pool'
+  },
   { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F' },
   { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
   { name: 'SushiSwap', network: 'fantom', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
