@@ -230,6 +230,7 @@ const contracts = [
     abiName: 'AaveWethGatewayV2'
   },
   { name: 'Aave', network: 'polygon', addr: '0xbEadf48d62aCC944a06EEaE0A9054A90E5A7dc97' },
+  { name: 'Aave', network: 'polygon', addr: '0x1e4b7a6b903680eab0c5dabcb8fd429cd2a9598c' },
   { name: 'Movr 1inch', network: 'ethereum', addr: '0x8f9eaee5c5df888aba3c1ab19689a0660d042c6d' },
   { name: 'Movr 1inch', network: 'polygon', addr: '0x2fc9c3bf505b74e59a538fe9d67bc1deb4c03d91' },
   {
