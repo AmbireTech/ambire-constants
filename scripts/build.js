@@ -6,10 +6,12 @@ const packageJson = require('../constants/build-package.json')
 // Files to merge
 const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
+const customTokens = require('../constants/customTokens.json')
 
 const result = {
   tokenList: tokenList, 
-  humanizerInfo: humanizerInfo
+  humanizerInfo: humanizerInfo,
+  ...customTokens
 }
  
 jsonfile.writeFile('build/result.json', result)
