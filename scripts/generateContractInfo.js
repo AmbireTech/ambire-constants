@@ -314,6 +314,30 @@ const contracts = [
     addr: '0x1111111254fb6c44bAC0beD2854e76F90643097d',
     abiName: 'Swappin'
   },
+  {
+    name: 'Swappin',
+    network: 'ethereum',
+    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
+    abiName: 'SwappinOwn'
+  },
+  {
+    name: 'Swappin',
+    network: 'polygon',
+    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
+    abiName: 'SwappinOwn'
+  },
+  {
+    name: 'Swappin',
+    network: 'bsc',
+    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
+    abiName: 'SwappinOwn'
+  },
+  {
+    name: 'Swappin',
+    network: 'avalanche',
+    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
+    abiName: 'SwappinOwn'
+  },
   { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' }
 ]
 const tokenlists = [
