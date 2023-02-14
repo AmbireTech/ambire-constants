@@ -1353,6 +1353,12 @@
       "coingeckoId": "usd-coin"
     },
     {
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "coingeckoId": "tether"
+    },
+    {
       "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
       "symbol": "LINK",
       "decimals": 18,
