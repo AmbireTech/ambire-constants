@@ -342,6 +342,12 @@ const contracts = [
     addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
     abiName: 'SwappinOwn'
   },
+  {
+    name: 'PancakeFarm',
+    network: 'bsc',
+    addr: '0xa5f8c5dbd5f286960b9d90548680ae5ebff07652',
+    abiName: 'PancakeMasterChefV2'
+  },
   { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' }
 ]
 const tokenlists = [
