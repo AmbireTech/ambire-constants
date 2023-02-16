@@ -374,6 +374,11 @@ const customTokens = [
     symbol: 'xWALLET',
     decimals: 18
   },
+  {
+    address: '0x66fdb2eccfb58cf098eaa419e5efde841368e489',
+    symbol: 'DAI-BUSD LP',
+    decimals: 18
+  },
   ...Object.keys(ambireTokenList)
     .map((n) => ambireTokenList[n])
     .flat()
