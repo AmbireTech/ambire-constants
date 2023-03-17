@@ -348,6 +348,18 @@ const contracts = [
     addr: '0xa5f8c5dbd5f286960b9d90548680ae5ebff07652',
     abiName: 'PancakeMasterChefV2'
   },
+  {
+    name: 'SudoSwapFactory',
+    network: 'ethereum',
+    addr: '0xb16c1342e617a5b6e4b631eb114483fdb289c0a4',
+    abiName: 'SudoSwapFactory'
+  },
+  {
+    name: 'SudoSwapRouter',
+    network: 'ethereum',
+    addr: '0x2b2e8cda09bba9660dca5cb6233787738ad68329',
+    abiName: 'SudoSwapRouter'
+  },
   { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' }
 ]
 const tokenlists = [
