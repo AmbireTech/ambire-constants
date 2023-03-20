@@ -3479,11 +3479,53 @@
       "decimals": 18
     }
   ],
+  "okc": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "OTK",
+      "coingeckoId": "oec-token",
+      "decimals": 18
+    },
+    {
+      "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+      "symbol": "USDC",
+      "coingeckoId": "usd-coin",
+      "decimals": 18
+    },
+    {
+      "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+      "symbol": "USDТ",
+      "coingeckoId": "tether",
+      "decimals": 6
+    },
+    {
+      "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+      "symbol": "ETHK",
+      "coingeckoId": "oec-eth",
+      "decimals": 18
+    }
+  ],
   "rinkeby": [
     {
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "ETH",
-      "coingeckoId": null,
+      "coingeckoId": "ethereum",
+      "decimals": 18
+    }
+  ],
+  "mumbai": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "MATIC",
+      "coingeckoId": "matic-network",
+      "decimals": 18
+    }
+  ],
+  "sepolia": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "coingeckoId": "ethereum",
       "decimals": 18
     }
   ]
