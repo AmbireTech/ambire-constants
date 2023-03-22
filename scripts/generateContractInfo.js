@@ -360,6 +360,12 @@ const contracts = [
     addr: '0x2b2e8cda09bba9660dca5cb6233787738ad68329',
     abiName: 'SudoSwapRouter'
   },
+  {
+    name: 'LSSVMPairEnumerableETH',
+    network: 'ethereum',
+    addr: '0x08ce97807a81896e85841d74fb7e7b065ab3ef05',
+    abiName: 'LSSVMPairEnumerableETH'
+  },
   { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' }
 ]
 const tokenlists = [
