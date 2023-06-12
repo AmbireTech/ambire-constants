@@ -1100,16 +1100,18 @@ async function generate() {
     await Promise.all(tokenlists.map(async (url) => await fetch(url).then((r) => r.json())))
   ).concat({ tokens: customTokens })
 
-  const tokens = tokenLists.reduce((acc, list) => {
-    list.tokens.forEach((t) => {
-      const address = t.address.toLowerCase()
-      if (acc[address] && acc[address].decimals !== acc[address].decimals) {
-        throw new Error('unexpected token conflict: same addr token, different decimals')
-      }
-      acc[address] = [t.symbol, t.decimals]
-    })
-    return acc
-  }, {})
+	const tokens = tokenLists.filter((tokenListT) => typeof tokenListT === 'object').reduce((acc, list) => {
+		list.tokens.forEach((t) => {
+			const address = t.address.toLowerCase()
+
+			if (acc[address] && t.decimals !== acc[address][1]) {
+				throw new Error('unexpected token conflict: same addr token, different decimals')
+			}
+			acc[address] = [t.symbol, t.decimals]
+		})
+		return acc
+	}, {})
+
   console.log(JSON.stringify({ abis, tokens, names, yearnVaults, tesseractVaults }))
 }
 
