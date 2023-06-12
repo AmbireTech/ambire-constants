@@ -1353,12 +1353,6 @@
       "coingeckoId": "usd-coin"
     },
     {
-      "address": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
-      "decimals": 18,
-      "coingeckoId": "tether"
-    },
-    {
       "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
       "symbol": "LINK",
       "decimals": 18,
@@ -3318,7 +3312,7 @@
       "address": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
       "symbol": "bios",
       "coingeckoId": "bios",
-      "decmals": 18
+      "decimals": 18
     },
     {
       "address": "0xfe282af5f9eb59c30a3f78789eeffa704188bdd4",
@@ -3477,6 +3471,88 @@
       "symbol": "ETH",
       "coingeckoId": null,
       "decimals": 18
+    },
+    {
+      "address":"0x4200000000000000000000000000000000000042",
+      "symbol":"OP",
+      "coingeckoId":"optimism",
+      "decimals":18
+    },
+    {
+      "address":"0x4200000000000000000000000000000000000006",
+      "symbol":"WETH",
+      "coingeckoId":"weth",
+      "decimals":18
+    },
+    {
+      "address":"0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "symbol":"USDC",
+      "coingeckoId":"usd-coin",
+      "decimals":6
+    },
+    {
+      "address":"0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "symbol":"DAI",
+      "coingeckoId":"dai",
+      "decimals":18
+    },
+    {
+      "address":"0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "symbol":"USDT",
+      "coingeckoId":"tether",
+      "decimals":6
+    }
+  ],
+  "arbitrum": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "coingeckoId": null,
+      "decimals": 18
+    },
+    {
+      "address":"0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "symbol":"USDC",
+      "coingeckoId":"usd-coin",
+      "decimals":6
+    },
+    {
+      "address":"0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "symbol":"USDT",
+      "coingeckoId":"tether",
+      "decimals":6
+    },
+    {
+      "address":"0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "symbol":"DAI",
+      "coingeckoId":"dai",
+      "decimals":18
+    },
+    {
+      "address":"0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "symbol":"WETH",
+      "coingeckoId":"weth",
+      "decimals":18
+    },
+    {
+      "address":"0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "symbol":"GMX",
+      "coingeckoId":"gmx",
+      "decimals":18
+    },
+    {
+      "address":"0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "symbol":"ARB",
+      "coingeckoId":"arbitrum",
+      "decimals":18
+    }
+  ],
+  "rinkeby": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "coingeckoId": null,
+      "decimals": 18
     }
   ],
   "okc": [
@@ -3494,30 +3570,14 @@
     },
     {
       "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
-      "symbol": "USDТ",
+      "symbol": "USDT",
       "coingeckoId": "tether",
       "decimals": 6
     },
     {
-      "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+      "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
       "symbol": "ETHK",
       "coingeckoId": "oec-eth",
-      "decimals": 18
-    }
-  ],
-  "rinkeby": [
-    {
-      "address": "0x0000000000000000000000000000000000000000",
-      "symbol": "ETH",
-      "coingeckoId": "ethereum",
-      "decimals": 18
-    }
-  ],
-  "mumbai": [
-    {
-      "address": "0x0000000000000000000000000000000000000000",
-      "symbol": "MATIC",
-      "coingeckoId": "matic-network",
       "decimals": 18
     }
   ],
@@ -3525,7 +3585,15 @@
     {
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "ETH",
-      "coingeckoId": "ethereum",
+      "coingeckoId": null,
+      "decimals": 18
+    }
+  ],
+  "mumbai": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "MATIC",
+      "coingeckoId": null,
       "decimals": 18
     }
   ]
