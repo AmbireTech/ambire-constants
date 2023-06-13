@@ -8,11 +8,22 @@ const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
 const customTokens = require('../constants/customTokens.json')
 
+const tokenListToLowerCaseAddresses = []
+
+Object.keys(tokenList).forEach((network => {
+  tokenList[network].forEach((token) => {
+    token.address = token.address.toLowerCase()
+    tokenListToLowerCaseAddresses.push(token)
+  })
+}))
+
 const result = {
-  tokenList: tokenList, 
+  tokenList: tokenListToLowerCaseAddresses, 
   humanizerInfo: humanizerInfo,
   ...customTokens
 }
+
+jsonfile.writeFile('temp/tokenList.json', tokenListToLowerCaseAddresses)
  
 jsonfile.writeFile('build/result.json', result)
   .then(() => console.log('Merge complete'))
