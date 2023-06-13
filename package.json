@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "generate:contractInfo": "node scripts/generateContractInfo.js > constants/humanizerInfo.json",
+    "generate:lcTokenList": "node scripts/generateLowerCaseTokenList.js > temp/tokenList.json",
     "build": "node scripts/build.js",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
