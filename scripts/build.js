@@ -18,7 +18,7 @@ Object.keys(tokenList).forEach((network => {
 }))
 
 const result = {
-  tokenList: tokenListToLowerCaseAddresses, 
+  tokenList: tokenList, 
   humanizerInfo: humanizerInfo,
   ...customTokens
 }
