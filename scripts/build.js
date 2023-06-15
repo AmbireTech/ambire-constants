@@ -23,7 +23,7 @@ Object.keys(tokenList).forEach((key) => {
 })
 
 const result = {
-  tokenList: JSON.stringify(tokenListToLowerCaseAddresses), 
+  tokenList: tokenListToLowerCaseAddresses, 
   humanizerInfo: humanizerInfo,
   ...customTokens
 }
