@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "adex-protocol-eth": "git+https://git@github.com/AmbireTech/adex-protocol-eth.git",
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "jsonfile": "^6.1.0"
   },
