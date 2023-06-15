@@ -23,7 +23,14 @@ The project uses [Yarn](https://yarnpkg.com/).
 1. `tokenList.json` and `WALLETInitialClaimableRewards.json` - these files must be updated manually
 2. `humanizerInfo.json`- this file can both be updated manually and generated using the `yarn run generate:contractInfo` command.
 3. Commit the changes
-4. For now push directly to the `main` branch
+4. See "Testing the changes" section
+5. For now push directly to the `main` branch
+
+## 💻 Testing the changes 💻
+
+1. Run `yarn dev` to start the development server
+2. Change the `REACT_APP_CONSTANTS_ENDPOINT`'s value to `http://localhost:5000/`
+3. Test properly and make sure that everything works as expected
 
 ## 🚨 Possible errors 🚨
 
