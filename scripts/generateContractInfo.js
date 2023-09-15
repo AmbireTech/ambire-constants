@@ -12,10 +12,11 @@ const etherscans = {
   avalanche: { host: 'api.snowtrace.io', key: 'PE6FNFM267GVCM3J23QX26J3WWUKI46FJZ' }, 
   moonriver: { host: 'api-moonriver.moonscan.io', key: 'BCVGVFUVUAIEKE914PRQW2RTZUJ8ZB5GS8' },
   moonbeam: { host: 'api-moonbeam.moonscan.io', key: 'UIYN6R2PEUM86KQGIM9AFRFQB5IVQ72SY2' },
-  andromeda: { host: 'andromeda-explorer.metis.io', key: '' },
+  andromeda: { host: 'andromeda-explorer.metis.io', key: '' }, // @TODO: fix andromeda scan
   fantom: { host: 'api.ftmscan.com', key: 'D2UJ8TV1UNUDA4TPWE2DWTPF69PWAJPTNG' },
   gnosis: { host: 'blockscout.com/eth/mainnet', key: ''},
-  kucoin: { host: 'api.explorer.kcc.io/vip', key: 'cpzPVTSUT2FowxQOFlIn'}
+  kucoin: { host: 'api.explorer.kcc.io/vip', key: 'cpzPVTSUT2FowxQOFlIn'},
+  base: { host: 'api.basescan.org', key: 'PSWKUAFEQVAIQ33CJNNVVBGP7ZU2W1MB35'}
 }
 
 const yearnVaults = [
@@ -414,8 +415,44 @@ const contracts = [
   {
     name: 'UniswapUniversalRouter',
     network: 'polygon',
-    addr: '0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5',
+    addr: '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD',
     abiName: 'UniswapUniversalRouter'
+  },
+  {
+    name: 'UniswapUniversalRouter',
+    network: 'bsc',
+    addr: '0x5302086A3a25d473aAbBd0356eFf8Dd811a4d89B',
+    abiName: 'UniswapUniversalRouter'
+  },
+  {
+    name: 'UniswapUniversalRouter',
+    network: 'base',
+    addr: '0x198EF79F1F515F02dFE9e3115eD9fC07183f02fC',
+    abiName: 'UniswapUniversalRouter'
+  },
+  {
+    name: 'CowSwap',
+    network: 'ethereum',
+    addr: '0x9008D19f58AAbD9eD0D60971565AA8510560ab41',
+    abiName: 'CowSwapSettlement'
+  },
+  {
+    name: 'CowSwap',
+    network: 'ethereum',
+    addr: '0xC92E8bdf79f0507f65a392b0ab4667716BFE0110',
+    abiName: 'CowSwapGPv2VaultRelayer'
+  },
+  {
+    name: 'ParaSwapV5',
+    network: 'ethereum',
+    addr: '0x216B4B4Ba9F3e719726886d34a177484278Bfcae',
+    abiName: 'ParaSwapTokenTransferProxy'
+  },
+  {
+    name: 'ParaSwapV5',
+    network: 'ethereum',
+    addr: '0xDEF171Fe48CF0115B1d80b88dc8eAB59176FEe57',
+    abiName: 'ParaSwapV5'
   },
   { name: 'Permit2', network: 'ethereum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
   { name: 'Permit2', network: 'polygon', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
@@ -449,8 +486,69 @@ const contracts = [
     addr: '0xcc9a0b7c43dc2a5f023bb9b738e45b0ef6b06e04',
     abiName: 'AaveWethGatewayV2'
   },
+  {
+    name: 'Aave',
+    network: 'ethereum',
+    addr: '0xD322A49006FC828F9B5B37Ab215F99B4E5caB19C',
+    abiName: 'AaveWrappedTokenGateway'
+  },
   { name: 'Aave', network: 'polygon', addr: '0xbEadf48d62aCC944a06EEaE0A9054A90E5A7dc97' },
   { name: 'Aave', network: 'polygon', addr: '0x1e4b7a6b903680eab0c5dabcb8fd429cd2a9598c' },
+  {
+    name: 'AavePoolV3',
+    network: 'ethereum',
+    addr: '0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2',
+    abiName: 'AavePoolV3'
+  },
+  {
+    name: 'Aave',
+    network: 'arbitrum',
+    addr: '0x794a61358D6845594F94dc1DB02A252b5b4814aD',
+    abiName: 'AavePool'
+  },
+  {
+    name: 'Aave',
+    network: 'optimism',
+    addr: '0x76D3030728e52DEB8848d5613aBaDE88441cbc59',
+    abiName: 'AaveWETHGateway'
+  },
+  // @TODO: fix andromeda scan
+  // {
+  //   name: 'Aave',
+  //   network: 'andromeda',
+  //   addr: '0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57',
+  //   abiName: 'AavePool'
+  // },
+  {
+    name: 'Balancer',
+    network: 'ethereum',
+    addr: '0xBA12222222228d8Ba445958a75a0704d566BF2C8',
+    abiName: 'BalancerCore'
+  },
+  {
+    name: 'StakeWise',
+    network: 'ethereum',
+    addr: '0xC874b064f465bdD6411D45734b56fac750Cda29A',
+    abiName: 'StakeWiseETH2'
+  },
+  {
+    name: 'Silo',
+    network: 'ethereum',
+    addr: '0x8658047e48cc09161f4152c79155dac1d710ff0a',
+    abiName: 'SiloRouterV2'
+  },
+  {
+    name: 'SiloLlama',
+    network: 'ethereum',
+    addr: '0xF380F025675A868eD5614a1Dd77c6b05f4147004',
+    abiName: 'SiloLlamaRouter'
+  },
+  {
+    name: 'Silo',
+    network: 'arbitrum',
+    addr: '0x9992f660137979C1ca7f8b119Cd16361594E3681',
+    abiName: 'SiloRouter'
+  },
   { name: 'Movr 1inch', network: 'ethereum', addr: '0x8f9eaee5c5df888aba3c1ab19689a0660d042c6d' },
   { name: 'Movr 1inch', network: 'polygon', addr: '0x2fc9c3bf505b74e59a538fe9d67bc1deb4c03d91' },
   {
