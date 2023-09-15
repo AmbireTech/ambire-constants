@@ -12,7 +12,7 @@ const etherscans = {
   avalanche: { host: 'api.snowtrace.io', key: 'PE6FNFM267GVCM3J23QX26J3WWUKI46FJZ' }, 
   moonriver: { host: 'api-moonriver.moonscan.io', key: 'BCVGVFUVUAIEKE914PRQW2RTZUJ8ZB5GS8' },
   moonbeam: { host: 'api-moonbeam.moonscan.io', key: 'UIYN6R2PEUM86KQGIM9AFRFQB5IVQ72SY2' },
-  andromeda: { host: 'andromeda-explorer.metis.io', key: '' }, // @TODO: fix andromeda scan
+  andromeda: { host: 'api.routescan.io/v2/network/mainnet/evm/1088/etherscan', key: '' },
   fantom: { host: 'api.ftmscan.com', key: 'D2UJ8TV1UNUDA4TPWE2DWTPF69PWAJPTNG' },
   gnosis: { host: 'blockscout.com/eth/mainnet', key: ''},
   kucoin: { host: 'api.explorer.kcc.io/vip', key: 'cpzPVTSUT2FowxQOFlIn'},
@@ -512,13 +512,12 @@ const contracts = [
     addr: '0x76D3030728e52DEB8848d5613aBaDE88441cbc59',
     abiName: 'AaveWETHGateway'
   },
-  // @TODO: fix andromeda scan
-  // {
-  //   name: 'Aave',
-  //   network: 'andromeda',
-  //   addr: '0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57',
-  //   abiName: 'AavePool'
-  // },
+  {
+    name: 'Aave',
+    network: 'andromeda',
+    addr: '0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57',
+    abiName: 'AavePool'
+  },
   {
     name: 'Balancer',
     network: 'ethereum',
