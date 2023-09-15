@@ -7,7 +7,18 @@ const packageJson = require('../constants/build-package.json')
 const tokenList = require('../constants/tokenList.json')
 const humanizerInfo = require('../constants/humanizerInfo.json')
 const customTokens = require('../constants/customTokens.json')
-
+// @TODO
+// add dapp selectors
+// add missing names from 
+//Uniswap
+// Cowswap
+// Lido Staking Widget
+// Lido Polygon Staking
+// Paraswap
+// AAVE
+// Balancer
+// Stakewise
+// Silo
 const tokenListToLowerCaseAddresses = {}
 
 Object.keys(tokenList).forEach((key) => {
