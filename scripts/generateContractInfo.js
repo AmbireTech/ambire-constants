@@ -2,6 +2,9 @@
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
+const SWAPPIN_NFT_ABI = require('../abis/SWAPPIN_NFT.json')
+
+const SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR = '0xFd090f34707Ac2cA546a4B442FF708308dEd8909'
 
 const etherscans = {
   ethereum: { host: 'api.etherscan.io', key: 'KJJ4NZ9EQHIFCQY5IJ775PT128YE15AV5S' },
@@ -628,26 +631,14 @@ const contracts = [
   {
     name: 'Swappin',
     network: 'ethereum',
-    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
-    abiName: 'SwappinOwn'
+    addr: '0x0F545C6178830e249117B5162120378735FDD635',
+    abiName: 'SwappinGatewayV2'
   },
   {
     name: 'Swappin',
-    network: 'polygon',
-    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
-    abiName: 'SwappinOwn'
-  },
-  {
-    name: 'Swappin',
-    network: 'bsc',
-    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
-    abiName: 'SwappinOwn'
-  },
-  {
-    name: 'Swappin',
-    network: 'avalanche',
-    addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
-    abiName: 'SwappinOwn'
+    network: 'ethereum',
+    addr: '0xFd090f34707Ac2cA546a4B442FF708308dEd8909',
+    abiName: 'SwappinNFTV2'
   },
   {
     name: 'PancakeFarm',
@@ -1174,14 +1165,24 @@ async function generate() {
   for (let contract of contracts) {
     const { network, addr, abiName, abiAddr } = contract
     if (!abiName) continue
-    const { host, key } = etherscans[network]
-    // @TODO rate limiting
-    const url = (network === 'kucoin') ? 
-      `https://api.explorer.kcc.io/vipapi/contract/getabi?address=${abiAddr || addr}&apikey=${key}` :
-      `https://${host}/api?module=contract&action=getabi&address=${abiAddr || addr}&apikey=${key}`
-    const abiResp = await fetch(url).then((r) => r.json())
-    if (abiResp.status !== '1') throw abiResp
-    abis[abiName] = JSON.parse(abiResp.result)
+    
+    if (addr !== SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR) {
+        const { host, key } = etherscans[network]
+        // @TODO rate limiting
+        const url = (network === 'kucoin') ? 
+          `https://api.explorer.kcc.io/vipapi/contract/getabi?address=${abiAddr || addr}&apikey=${key}` :
+          `https://${host}/api?module=contract&action=getabi&address=${abiAddr || addr}&apikey=${key}`
+        
+      const abiResp = await fetch(url).then((r) => r.json())
+      if (abiResp.status !== '1') throw abiResp
+
+      abis[abiName] = JSON.parse(abiResp.result)
+
+      continue
+    }
+
+    // console.log(SWAPPIN_NFT_ABI)
+    abis[abiName] = SWAPPIN_NFT_ABI
   }
   abis.ERC20 = ERC20
 
