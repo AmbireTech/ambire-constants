@@ -605,6 +605,12 @@ const contracts = [
     abiName: 'WyvernExchange'
   },
   {
+    name: 'OpenSeaDrop',
+    network: 'ethereum',
+    addr: '0x00005ea00ac477b1030ce78506496e8c2de24bf5',
+    abiName: 'OpenSeaDrop'
+  },
+  {
     name: '1inch',
     network: 'ethereum',
     addr: '0x1111111254fb6c44bAC0beD2854e76F90643097d',
