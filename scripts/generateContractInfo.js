@@ -422,7 +422,7 @@ const contracts = [
     abiName: 'UniswapUniversalRouter'
   },
   {
-    name: 'UniswapUniversalRouter',
+    name: 'UniswapUniversalRouter2',
     network: 'polygon',
     addr: '0x643770E279d5D0733F21d6DC03A8efbABf3255B4',
     abiName: 'UniswapUniversalRouter'
