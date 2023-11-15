@@ -1347,8 +1347,14 @@
 			"coingeckoId": "matic-network"
 		},
 		{
-			"address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+			"address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
 			"symbol": "USDC",
+			"decimals": 18,
+			"coingeckoId": "usd-coin"
+		},
+		{
+			"address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+			"symbol": "USDC.e",
 			"decimals": 18,
 			"coingeckoId": "usd-coin"
 		},
@@ -3485,8 +3491,14 @@
 			"decimals": 18
 		},
 		{
-			"address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+			"address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
 			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 6
+		},
+		{
+			"address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+			"symbol": "USDC.e",
 			"coingeckoId": "usd-coin",
 			"decimals": 6
 		},
