@@ -473,11 +473,14 @@ const contracts = [
   { name: 'Permit2', network: 'polygon', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
   { name: 'Permit2', network: 'arbitrum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
   { name: 'Permit2', network: 'optimism', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F' },
-  { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
+  { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F', abiName: 'Sushiswap' },
+  { name: 'SushiSwap', network: 'optimism', addr: '0xEb94EcA012eC0bbB254722FdDa2CE7475875A52B', abiName:'RouteProcessor' },
+  { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506'}, // abi same as eth
+  { name: 'SushiSwap', network: 'polygon', addr: '0xE7eb31f23A5BefEEFf76dbD2ED6AdC822568a5d2' }, // abi same as optimism
   { name: 'SushiSwap', network: 'fantom', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
-  { name: 'SushiSwap', network: 'bsc', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
+  { name: 'SushiSwap', network: 'bsc', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506'},
   { name: 'SushiSwap', network: 'avalanche', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
+  { name: 'BentoBoxV1', network: 'polygon', addr: '0xc35dadb65012ec5796536bd9864ed8773abc74c4' },
   { name: 'QuickSwap', network: 'polygon', addr: '0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff' },
   {
     name: 'Wrapped ETH',
@@ -1185,12 +1188,11 @@ async function generate() {
     if (!abiName) continue
     
     if (addr !== SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR) {
-        const { host, key } = etherscans[network]
-        // @TODO rate limiting
-        const url = (network === 'kucoin') ? 
-          `https://api.explorer.kcc.io/vipapi/contract/getabi?address=${abiAddr || addr}&apikey=${key}` :
-          `https://${host}/api?module=contract&action=getabi&address=${abiAddr || addr}&apikey=${key}`
-        
+      const { host, key } = etherscans[network]
+      // @TODO rate limiting
+      const url = (network === 'kucoin') ? 
+        `https://api.explorer.kcc.io/vipapi/contract/getabi?address=${abiAddr || addr}&apikey=${key}` :
+        `https://${host}/api?module=contract&action=getabi&address=${abiAddr || addr}&apikey=${key}`
       const abiResp = await fetch(url).then((r) => r.json())
       if (abiResp.status !== '1') throw abiResp
 
