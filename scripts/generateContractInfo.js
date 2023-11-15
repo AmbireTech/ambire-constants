@@ -480,6 +480,7 @@ const contracts = [
   { name: 'SushiSwap', network: 'fantom', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
   { name: 'SushiSwap', network: 'bsc', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506'},
   { name: 'SushiSwap', network: 'avalanche', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506' },
+  { name: 'BentoBoxV1', network: 'polygon', addr: '0xc35dadb65012ec5796536bd9864ed8773abc74c4' },
   { name: 'QuickSwap', network: 'polygon', addr: '0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff' },
   {
     name: 'Wrapped ETH',
