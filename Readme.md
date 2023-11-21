@@ -25,11 +25,11 @@ The project uses [Yarn](https://yarnpkg.com/).
 
 ## 🆕 Steps to update constants 🆕
 
-1. `tokenList.json` and `WALLETInitialClaimableRewards.json` - these files must be updated manually
-2. `humanizerInfo.json`- in order to update this file you have to make changes in the file `scripts/generateContractInfo`. To apply your changes to `humanizerInfo.json` you have to run `yarn run generate:contractInfo`.
+1. `tokenList.json` - updated manually. **Don't forget to run `yarn generate:contractInfo && yarn build` after you update it**. This is because humanizerInfo has a property called `tokenList` that depends on `tokenList.json`.
+2. `humanizerInfo.json`- in order to update this file you have to make changes in `scripts/generateContractInfo`. To apply your changes to `humanizerInfo.json` run `yarn run generate:contractInfo`.
 3. Build your changes by running `yarn run build`. This creates a new file `result.json` in the `build/` folder, copies `adexToStakingTransfers.json` and updates `cache.json`. (The github action will automatically build the changes, but you still have to build locally in order to test them)
-4. See "Testing the changes" section.
-5. Open a PR with your changes. **This PR should be tested by the web and mobile app developers.**
+4. See the section "Testing the changes".
+5. Open a PR with your changes. **This PR should be tested by both the web and mobile app team.**
 
 ## 💻 Testing the changes 💻
 
