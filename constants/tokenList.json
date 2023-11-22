@@ -973,8 +973,14 @@
 			"coingeckoId": "binance-usd"
 		},
 		{
-			"address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
 			"symbol": "USDC",
+			"decimals": 6,
+			"coingeckoId": "usd-coin"
+		},
+		{
+			"address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"symbol": "USDC.e",
 			"decimals": 6,
 			"coingeckoId": "usd-coin"
 		},
@@ -1791,6 +1797,18 @@
 			"symbol": "USDC",
 			"decimals": 6,
 			"coingeckoId": "usd-coin"
+		},
+		{
+			"address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+			"symbol": "USDT.e",
+			"decimals": 6,
+			"coingeckoId": "tether-avalanche-bridged-usdt-e"
+		},
+		{
+			"address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+			"symbol": "USDT",
+			"decimals": 6,
+			"coingeckoId": "tether"
 		},
 		{
 			"address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
@@ -3485,8 +3503,14 @@
 			"decimals": 18
 		},
 		{
-			"address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+			"address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
 			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 6
+		},
+		{
+			"address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+			"symbol": "USDC.e",
 			"coingeckoId": "usd-coin",
 			"decimals": 6
 		},
@@ -3501,6 +3525,12 @@
 			"symbol": "USDT",
 			"coingeckoId": "tether",
 			"decimals": 6
+		},
+		{
+			"address": "0x920cf626a271321c151d027030d5d08af699456b",
+			"symbol": "KWENTA",
+			"coingeckoId": "kwenta",
+			"decimals": 18
 		}
 	],
 	"arbitrum": [
@@ -3544,6 +3574,24 @@
 			"address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
 			"symbol": "ARB",
 			"coingeckoId": "arbitrum",
+			"decimals": 18
+		},
+		{
+			"address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+			"symbol": "AAVE",
+			"coingeckoId": "aave",
+			"decimals": 18
+		},
+		{
+			"address": "0x561877b6b3dd7651313794e5f2894b2f18be0766",
+			"symbol": "MATIC",
+			"coingeckoId": "matic-network",
+			"decimals": 18
+		},
+		{
+			"address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879",
+			"symbol": "MKR",
+			"coingeckoId": "maker",
 			"decimals": 18
 		}
 	],
