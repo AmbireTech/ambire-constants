@@ -3599,6 +3599,12 @@
 			"symbol": "JOE",
 			"coingeckoId": "joe",
 			"decimals": 18
+		},
+		{
+			"address": "0x95146881b86B3ee99e63705eC87AfE29Fcc044D9",
+			"symbol": "VRTX",
+			"coingeckoId": "vertex-protocol",
+			"decimals": 18
 		}
 	],
 	"rinkeby": [
