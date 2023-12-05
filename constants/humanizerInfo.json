@@ -56498,7 +56498,8 @@
     "0xb16c1342e617a5b6e4b631eb114483fdb289c0a4": "SudoSwapFactory",
     "0x2b2e8cda09bba9660dca5cb6233787738ad68329": "SudoSwapRouter",
     "0x08ce97807a81896e85841d74fb7e7b065ab3ef05": "LSSVMPairEnumerableETH",
-    "0x942f9ce5d9a33a82f88d233aeb3292e680230348": "Gas Tank"
+    "0x942f9ce5d9a33a82f88d233aeb3292e680230348": "Gas Tank",
+    "0x3a23F943181408EAC424116Af7b7790c94Cb97a5": "SocketGateway"
   },
   "yearnVaults": [
     {
