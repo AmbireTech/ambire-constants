@@ -685,6 +685,36 @@ const contracts = [
     addr: '0x08ce97807a81896e85841d74fb7e7b065ab3ef05',
     abiName: 'LSSVMPairEnumerableETH'
   },
+  {
+    name: 'Mean finance',
+    network: 'ethereum',
+    addr: '0xA5AdC5484f9997fBF7D405b9AA62A7d88883C345',
+    abiName: 'MeanFinance'
+  } ,
+  {
+    name: 'GMXPositionRouter',
+    network: 'avalanche',
+    addr: '0xffF6D276Bc37c61A23f06410Dce4A400f66420f8',
+    abiName: 'GMXPositionRouter'
+  },
+  {
+    name: 'GMXOrderHandler',
+    network: 'arbitrum',
+    addr: '0x352f684ab9e97a6321a13cf03a61316b681d9fd2',
+    abiName: 'GMXOrderHandler'
+  },
+  {
+    name: 'ExchangeRouter',
+    network: 'arbitrum',
+    addr: '0x7C68C7866A64FA2160F78EEaE12217FFbf871fa8',
+    abiName: 'ExchangeRouter'
+  },
+  {
+    name: 'SocketGateway',
+    network: 'ethereum',
+    addr: '0x3a23F943181408EAC424116Af7b7790c94Cb97a5',
+    abiName: 'SocketGateway'
+  },
   { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' }
 ]
 const tokenlists = [
