@@ -692,6 +692,12 @@ const contracts = [
     abiName: 'MeanFinance'
   } ,
   {
+    name:'DCAHub Companion',
+    network: 'ethereum',
+    addr: '0xDf0dbc66f85979a1d54671c4D9e439F306Be27EE',
+    abiName: 'DCAHubCompanion'
+  } ,
+  {
     name: 'GMXPositionRouter',
     network: 'avalanche',
     addr: '0xffF6D276Bc37c61A23f06410Dce4A400f66420f8',

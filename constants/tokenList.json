@@ -3623,6 +3623,12 @@
 			"symbol": "USDC",
 			"coingeckoId": "usd-coin",
 			"decimals": 6
+		},
+		{
+			"address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+			"symbol": "WBTC",
+			"coingeckoId": "wrapped-bitcoin",
+			"decimals": 8
 		}
 	],
 	"rinkeby": [
