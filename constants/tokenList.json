@@ -3531,6 +3531,12 @@
 			"symbol": "KWENTA",
 			"coingeckoId": "kwenta",
 			"decimals": 18
+		},
+		{
+			"address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+			"symbol": "rETH",
+			"coingeckoId": "rocket-pool-eth",
+			"decimals": 18
 		}
 	],
 	"arbitrum": [
@@ -3599,6 +3605,30 @@
 			"symbol": "JOE",
 			"coingeckoId": "joe",
 			"decimals": 18
+		},
+		{
+			"address": "0x95146881b86B3ee99e63705eC87AfE29Fcc044D9",
+			"symbol": "VRTX",
+			"coingeckoId": "vertex-protocol",
+			"decimals": 18
+		},
+		{
+			"address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
+			"symbol": "SOL",
+			"coingeckoId": "wrapped-solana",
+			"decimals": 9
+		},
+		{
+			"address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 6
+		},
+		{
+			"address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+			"symbol": "WBTC",
+			"coingeckoId": "wrapped-bitcoin",
+			"decimals": 8
 		}
 	],
 	"rinkeby": [
