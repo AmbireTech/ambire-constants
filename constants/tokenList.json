@@ -2199,7 +2199,25 @@
 			"symbol": "YFI",
 			"decimals": 18,
 			"coingeckoId": "yearn-finance"
-		}
+		},
+		{
+			"address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+			"symbol": "WAVAX",
+			"decimals": 18,
+			"coingeckoId": "wrapped-avax"
+		},
+		{
+			"address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+			"symbol": "USDC",
+			"decimals": 6,
+			"coingeckoId": "usd-coin"
+		},
+		{
+			"address": "0x420FcA0121DC28039145009570975747295f2329",
+			"symbol": "COQ",
+			"decimals": 18,
+			"coingeckoId": "coq-inu"
+		}	
 	],
 	"fantom": [
 		{
