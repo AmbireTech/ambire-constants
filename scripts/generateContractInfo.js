@@ -749,7 +749,13 @@ const contracts = [
     network: 'ethereum',
     addr: '0x6c25aebd494a9984a3d7c8cf395c8713e0c74d98',
     abiName: 'LidoStMATIC'
-  }
+  },
+  {
+		name: 'Swappin',
+		network: 'ethereum',
+		addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
+		abiName: 'SwappinOwn'
+	}
 ]
 const tokenlists = [
   'https://github.com/trustwallet/assets/raw/master/blockchains/ethereum/tokenlist.json',
