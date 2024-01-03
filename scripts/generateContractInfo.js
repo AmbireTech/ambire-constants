@@ -734,7 +734,7 @@ const contracts = [
     addr: '0xae7ab96520de3a18e5e111b5eaab095312d7fe84',
   },
   {
-    name: 'Lido Staking Ethe Implementation',
+    name: 'Lido Staking Ether Implementation',
     network: 'ethereum',
     addr: '0x17144556fd3424edc8fc8a4c940b2d04936d17eb',
     abiName: 'LidoStETH'
