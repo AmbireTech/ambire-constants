@@ -15,6 +15,7 @@ const etherscans = {
   avalanche: { host: 'api.snowtrace.io', key: 'PE6FNFM267GVCM3J23QX26J3WWUKI46FJZ' }, 
   moonriver: { host: 'api-moonriver.moonscan.io', key: 'BCVGVFUVUAIEKE914PRQW2RTZUJ8ZB5GS8' },
   moonbeam: { host: 'api-moonbeam.moonscan.io', key: 'UIYN6R2PEUM86KQGIM9AFRFQB5IVQ72SY2' },
+  // restricted, might need paid key if we want abis
   andromeda: { host: 'api.routescan.io/v2/network/mainnet/evm/1088/etherscan', key: '' },
   fantom: { host: 'api.ftmscan.com', key: 'D2UJ8TV1UNUDA4TPWE2DWTPF69PWAJPTNG' },
   gnosis: { host: 'blockscout.com/eth/mainnet', key: ''},
@@ -534,7 +535,6 @@ const contracts = [
     name: 'Aave',
     network: 'andromeda',
     addr: '0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57',
-    abiName: 'AavePool'
   },
   {
     name: 'Balancer',
@@ -721,7 +721,35 @@ const contracts = [
     addr: '0x3a23F943181408EAC424116Af7b7790c94Cb97a5',
     abiName: 'SocketGateway'
   },
-  { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' }
+  { name: 'Gas Tank', addr: '0x942f9CE5D9a33a82F88D233AEb3292E680230348' },
+  {
+    name: 'Joe Router',
+    network: 'avalanche',
+    addr: '0x60aE616a2155Ee3d9A68541Ba4544862310933d4',
+    abiName: 'JoeRouter'
+  },
+  {
+    name: 'Lido Staking Ether',
+    network: 'ethereum',
+    addr: '0xae7ab96520de3a18e5e111b5eaab095312d7fe84',
+  },
+  {
+    name: 'Lido Staking Ethe Implementation',
+    network: 'ethereum',
+    addr: '0x17144556fd3424edc8fc8a4c940b2d04936d17eb',
+    abiName: 'LidoStETH'
+  },
+  {
+    name: 'Lido Staking Matic',
+    network: 'ethereum',
+    addr: '0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599',
+  },
+  {
+    name: 'Lido Staking Matic Implementation',
+    network: 'ethereum',
+    addr: '0x6c25aebd494a9984a3d7c8cf395c8713e0c74d98',
+    abiName: 'LidoStMATIC'
+  }
 ]
 const tokenlists = [
   'https://github.com/trustwallet/assets/raw/master/blockchains/ethereum/tokenlist.json',
@@ -1222,7 +1250,7 @@ async function generate() {
   for (let contract of contracts) {
     const { network, addr, abiName, abiAddr } = contract
     if (!abiName) continue
-    
+
     if (addr !== SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR) {
       const { host, key } = etherscans[network]
       // @TODO rate limiting
