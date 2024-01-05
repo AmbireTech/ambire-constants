@@ -755,6 +755,12 @@ const contracts = [
 		network: 'ethereum',
 		addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
 		abiName: 'SwappinOwn'
+	},
+  {
+		name: 'Stargate Implementation L2 V2',
+		network: 'ethereum',
+		addr: '0xa3c4e32af0da5efaddb20cc9fb26159f55c8c42f',
+		abiName: 'StargateImplL2V2'
 	}
 ]
 const tokenlists = [
