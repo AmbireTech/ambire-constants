@@ -734,7 +734,7 @@ const contracts = [
     addr: '0xae7ab96520de3a18e5e111b5eaab095312d7fe84',
   },
   {
-    name: 'Lido Staking Ethe Implementation',
+    name: 'Lido Staking Ether Implementation',
     network: 'ethereum',
     addr: '0x17144556fd3424edc8fc8a4c940b2d04936d17eb',
     abiName: 'LidoStETH'
@@ -749,7 +749,19 @@ const contracts = [
     network: 'ethereum',
     addr: '0x6c25aebd494a9984a3d7c8cf395c8713e0c74d98',
     abiName: 'LidoStMATIC'
-  }
+  },
+  {
+		name: 'Swappin',
+		network: 'ethereum',
+		addr: '0x0c2de78e008020500c38e76e2956ae4a81c5124c',
+		abiName: 'SwappinOwn'
+	},
+  {
+		name: 'Stargate Implementation L2 V2',
+		network: 'ethereum',
+		addr: '0xa3c4e32af0da5efaddb20cc9fb26159f55c8c42f',
+		abiName: 'StargateImplL2V2'
+	}
 ]
 const tokenlists = [
   'https://github.com/trustwallet/assets/raw/master/blockchains/ethereum/tokenlist.json',
