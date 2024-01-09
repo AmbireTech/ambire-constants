@@ -716,6 +716,11 @@ const contracts = [
     abiName: 'ExchangeRouter'
   },
   {
+    name: 'ExchangeRouter',
+    network: 'avalanche',
+    addr: '0x11e590f6092d557bf71baded50d81521674f8275',
+  },
+  {
     name: 'SocketGateway',
     network: 'ethereum',
     addr: '0x3a23F943181408EAC424116Af7b7790c94Cb97a5',
@@ -761,7 +766,7 @@ const contracts = [
 		network: 'ethereum',
 		addr: '0xa3c4e32af0da5efaddb20cc9fb26159f55c8c42f',
 		abiName: 'StargateImplL2V2'
-	}
+	},
 ]
 const tokenlists = [
   'https://github.com/trustwallet/assets/raw/master/blockchains/ethereum/tokenlist.json',
