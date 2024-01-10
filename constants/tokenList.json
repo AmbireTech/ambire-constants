@@ -945,6 +945,12 @@
 			"symbol": "YVE-crvdao",
 			"decimals": 18,
 			"coingeckoId": "vecrv-dao-yvault"
+		},
+		{
+			"address": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+			"symbol": "LADYS",
+			"coingeckoId": "milady-meme-coin",
+			"decimals": 18
 		}
 	],
 	"polygon": [
@@ -2365,6 +2371,30 @@
 			"symbol": "vesolar",
 			"coingeckoId": "vested-solarbeam",
 			"decimals": 18
+		},
+		{
+			"address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+			"symbol": "madUSDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 18
+		},
+		{
+			"address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 18
+		},
+		{
+			"address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 18
+		},
+		{
+			"address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+			"symbol": "DAI",
+			"coingeckoId": "dai",
+			"decimals": 18
 		}
 	],
 	"moonriver": [
@@ -2534,6 +2564,18 @@
 			"address": "0xd5059d18a77b3fdfa524ef3dfc03fef63165c908",
 			"symbol": "seeds",
 			"coingeckoId": "moonseeds",
+			"decimals": 18
+		},
+		{
+			"address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 18
+		},
+		{
+			"address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+			"symbol": "DAI",
+			"coingeckoId": "dai",
 			"decimals": 18
 		}
 	],
@@ -2711,6 +2753,18 @@
 			"symbol": "sgno",
 			"coingeckoId": "stakewise-staked-gno",
 			"decimals": 18
+		},
+		{
+			"address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 6
+		},
+		{
+			"address": "0x44fA8E6f47987339850636F88629646662444217",
+			"symbol": "DAI",
+			"coingeckoId": "dai",
+			"decimals": 18
 		}
 	],
 	"kucoin": [
@@ -2748,6 +2802,18 @@
 			"address": "0xd0f2e8cf77c1d3dcc4d2d03f99d959bb5ce496bf",
 			"symbol": "cooha",
 			"coingeckoId": "coolmining",
+			"decimals": 18
+		},
+		{
+			"address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+			"symbol": "USDC",
+			"coingeckoId": "usdc-coin",
+			"decimals": 18
+		},
+		{
+			"address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+			"symbol": "DAI",
+			"coingeckoId": "dai",
 			"decimals": 18
 		}
 	],
@@ -2930,6 +2996,18 @@
 			"address": "0x68e401b61ea53889505cc1366710f733a60c2d41",
 			"symbol": "shitzu",
 			"coingeckoId": "shitzu",
+			"decimals": 18
+		},
+		{
+			"address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+			"symbol": "USDC",
+			"decimals": 6,
+			"coingeckoId": "usd-coin"
+		},
+		{
+			"address": "0xe3520349f477a5f6eb06107066048508498a291b",
+			"symbol": "DAI",
+			"coingeckoId": "dai",
 			"decimals": 18
 		}
 	],
@@ -3341,6 +3419,18 @@
 			"symbol": "tiger",
 			"coingeckoId": "tiger-shares",
 			"decimals": 18
+		},
+		{
+			"address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+			"symbol": "USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 6
+		},
+		{
+			"address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+			"symbol": "DAI",
+			"coingeckoId": "dai",
+			"decimals": 18
 		}
 	],
 	"andromeda": [
@@ -3505,6 +3595,18 @@
 			"symbol": "pro",
 			"coingeckoId": "prometheus-token",
 			"decimals": 18
+		},
+		{
+			"address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+			"symbol": "m.USDC",
+			"coingeckoId": "usd-coin",
+			"decimals": 6
+		},
+		{
+			"address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
+			"symbol": "m.DAI",
+			"coingeckoId": "dai",
+			"decimals": 18
 		}
 	],
 	"optimism": [
@@ -3653,6 +3755,12 @@
 			"symbol": "WBTC",
 			"coingeckoId": "wrapped-bitcoin",
 			"decimals": 8
+		},
+		{
+			"address": "0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E",
+			"symbol": "LADYS",
+			"coingeckoId": "milady-meme-coin",
+			"decimals": 18
 		}
 	],
 	"rinkeby": [
@@ -3695,11 +3803,18 @@
 			"symbol": "USDbC",
 			"decimals": 6,
 			"coingeckoId": "bridged-usd-coin-base"
-		},{
+		},
+		{
 			"address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
 			"symbol": "DAI",
 			"decimals": 18,
 			"coingeckoId": "dai"
+		},
+		{
+			"address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+			"symbol": "USDC",
+			"decimals": 6,
+			"coingeckoId": "usd-coin"
 		}
 	],
 	"sepolia": [
