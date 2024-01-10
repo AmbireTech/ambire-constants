@@ -1789,6 +1789,12 @@
 			"symbol":"AAVE",
 			"decimals": 18,
 			"coingeckoId": "aave"
+		},
+		{
+			"address":"0x55d398326f99059ff775485246999027b3197955",
+			"symbol":"USDT",
+			"decimals": 18,
+			"coingeckoId": "tether"
 		}
 	],
 	"avalanche": [

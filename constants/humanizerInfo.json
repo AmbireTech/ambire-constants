@@ -39311,6 +39311,2033 @@
         "type": "event"
       }
     ],
+    "unstETH": [
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_wstETH",
+            "type": "address"
+          },
+          {
+            "internalType": "string",
+            "name": "_name",
+            "type": "string"
+          },
+          {
+            "internalType": "string",
+            "name": "_symbol",
+            "type": "string"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+      },
+      {
+        "inputs": [],
+        "name": "AdminZeroAddress",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ApprovalToOwner",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ApproveToCaller",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_firstArrayLength",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_secondArrayLength",
+            "type": "uint256"
+          }
+        ],
+        "name": "ArraysLengthMismatch",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "BatchesAreNotSorted",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "CantSendValueRecipientMayHaveReverted",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "EmptyBatches",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "InvalidContractVersionIncrement",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_hint",
+            "type": "uint256"
+          }
+        ],
+        "name": "InvalidHint",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "InvalidOwnerAddress",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "InvalidReportTimestamp",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "InvalidRequestId",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "startId",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "endId",
+            "type": "uint256"
+          }
+        ],
+        "name": "InvalidRequestIdRange",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "InvalidState",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "NonZeroContractVersionOnInit",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "NotEnoughEther",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_sender",
+            "type": "address"
+          },
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          }
+        ],
+        "name": "NotOwner",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "sender",
+            "type": "address"
+          }
+        ],
+        "name": "NotOwnerOrApproved",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "sender",
+            "type": "address"
+          }
+        ],
+        "name": "NotOwnerOrApprovedForAll",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "PauseUntilMustBeInFuture",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "PausedExpected",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "RequestAlreadyClaimed",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_amountOfStETH",
+            "type": "uint256"
+          }
+        ],
+        "name": "RequestAmountTooLarge",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_amountOfStETH",
+            "type": "uint256"
+          }
+        ],
+        "name": "RequestAmountTooSmall",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "RequestIdsNotSorted",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "RequestNotFoundOrNotFinalized",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ResumedExpected",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "string",
+            "name": "str",
+            "type": "string"
+          }
+        ],
+        "name": "StringTooLong",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "sent",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "maxExpected",
+            "type": "uint256"
+          }
+        ],
+        "name": "TooMuchEtherToFinalize",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "from",
+            "type": "address"
+          },
+          {
+            "internalType": "address",
+            "name": "realOwner",
+            "type": "address"
+          }
+        ],
+        "name": "TransferFromIncorrectOwner",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "TransferFromZeroAddress",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "TransferToNonIERC721Receiver",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "TransferToThemselves",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "TransferToZeroAddress",
+        "type": "error"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "expected",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "received",
+            "type": "uint256"
+          }
+        ],
+        "name": "UnexpectedContractVersion",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ZeroAmountOfETH",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ZeroMetadata",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ZeroPauseDuration",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ZeroRecipient",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ZeroShareRate",
+        "type": "error"
+      },
+      {
+        "inputs": [],
+        "name": "ZeroTimestamp",
+        "type": "error"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "owner",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "approved",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "uint256",
+            "name": "tokenId",
+            "type": "uint256"
+          }
+        ],
+        "name": "Approval",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "owner",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "operator",
+            "type": "address"
+          },
+          {
+            "indexed": false,
+            "internalType": "bool",
+            "name": "approved",
+            "type": "bool"
+          }
+        ],
+        "name": "ApprovalForAll",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "string",
+            "name": "baseURI",
+            "type": "string"
+          }
+        ],
+        "name": "BaseURISet",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "_fromTokenId",
+            "type": "uint256"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "_toTokenId",
+            "type": "uint256"
+          }
+        ],
+        "name": "BatchMetadataUpdate",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [],
+        "name": "BunkerModeDisabled",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "_sinceTimestamp",
+            "type": "uint256"
+          }
+        ],
+        "name": "BunkerModeEnabled",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "version",
+            "type": "uint256"
+          }
+        ],
+        "name": "ContractVersionSet",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "address",
+            "name": "_admin",
+            "type": "address"
+          }
+        ],
+        "name": "InitializedV1",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "_tokenId",
+            "type": "uint256"
+          }
+        ],
+        "name": "MetadataUpdate",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "address",
+            "name": "nftDescriptorAddress",
+            "type": "address"
+          }
+        ],
+        "name": "NftDescriptorAddressSet",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "duration",
+            "type": "uint256"
+          }
+        ],
+        "name": "Paused",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [],
+        "name": "Resumed",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "indexed": true,
+            "internalType": "bytes32",
+            "name": "previousAdminRole",
+            "type": "bytes32"
+          },
+          {
+            "indexed": true,
+            "internalType": "bytes32",
+            "name": "newAdminRole",
+            "type": "bytes32"
+          }
+        ],
+        "name": "RoleAdminChanged",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "account",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "sender",
+            "type": "address"
+          }
+        ],
+        "name": "RoleGranted",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "account",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "sender",
+            "type": "address"
+          }
+        ],
+        "name": "RoleRevoked",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "from",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "to",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "uint256",
+            "name": "tokenId",
+            "type": "uint256"
+          }
+        ],
+        "name": "Transfer",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "uint256",
+            "name": "requestId",
+            "type": "uint256"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "owner",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "receiver",
+            "type": "address"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "amountOfETH",
+            "type": "uint256"
+          }
+        ],
+        "name": "WithdrawalClaimed",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "uint256",
+            "name": "requestId",
+            "type": "uint256"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "requestor",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "owner",
+            "type": "address"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "amountOfStETH",
+            "type": "uint256"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "amountOfShares",
+            "type": "uint256"
+          }
+        ],
+        "name": "WithdrawalRequested",
+        "type": "event"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "uint256",
+            "name": "from",
+            "type": "uint256"
+          },
+          {
+            "indexed": true,
+            "internalType": "uint256",
+            "name": "to",
+            "type": "uint256"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "amountOfETHLocked",
+            "type": "uint256"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "sharesToBurn",
+            "type": "uint256"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "timestamp",
+            "type": "uint256"
+          }
+        ],
+        "name": "WithdrawalsFinalized",
+        "type": "event"
+      },
+      {
+        "inputs": [],
+        "name": "BUNKER_MODE_DISABLED_TIMESTAMP",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "DEFAULT_ADMIN_ROLE",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "FINALIZE_ROLE",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "MANAGE_TOKEN_URI_ROLE",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "MAX_BATCHES_LENGTH",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "MAX_STETH_WITHDRAWAL_AMOUNT",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "MIN_STETH_WITHDRAWAL_AMOUNT",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "ORACLE_ROLE",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "PAUSE_INFINITELY",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "PAUSE_ROLE",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "RESUME_ROLE",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "STETH",
+        "outputs": [
+          {
+            "internalType": "contract IStETH",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "WSTETH",
+        "outputs": [
+          {
+            "internalType": "contract IWstETH",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_to",
+            "type": "address"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "approve",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          }
+        ],
+        "name": "balanceOf",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "bunkerModeSinceTimestamp",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_maxShareRate",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_maxTimestamp",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_maxRequestsPerCall",
+            "type": "uint256"
+          },
+          {
+            "components": [
+              {
+                "internalType": "uint256",
+                "name": "remainingEthBudget",
+                "type": "uint256"
+              },
+              {
+                "internalType": "bool",
+                "name": "finished",
+                "type": "bool"
+              },
+              {
+                "internalType": "uint256[36]",
+                "name": "batches",
+                "type": "uint256[36]"
+              },
+              {
+                "internalType": "uint256",
+                "name": "batchesLength",
+                "type": "uint256"
+              }
+            ],
+            "internalType": "struct WithdrawalQueueBase.BatchesCalculationState",
+            "name": "_state",
+            "type": "tuple"
+          }
+        ],
+        "name": "calculateFinalizationBatches",
+        "outputs": [
+          {
+            "components": [
+              {
+                "internalType": "uint256",
+                "name": "remainingEthBudget",
+                "type": "uint256"
+              },
+              {
+                "internalType": "bool",
+                "name": "finished",
+                "type": "bool"
+              },
+              {
+                "internalType": "uint256[36]",
+                "name": "batches",
+                "type": "uint256[36]"
+              },
+              {
+                "internalType": "uint256",
+                "name": "batchesLength",
+                "type": "uint256"
+              }
+            ],
+            "internalType": "struct WithdrawalQueueBase.BatchesCalculationState",
+            "name": "",
+            "type": "tuple"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "claimWithdrawal",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_requestIds",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "uint256[]",
+            "name": "_hints",
+            "type": "uint256[]"
+          }
+        ],
+        "name": "claimWithdrawals",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_requestIds",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "uint256[]",
+            "name": "_hints",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "address",
+            "name": "_recipient",
+            "type": "address"
+          }
+        ],
+        "name": "claimWithdrawalsTo",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_lastRequestIdToBeFinalized",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_maxShareRate",
+            "type": "uint256"
+          }
+        ],
+        "name": "finalize",
+        "outputs": [],
+        "stateMutability": "payable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_requestIds",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_firstIndex",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_lastIndex",
+            "type": "uint256"
+          }
+        ],
+        "name": "findCheckpointHints",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "hintIds",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "getApproved",
+        "outputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getBaseURI",
+        "outputs": [
+          {
+            "internalType": "string",
+            "name": "",
+            "type": "string"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_requestIds",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "uint256[]",
+            "name": "_hints",
+            "type": "uint256[]"
+          }
+        ],
+        "name": "getClaimableEther",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "claimableEthValues",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getContractVersion",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getLastCheckpointIndex",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getLastFinalizedRequestId",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getLastRequestId",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getLockedEtherAmount",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getNFTDescriptorAddress",
+        "outputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "getResumeSinceTimestamp",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          }
+        ],
+        "name": "getRoleAdmin",
+        "outputs": [
+          {
+            "internalType": "bytes32",
+            "name": "",
+            "type": "bytes32"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "uint256",
+            "name": "index",
+            "type": "uint256"
+          }
+        ],
+        "name": "getRoleMember",
+        "outputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          }
+        ],
+        "name": "getRoleMemberCount",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          }
+        ],
+        "name": "getWithdrawalRequests",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "requestsIds",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_requestIds",
+            "type": "uint256[]"
+          }
+        ],
+        "name": "getWithdrawalStatus",
+        "outputs": [
+          {
+            "components": [
+              {
+                "internalType": "uint256",
+                "name": "amountOfStETH",
+                "type": "uint256"
+              },
+              {
+                "internalType": "uint256",
+                "name": "amountOfShares",
+                "type": "uint256"
+              },
+              {
+                "internalType": "address",
+                "name": "owner",
+                "type": "address"
+              },
+              {
+                "internalType": "uint256",
+                "name": "timestamp",
+                "type": "uint256"
+              },
+              {
+                "internalType": "bool",
+                "name": "isFinalized",
+                "type": "bool"
+              },
+              {
+                "internalType": "bool",
+                "name": "isClaimed",
+                "type": "bool"
+              }
+            ],
+            "internalType": "struct WithdrawalQueueBase.WithdrawalRequestStatus[]",
+            "name": "statuses",
+            "type": "tuple[]"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "address",
+            "name": "account",
+            "type": "address"
+          }
+        ],
+        "name": "grantRole",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "address",
+            "name": "account",
+            "type": "address"
+          }
+        ],
+        "name": "hasRole",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_admin",
+            "type": "address"
+          }
+        ],
+        "name": "initialize",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          },
+          {
+            "internalType": "address",
+            "name": "_operator",
+            "type": "address"
+          }
+        ],
+        "name": "isApprovedForAll",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "isBunkerModeActive",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "isPaused",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "name",
+        "outputs": [
+          {
+            "internalType": "string",
+            "name": "",
+            "type": "string"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bool",
+            "name": "_isBunkerModeNow",
+            "type": "bool"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_bunkerStartTimestamp",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_currentReportTimestamp",
+            "type": "uint256"
+          }
+        ],
+        "name": "onOracleReport",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "ownerOf",
+        "outputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_duration",
+            "type": "uint256"
+          }
+        ],
+        "name": "pauseFor",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_pauseUntilInclusive",
+            "type": "uint256"
+          }
+        ],
+        "name": "pauseUntil",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_batches",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_maxShareRate",
+            "type": "uint256"
+          }
+        ],
+        "name": "prefinalize",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "ethToLock",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "sharesToBurn",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "address",
+            "name": "account",
+            "type": "address"
+          }
+        ],
+        "name": "renounceRole",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_amounts",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          }
+        ],
+        "name": "requestWithdrawals",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "requestIds",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_amounts",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          },
+          {
+            "components": [
+              {
+                "internalType": "uint256",
+                "name": "value",
+                "type": "uint256"
+              },
+              {
+                "internalType": "uint256",
+                "name": "deadline",
+                "type": "uint256"
+              },
+              {
+                "internalType": "uint8",
+                "name": "v",
+                "type": "uint8"
+              },
+              {
+                "internalType": "bytes32",
+                "name": "r",
+                "type": "bytes32"
+              },
+              {
+                "internalType": "bytes32",
+                "name": "s",
+                "type": "bytes32"
+              }
+            ],
+            "internalType": "struct WithdrawalQueue.PermitInput",
+            "name": "_permit",
+            "type": "tuple"
+          }
+        ],
+        "name": "requestWithdrawalsWithPermit",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "requestIds",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_amounts",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          }
+        ],
+        "name": "requestWithdrawalsWstETH",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "requestIds",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "_amounts",
+            "type": "uint256[]"
+          },
+          {
+            "internalType": "address",
+            "name": "_owner",
+            "type": "address"
+          },
+          {
+            "components": [
+              {
+                "internalType": "uint256",
+                "name": "value",
+                "type": "uint256"
+              },
+              {
+                "internalType": "uint256",
+                "name": "deadline",
+                "type": "uint256"
+              },
+              {
+                "internalType": "uint8",
+                "name": "v",
+                "type": "uint8"
+              },
+              {
+                "internalType": "bytes32",
+                "name": "r",
+                "type": "bytes32"
+              },
+              {
+                "internalType": "bytes32",
+                "name": "s",
+                "type": "bytes32"
+              }
+            ],
+            "internalType": "struct WithdrawalQueue.PermitInput",
+            "name": "_permit",
+            "type": "tuple"
+          }
+        ],
+        "name": "requestWithdrawalsWstETHWithPermit",
+        "outputs": [
+          {
+            "internalType": "uint256[]",
+            "name": "requestIds",
+            "type": "uint256[]"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "resume",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes32",
+            "name": "role",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "address",
+            "name": "account",
+            "type": "address"
+          }
+        ],
+        "name": "revokeRole",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_from",
+            "type": "address"
+          },
+          {
+            "internalType": "address",
+            "name": "_to",
+            "type": "address"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "safeTransferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_from",
+            "type": "address"
+          },
+          {
+            "internalType": "address",
+            "name": "_to",
+            "type": "address"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          },
+          {
+            "internalType": "bytes",
+            "name": "_data",
+            "type": "bytes"
+          }
+        ],
+        "name": "safeTransferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_operator",
+            "type": "address"
+          },
+          {
+            "internalType": "bool",
+            "name": "_approved",
+            "type": "bool"
+          }
+        ],
+        "name": "setApprovalForAll",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "string",
+            "name": "_baseURI",
+            "type": "string"
+          }
+        ],
+        "name": "setBaseURI",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_nftDescriptorAddress",
+            "type": "address"
+          }
+        ],
+        "name": "setNFTDescriptorAddress",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "bytes4",
+            "name": "interfaceId",
+            "type": "bytes4"
+          }
+        ],
+        "name": "supportsInterface",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "symbol",
+        "outputs": [
+          {
+            "internalType": "string",
+            "name": "",
+            "type": "string"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "tokenURI",
+        "outputs": [
+          {
+            "internalType": "string",
+            "name": "",
+            "type": "string"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_from",
+            "type": "address"
+          },
+          {
+            "internalType": "address",
+            "name": "_to",
+            "type": "address"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_requestId",
+            "type": "uint256"
+          }
+        ],
+        "name": "transferFrom",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "unfinalizedRequestNumber",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "unfinalizedStETH",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ],
     "LidoStMATIC": [
       {
         "anonymous": false,
@@ -68916,10 +70943,6 @@
       "fxTETU",
       18
     ],
-    "0x55d398326f99059ff775485246999027b3197955": [
-      "USDT",
-      6
-    ],
     "0x47cd7e91c3cbaaf266369fe8518345fc4fc12935": [
       "xWALLET",
       18
@@ -69674,6 +71697,10 @@
     ],
     "0xfb6115445bff7b52feb98650c87f44907e58f802": [
       "AAVE",
+      18
+    ],
+    "0x55d398326f99059ff775485246999027b3197955": [
+      "USDT",
       18
     ],
     "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98": [
@@ -71058,10 +73085,173 @@
     "0x60ae616a2155ee3d9a68541ba4544862310933d4": "Joe Router",
     "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": "Lido Staking Ether",
     "0x17144556fd3424edc8fc8a4c940b2d04936d17eb": "Lido Staking Ether Implementation",
+    "0x889edc2edab5f40e902b864ad4d7ade8e412f9b1": "stETH Withdrawal NFT (unstETH)",
+    "0xe42c659dc09109566720ea8b2de186c2be7d94d9": "stETH Withdrawal NFT (unstETH) implementation",
     "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599": "Lido Staking Matic",
     "0x6c25aebd494a9984a3d7c8cf395c8713e0c74d98": "Lido Staking Matic Implementation",
     "0x0c2de78e008020500c38e76e2956ae4a81c5124c": "Swappin",
-    "0xa3c4e32af0da5efaddb20cc9fb26159f55c8c42f": "Stargate Implementation L2 V2"
+    "0xa3c4e32af0da5efaddb20cc9fb26159f55c8c42f": "Stargate Implementation L2 V2",
+    "0x9ab2de34a33fb459b538c43f251eb825645e8595": "GMX Vault",
+    "0x5f719c2f1095f7b9fc68a68e35b51194f4b6abe8": "GMX Router",
+    "0xe1ae4d4b06a5fe1fc288f6b4cd72f9f8323b107f": "GMX Glp Manager",
+    "0x82147c5a7e850ea4e28155df107f2590fd4ba327": "GMX Reward RouterV2",
+    "0x01234181085565ed162a948b6a5e88758cd7c7b8": "GMX GLP",
+    "0x62edc0692bd897d2295872a9ffcac5425011c661": "GMX GMX",
+    "0xff1489227bbaac61a9209a08929e4c2a526ddd17": "GMX EsGMX",
+    "0x8087a341d32d445d9ac8acc9c14f5781e04a26d2": "GMX BnGMX",
+    "0xc0253c3cc6aa5ab407b5795a04c28fb063273894": "GMX USDG",
+    "0x2bd10f8e93b3669b6d42e74eeedc65dd1b0a1342": "GMX Staked Gmx Tracker",
+    "0x908c4d94d34924765f1edc22a1dd098397c59dd4": "GMX Bonus Gmx Tracker",
+    "0x4d268a7d4c16ceb5a606c173bd974984343fea13": "GMX Fee Gmx Tracker",
+    "0x9e295b5b976a184b14ad8cd72413ad846c299660": "GMX Staked Glp Tracker",
+    "0xd2d1162512f927a7e282ef43a362659e4f2a728f": "GMX Fee Glp Tracker",
+    "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a": "GMX Staked Gmx Distributor",
+    "0x23208b91a98c7c1cd9fe63085bff68311494f193": "GMX Bonus Gmx Distributor",
+    "0x03f349b3cc4f200d7fae4d8ddaf1507f5a40d356": "GMX Fee Gmx Distributor",
+    "0xdd593cf40734199afc9207ebe9fff23da4bf7720": "GMX Staked Glp Distributor",
+    "0x1de098faf30bd74f22753c28db17a2560d4f5554": "GMX Fee Glp Distributor",
+    "0x472361d3ca5f49c8e633fb50385bfad1e018b445": "GMX Gmx Vester",
+    "0x62331a7bd1dfb3a7642b7db50b5509e57ca3154a": "GMX Glp Vester",
+    "0x5643f4b25e36478ee1e90418d5343cb6591bcb9d": "GMX Staked Glp",
+    "0x4296e307f108b2f583ff2f7b7270ee7831574ae5": "GMX Order Book",
+    "0x5c5dbbcdf420b5d81d4ffdba5b26eb24e6e60d52": "GMX AdlHandler",
+    "0x80edf3ea04d30fec027c4b397ab034d7fa98b894": "GMX AdlUtils",
+    "0x1771eeec42da492f2294010ec5292e9bce25f288": "GMX BaseOrderUtils",
+    "0x61af99b07995cb7ee8c2facf6d8fb6042feaa0d9": "GMX CallbackUtils",
+    "0x7309223e21dc2ffbb660e5bd5abf95ae06ba4da0": "GMX Config",
+    "0x2f0b22339414aded7d5f06f9d604c7ff5b2fe3f6": "GMX DataStore",
+    "0x5104257d85df1af13b267e161e289847dd8950c6": "GMX DecreaseOrderUtils",
+    "0x901f26a57edce65ef3fbccd260433de9b2279852": "GMX DecreasePositionCollateralUtils",
+    "0xb92b643950f57d0accf79950d6436557c869c5f8": "GMX DecreasePositionSwapUtils",
+    "0x17b80086d9b00f1ee4c245409b03383e9cee2a7e": "GMX DecreasePositionUtils",
+    "0x1a4d623301b9f58405d3fff7a63624411d5eb940": "GMX DepositEventUtils",
+    "0x72fa3978e2e330c7b2debc23cb676a3ae63333f6": "GMX DepositHandler",
+    "0xb5fbb36853a136dd5dff9314c48df6ac0278dc72": "GMX DepositStoreUtils",
+    "0xb4085c68765beaf991d3e4eebc48427edecba778": "GMX DepositUtils",
+    "0x90c670825d0c62ede1c5ee9571d6d9a17a722dff": "GMX DepositVault",
+    "0xdb17b211c34240b014ab6d61d4a31fa0c0e20c26": "GMX EventEmitter",
+    "0xd5c33a34915cb7199537a20f1098ff666203c42c": "GMX ExecuteDepositUtils",
+    "0x6ebff697250ae729ad0752f5ca6ce98bc62d4213": "GMX ExecuteWithdrawalUtils",
+    "0xc7d8e3561f1247ebda491ba5f042699c2807c33c": "GMX FeeHandler",
+    "0xa254b60cbb85a92f6151b10e1233639f601f2f0f": "GMX FeeUtils",
+    "0xa99ac1961f3ab92af63a217aede378fc0e49359f": "GMX GasUtils",
+    "0x40d680e41fc4bf973f0ea664981f6359195a6383": "GMX IncreaseOrderUtils",
+    "0xdc613305e9267f0770072deab8c03162e0554b2d": "GMX IncreasePositionUtils",
+    "0x931c18af613f56289253f0eed57f315de7dbafcd": "GMX LiquidationHandler",
+    "0xe137bf562908deec9e697657f59750ce84ebbc7f": "GMX LiquidationUtils",
+    "0x5f5b2022cc2cce4e375c2c79f5b370a99a74940b": "GMX MarketEventUtils",
+    "0xc57c155faccd93f62546f329d1483e0e5b9c1241": "GMX MarketFactory",
+    "0x796dbdab1e36a0969e139dd64b6abbeedcbfb658": "GMX MarketStoreUtils",
+    "0x58f9c8b240e28fd1970605001a516c3c44f8addb": "GMX MarketUtils",
+    "0x50474cae810b316c294111807f94f9f48527e7f8": "GMX Multicall3",
+    "0x090fa7eb8b4647dadbea315e68f8f88e8e62bd54": "GMX Oracle",
+    "0xed467ce941ba9ec2aa74dcdaea7a53995840a79d": "GMX OracleModuleTest",
+    "0xa6ac2e08c6d6bbd9b237e0daaecd7577996f4e84": "GMX OracleStore",
+    "0x3efdcd2b09f2c234c661a758e2304514d1be7dab": "GMX OrderEventUtils",
+    "0xd3b6e962f135634c43415d57a28e688fb4f15a58": "GMX OrderHandler",
+    "0x7b61992477dacb757eb92e22bfc8a19e428a94aa": "GMX OrderStoreUtils",
+    "0x4ef8394cd5dd7e3ee6d30824689ef461783a3360": "GMX OrderUtils",
+    "0xd3d60d22d415ad43b7e64b510d86a30f19b1b12c": "GMX OrderVault",
+    "0x77356449b835976410bea4d4571d84a1a3e048bd": "GMX PositionEventUtils",
+    "0xda7ae3598a4fc9ddcc5fcf5eb81087b1ed35ef3f": "GMX PositionPricingUtils",
+    "0x094ed353aa973aaa8ac41ac27b57136a6f1de539": "GMX PositionStoreUtils",
+    "0x174632b051728c288464ea08a6e6eefbcaafe1ef": "GMX PositionUtils",
+    "0x73ba021acf4bb6741e82690ddb821e7936050f8c": "GMX Reader",
+    "0x731643975e628184462fdd8c0aa57104c79a6589": "GMX ReaderDepositUtils",
+    "0x1639063f217e14635674baa129abc80bc21b24aa": "GMX ReaderPricingUtils",
+    "0x47aa86ef9ab65ccea0bf5babb5ddd4c576125ef7": "GMX ReaderUtils",
+    "0x50715a98095a137942de15c17e18f1856e102cf6": "GMX ReaderWithdrawalUtils",
+    "0x2f6799988b4fee7067217bb4c91ec5b1b7276712": "GMX ReferralEventUtils",
+    "0xfbb9c41046e27405224a911f44602c3667f9d8f6": "GMX ReferralUtils",
+    "0xa44f830b6a2b6fa76657a3b92c1fe74fcb7c6afd": "GMX RoleStore",
+    "0x820f5ffc5b525cd4d88cd91acf2c28f16530cc68": "GMX Router",
+    "0xee027373517a6d96fe62f70e9a0a395cb5a39eee": "GMX SwapHandler",
+    "0x0eaabf9234333ff67cb8fdbc3dafe13f7e7c2b71": "GMX SwapOrderUtils",
+    "0xa42677e4974ab236b72d71c3102493b484ef39c6": "GMX SwapPricingUtils",
+    "0x02391482c3837c92fc51277cf7d78a179ba647c3": "GMX SwapUtils",
+    "0x4db91a1fa4ba3c75510b2885d7d7da48e0209f38": "GMX Timelock",
+    "0x348eca94e7c6f35430af1cacce27c29e9bef9ae3": "GMX WithdrawalEventUtils",
+    "0x790ee987b9b253374d700b07f16347a7d4c4ff2e": "GMX WithdrawalHandler",
+    "0x7f8ef83c92b48a4b5b954a24d98a6cd0ed4d160a": "GMX WithdrawalStoreUtils",
+    "0x8622db0e78671e3c5696af763d6679de5c18890c": "GMX WithdrawalUtils",
+    "0xf5f30b10141e1f63fc11ed772931a8294a591996": "GMX WithdrawalVault",
+    "0x489ee077994b6658eafa855c308275ead8097c4a": "GMX Vault",
+    "0xabbc5f99639c9b6bcb58544ddf04efa6802f4064": "GMX Router",
+    "0x321f653eed006ad1c29d174e17d96351bde22649": "GMX Glp Manager",
+    "0xa906f338cb21815cbc4bc87ace9e68c87ef8d8f1": "GMX Reward RouterV2",
+    "0x4277f8f2c384827b5273592ff7cebd9f2c1ac258": "GMX GLP",
+    "0xf42ae1d54fd613c9bb14810b0588faaa09a426ca": "GMX EsGMX",
+    "0x35247165119b69a40edd5304969560d0ef486921": "GMX BnGMX",
+    "0x45096e7aa921f27590f8f19e457794eb09678141": "GMX USDG",
+    "0x1addd80e6039594ee970e5872d247bf0414c8903": "GMX Staked Glp Tracker",
+    "0x4e971a87900b931ff39d1aad67697f49835400b6": "GMX Fee Glp Tracker",
+    "0x60519b48ec4183a61ca2b8e37869e675fd203b34": "GMX Staked Glp Distributor",
+    "0x5c04a12eb54a093c396f61355c6da0b15890150d": "GMX Fee Glp Distributor",
+    "0x199070ddfd1cfb69173aa2f7e20906f26b363004": "GMX Gmx Vester",
+    "0xa75287d2f8b217273e7fcd7e86ef07d33972042e": "GMX Glp Vester",
+    "0x3f3e77421e30271568ef7a0ab5c5f2667675341e": "GMX Timelock",
+    "0x01af26b74409d10e15b102621edd29c326ba1c55": "GMX Staked Glp",
+    "0x13e0bbe893b33b64d4f3f96725dd70531fa4ebce": "GMX Glp Balance",
+    "0x09f77e8a13de9a35a7231028187e9fd5db8a2acb": "GMX Order Book",
+    "0x8514fc704317057fa86961ba9b9490956993a5ed": "GMX AdlHandler",
+    "0x0dbb1b891636dc90a2bca29d1cfb80dfdd73193f": "GMX AdlUtils",
+    "0xa2f2f7f0766cb06fff3241ff7d3469efc961b907": "GMX BaseOrderUtils",
+    "0xc55e165bf9247256dbeca8dde892ae9a7b271b2d": "GMX CallbackUtils",
+    "0x226ed647c6ea2c0ce4c08578e2f37b8c2f922849": "GMX Config",
+    "0xfd70de6b91282d8017aa4e741e9ae325cab992d8": "GMX DataStore",
+    "0xadc8aac56a7e9b17ba7338cadf0a4a8c6ae29f8c": "GMX DecreaseOrderUtils",
+    "0x368a8539d4034313dc5a029c874c33e3d0caa456": "GMX DecreasePositionCollateralUtils",
+    "0x86e92e21a0773cf542fecbc791c05e4bae35a92f": "GMX DecreasePositionSwapUtils",
+    "0x5f95c1bbfb8985981fedd2fb4dd28725d726ca46": "GMX DecreasePositionUtils",
+    "0x224330635e0ca7447e42c563590c5474ceb377bc": "GMX DepositEventUtils",
+    "0x9dc4f12eb2d8405b499fb5b8af79a5f64ab8a457": "GMX DepositHandler",
+    "0x556665e81c1516b6028d04ee081518b3818d1453": "GMX DepositStoreUtils",
+    "0xaa31cf8c39b1c5d56e1d87fe940128492cc218e4": "GMX DepositUtils",
+    "0xf89e77e8dc11691c9e8757e84aafbcd8a67d7a55": "GMX DepositVault",
+    "0xc8ee91a54287db53897056e12d9819156d3822fb": "GMX EventEmitter",
+    "0x527fa75aa16e4835f5298cd2cb4f91a5b1cfbbd2": "GMX ExecuteDepositUtils",
+    "0xb54c8fb6b2f143dd58f5b00fde7da4fa05077b20": "GMX ExecuteWithdrawalUtils",
+    "0xbf56a2f030c3f920f0e2ad9cf456b9954c49383a": "GMX FeeHandler",
+    "0xbf225c4c4471419b214064ca20e1dc2523594f91": "GMX FeeUtils",
+    "0x6ee83f82757c5b10468855753f5374fff826bdcb": "GMX GasUtils",
+    "0xbbdb0d899698146119fe63e4b4d9efd8af23b448": "GMX IncreaseOrderUtils",
+    "0x78cf6e5370a262ff6618d328cd748b2fa1917ca4": "GMX IncreasePositionUtils",
+    "0x9e0521c3dbb18e849f4955087e065e5c9c879917": "GMX LiquidationHandler",
+    "0xa0c51eb832c683d69af71c225fa9b57ee409299e": "GMX LiquidationUtils",
+    "0xdfe1ea56e7200b04ee596737caee714937824304": "GMX MarketEventUtils",
+    "0x41613136174912714faf4cf0680fb1acbe0cc7d1": "GMX MarketStoreUtils",
+    "0x7fff7ef2fc8db5159b0046ad49d018a5ab40db11": "GMX MarketUtils",
+    "0xe79118d6d92a4b23369ba356c90b9a7abf1cb961": "GMX Multicall3",
+    "0xa11b501c2dd83acd29f6727570f2502faaa617f2": "GMX Oracle",
+    "0x2e246061be08dc56d33e03dc0cb962c2155722b5": "GMX OracleModuleTest",
+    "0xa8af9b86fc47deade1bc66b12673706615e2b011": "GMX OracleStore",
+    "0x805a15bf16582ec8d76841062a47dffea7903131": "GMX OrderEventUtils",
+    "0xa5cd5caa2453daf1daaf1a5c8e9e52cbb750386b": "GMX OrderStoreUtils",
+    "0x09c7a13e0ff43d4f9e3cfd2ed3b2b41198af761f": "GMX OrderUtils",
+    "0x31ef83a530fde1b38ee9a18093a333d8bbbc40d5": "GMX OrderVault",
+    "0x0f9bb54ec2cc65344cde88cfb06c71f68599d2a4": "GMX PositionEventUtils",
+    "0xac3d81b7a9ceac542c556734799c0f68ae1cda4d": "GMX PositionPricingUtils",
+    "0xdfec6f2a72bea53660a04806cceefa7b970a0e46": "GMX PositionStoreUtils",
+    "0xd7458f20433f77d81b066361435e17dbbc33fef4": "GMX PositionUtils",
+    "0xf60becbba223eea9495da3f606753867ec10d139": "GMX Reader",
+    "0x43d27c0e3b235ad25e787c80c8bdfab731cba26c": "GMX ReaderDepositUtils",
+    "0xaf7984f705249f2c8720a634dd0d8b00d5ee5d39": "GMX ReaderPricingUtils",
+    "0xae2453dca7704080052af3c212e862cab50d65c0": "GMX ReaderUtils",
+    "0xe2628ebb4aebbc246f758942c48e87b646ee75b3": "GMX ReaderWithdrawalUtils",
+    "0x7f397b555f71f711d5331241519825180dc78489": "GMX ReferralEventUtils",
+    "0x4045a052a14a08d5053d79afd06128cfb3946aa8": "GMX ReferralUtils",
+    "0x3c3d99fd298f679dbc2cecd132b4ec4d0f5e6e72": "GMX RoleStore",
+    "0x7452c558d45f8afc8c83dae62c3f8a5be19c71f6": "GMX Router",
+    "0xf6b804f6cc847a22f2d022c9b0373190850be34d": "GMX SwapHandler",
+    "0x1dab177e756ba3c0e22ac1de7a030b76dd158174": "GMX SwapOrderUtils",
+    "0xfd20a53afd789997451f1c9dd8c02d6a6d3f96dc": "GMX SwapPricingUtils",
+    "0xb34a6e9dc8e721361a9c620eef245535d6a5b234": "GMX SwapUtils",
+    "0x62ab76ed722c507f297f2b97920dca04518fe274": "GMX Timelock",
+    "0xad7a7568f500f65aea3d9417a210cbc5dcd7b273": "GMX WithdrawalEventUtils",
+    "0x9e32088f3c1a5eb38d32d1ec6ba0bcbf499dc9ac": "GMX WithdrawalHandler",
+    "0x713c6a2479f6c079055a6ad3690d95dedcef9e1e": "GMX WithdrawalStoreUtils",
+    "0x46088fa22988c40ce5abc0647a7638d27a8bf7d1": "GMX WithdrawalUtils",
+    "0x0628d46b5d145f183adb6ef1f2c97ed1c4701c55": "GMX WithdrawalVault"
   },
   "yearnVaults": [
     {
