@@ -1582,7 +1582,13 @@ const contracts = [
       "name":"GMX WithdrawalVault",
       "network":"arbitrum",
       "addr":"0x0628D46b5D145f183AdB6Ef1f2c97eD1C4701C55"
-  }
+  },
+  {
+    "name":"ERC-4337 Entry Point 0.6.0",
+    "network":"ethereum",
+    "addr":"0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+    abiName:"ERC-4337-EntryPoint-0.6.0"
+}
 ]
 const tokenlists = [
   'https://github.com/trustwallet/assets/raw/master/blockchains/ethereum/tokenlist.json',
