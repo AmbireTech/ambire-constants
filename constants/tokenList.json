@@ -2241,6 +2241,12 @@
 			"symbol": "COQ",
 			"decimals": 18,
 			"coingeckoId": "coq-inu"
+		},
+		{
+			"address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+			"symbol": "AAVE",
+			"decimals": 18,
+			"coingeckoId": "aave"
 		}	
 	],
 	"fantom": [
