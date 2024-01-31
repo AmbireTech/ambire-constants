@@ -447,6 +447,12 @@ const contracts = [
     abiName: 'UniswapUniversalRouter'
   },
   {
+    name: 'UniswapUniversalRouter',
+    network: 'avalanche',
+    addr: '0x82635AF6146972cD6601161c4472ffe97237D292',
+    abiName: 'UniswapUniversalRouter'
+  },
+  {
     name: 'CowSwap',
     network: 'ethereum',
     addr: '0x9008D19f58AAbD9eD0D60971565AA8510560ab41',
