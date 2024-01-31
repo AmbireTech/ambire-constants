@@ -447,6 +447,12 @@ const contracts = [
     abiName: 'UniswapUniversalRouter'
   },
   {
+    name: 'UniswapUniversalRouter',
+    network: 'avalanche',
+    addr: '0x82635AF6146972cD6601161c4472ffe97237D292',
+    abiName: 'UniswapUniversalRouter'
+  },
+  {
     name: 'CowSwap',
     network: 'ethereum',
     addr: '0x9008D19f58AAbD9eD0D60971565AA8510560ab41',
@@ -1582,6 +1588,12 @@ const contracts = [
       "name":"GMX WithdrawalVault",
       "network":"arbitrum",
       "addr":"0x0628D46b5D145f183AdB6Ef1f2c97eD1C4701C55"
+  },
+  {
+      "name":"Account abstraction entry point v0.6.0",
+      "network":"ethereum",
+      "addr":"0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "abiName":"ERC-4337-EntryPoint-0.6.0"
   }
 ]
 const tokenlists = [
