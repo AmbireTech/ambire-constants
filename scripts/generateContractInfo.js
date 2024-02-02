@@ -356,7 +356,7 @@ const tesseractVaults = [
     decimals: 18
   }
 ]
-const contracts = [
+const contractsData = [
   {
     name: '$WALLET distributor',
     network: 'ethereum',
@@ -1604,7 +1604,7 @@ const tokenlists = [
   'https://api-polygon-tokens.polygon.technology/tokenlists/allTokens.tokenlist.json'
 ]
 
-const customTokens = [
+const hardcodedTokens = [
   {
     address: '0x88800092ff476844f74dc2fc427974bbee2794ae',
     symbol: 'WALLET',
@@ -2085,13 +2085,18 @@ const customTokens = [
     symbol: 'WZRD-BUSD LP',
     decimals: 18
   },
-  ...Object.keys(ambireTokenList)
-    .map((n) => ambireTokenList[n])
+  ...Object.values(ambireTokenList)
     .flat()
 ]
 
-async function generate() {
-  let abis = {}
+
+async function generatehumanizerV2(){
+ return {}
+}
+
+
+async function fetchAbis(contracts){
+  const abis = {}
   for (let contract of contracts) {
     const { network, addr, abiName, abiAddr } = contract
     if (!abiName) continue
@@ -2114,19 +2119,26 @@ async function generate() {
     abis[abiName] = SWAPPIN_NFT_ABI
   }
   abis.ERC20 = ERC20
+  return abis
+}
 
-  let names = {}
+
+function extractNames(contracts){
+  const names = {}
   contracts.forEach(({ name, addr }) => {
     const address = addr.toLowerCase()
     if (names[address] && names[address] !== name)
       throw new Error(`unexpected name confict: ${addr} ${name}`)
     names[address] = name
   })
+  return names
+}
 
+async function getTokens(customTokens){
   const tokenLists = (
     await Promise.all(tokenlists.map(async (url) => await fetch(url).then((r) => r.json())))
   ).concat({ tokens: customTokens })
-
+  
 	const tokens = tokenLists.filter((tokenListT) => typeof tokenListT === 'object').reduce((acc, list) => {
 		list.tokens.forEach((t) => {
 			const address = t.address.toLowerCase()
@@ -2138,6 +2150,15 @@ async function generate() {
 		})
 		return acc
 	}, {})
+  return tokens
+}
+
+async function generate() {
+  const abis = await fetchAbis(contractsData)
+  const names = extractNames(contractsData)
+  const tokens = await getTokens(hardcodedTokens)
+
+  // const humanizerV2 = generatehumanizerV2(abis, names, tokens)
 
   console.log(JSON.stringify({ abis, tokens, names, yearnVaults, tesseractVaults }, null, 2))
 }
