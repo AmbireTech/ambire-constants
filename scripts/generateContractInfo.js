@@ -3,6 +3,7 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
 const SWAPPIN_NFT_ABI = require('../abis/SWAPPIN_NFT.json')
+const { keccak256 } = require('js-sha3');
 
 const SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR = '0xFd090f34707Ac2cA546a4B442FF708308dEd8909'
 
@@ -2090,8 +2091,50 @@ const hardcodedTokens = [
 ]
 
 
-async function generatehumanizerV2(){
- return {}
+function generatehumanizerV2({ abis, names, tokens }){
+  const newAbis = {}
+  
+  const parseAbi = (abi) =>{
+    const parseFunctionOrEvent = (i)=>{
+      const sigHash = '0x'+keccak256(`${i.name}(${i.inputs.map(input => `${input.type}`).join(',')})`).slice(0,8)
+      const signature = `${i.name}(${i.inputs.map(input => `${input.type} ${input.name}`).join(', ')})`
+      return [sigHash,{sigHash,signature,type:i.type}]
+    }
+
+    return Object.fromEntries(abi.map(i=>{
+      if(i.type === 'function' || i.type === 'event') return parseFunctionOrEvent(i)
+    }).filter(x=>x))
+  }
+  Object.entries(abis).forEach(([name,abi])=>{
+    newAbis[name] = parseAbi(abi)
+  })
+
+  // console.log(tokens)
+  const newTokens = Object.entries(tokens).map(([t,[symbol,decimals]])=>
+    [
+      t.toLowerCase(),
+      {
+        name: `${symbol} token contract`,
+        address:t.toLowerCase(),
+        token:{decimals,symbol},
+        isSC: {}
+      }
+    ]
+  )
+  const newDappAddresses = Object.entries(names).map(([address,name])=>
+    [
+      address.toLowerCase(),
+      {
+        name,
+        address:address.toLowerCase(),
+        // here we should add more data about every address if they are a contract or not
+        isSC: {}
+      }
+    ]
+  )
+  const newAddresses = Object.fromEntries(newDappAddresses.concat(newTokens))
+  
+  return {abis:newAbis, addresses:newAddresses}
 }
 
 
@@ -2115,7 +2158,6 @@ async function fetchAbis(contracts){
       continue
     }
 
-    // console.log(SWAPPIN_NFT_ABI)
     abis[abiName] = SWAPPIN_NFT_ABI
   }
   abis.ERC20 = ERC20
@@ -2157,10 +2199,8 @@ async function generate() {
   const abis = await fetchAbis(contractsData)
   const names = extractNames(contractsData)
   const tokens = await getTokens(hardcodedTokens)
-
-  // const humanizerV2 = generatehumanizerV2(abis, names, tokens)
-
-  console.log(JSON.stringify({ abis, tokens, names, yearnVaults, tesseractVaults }, null, 2))
+  const humanizerV2 = generatehumanizerV2({abis, names, tokens})
+  console.log(JSON.stringify({ abis, tokens, names, yearnVaults, tesseractVaults, humanizerV2}, null, 2))
 }
 
 generate()
