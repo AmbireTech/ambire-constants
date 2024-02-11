@@ -2096,9 +2096,9 @@ function generatehumanizerV2({ abis, names, tokens }){
   
   const parseAbi = (abi) =>{
     const parseFunctionOrEvent = (i)=>{
-      const sigHash = '0x'+keccak256(`${i.name}(${i.inputs.map(input => `${input.type}`).join(',')})`).slice(0,8)
+      const selector = '0x'+keccak256(`${i.name}(${i.inputs.map(input => `${input.type}`).join(',')})`).slice(0,8)
       const signature = `${i.name}(${i.inputs.map(input => `${input.type} ${input.name}`).join(', ')})`
-      return [sigHash,{sigHash,signature,type:i.type}]
+      return [selector,{selector,signature,type:i.type}]
     }
 
     return Object.fromEntries(abi.map(i=>{
@@ -2134,7 +2134,7 @@ function generatehumanizerV2({ abis, names, tokens }){
   )
   const newAddresses = Object.fromEntries(newDappAddresses.concat(newTokens))
   
-  return {abis:newAbis, addresses:newAddresses}
+  return {abis:newAbis, knownAddresses:newAddresses}
 }
 
 
