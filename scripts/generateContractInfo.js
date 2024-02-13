@@ -4,6 +4,7 @@ const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
 const SWAPPIN_NFT_ABI = require('../abis/SWAPPIN_NFT.json')
 const { keccak256 } = require('js-sha3');
+const { ethers } = require('ethers');
 
 const SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR = '0xFd090f34707Ac2cA546a4B442FF708308dEd8909'
 
@@ -2095,33 +2096,20 @@ function generatehumanizerV2({ abis, names, tokens }){
   const newAbis = {}
   
   const parseAbi = (abi) =>{
-    const parseFunctionOrEvent = (i)=>{
-      const selector = '0x'+keccak256(`${i.name}(${i.inputs.map(input => `${input.type}`).join(',')})`).slice(0,8)
-      const signature = `${i.name}(${i.inputs.map(input => `${input.type} ${input.name}`).join(', ')})`
-      return [selector,{selector,signature,type:i.type}]
-    }
-
-    return Object.fromEntries(abi.map(i=>{
-      if(i.type === 'function' || i.type === 'event') return parseFunctionOrEvent(i)
+    const iface = new ethers.Interface(abi)
+    return Object.fromEntries(iface.fragments.map(i=>{
+      if(i.type === 'function' || i.type === 'error') return [
+        i.selector,
+        { selector: i.selector, type: i.type, signature: i.format('full') } 
+      ]
     }).filter(x=>x))
   }
+
   Object.entries(abis).forEach(([name,abi])=>{
     newAbis[name] = parseAbi(abi)
   })
 
-  // console.log(tokens)
-  const newTokens = Object.entries(tokens).map(([t,[symbol,decimals]])=>
-    [
-      t.toLowerCase(),
-      {
-        name: `${symbol} token contract`,
-        address:t.toLowerCase(),
-        token:{decimals,symbol},
-        isSC: {}
-      }
-    ]
-  )
-  const newDappAddresses = Object.entries(names).map(([address,name])=>
+  const newAddresses = Object.fromEntries(Object.entries(names).map(([address,name])=>
     [
       address.toLowerCase(),
       {
@@ -2131,8 +2119,21 @@ function generatehumanizerV2({ abis, names, tokens }){
         isSC: {}
       }
     ]
-  )
-  const newAddresses = Object.fromEntries(newDappAddresses.concat(newTokens))
+  ))
+  Object.entries(tokens).forEach(([_address,[symbol,decimals]])=>{
+    const address= _address.toLowerCase()
+    if(newAddresses[address]){
+      newAddresses[address].token = {decimals,symbol}
+    }
+    else{
+      newAddresses[address] = {
+        name: `${symbol} token contract`,
+        address:address.toLowerCase(),
+        token:{decimals,symbol},
+        isSC: {}
+      }
+    }
+  })
   
   return {abis:newAbis, knownAddresses:newAddresses}
 }
@@ -2163,7 +2164,6 @@ async function fetchAbis(contracts){
   abis.ERC20 = ERC20
   return abis
 }
-
 
 function extractNames(contracts){
   const names = {}
