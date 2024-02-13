@@ -46796,236 +46796,264 @@
       "PAN",
       18
     ],
-    "0x10f2cf6ef155460c5b716080eb57928652867f2e": [
-      "MUSK",
-      18
-    ],
-    "0x17c50d62e6e8d20d2dc18e9ad79c43263d0720d9": [
-      "NFAI",
-      18
-    ],
-    "0xa34ee6108fe427f91edce0d6520d9fec0e64f67b": [
-      "PLPC",
-      9
-    ],
-    "0x3c2a309d9005433c1bc2c92ef1be06489e5bf258": [
-      "WPCI",
+    "0x397deb686c72384fad502a81f4d7fdb89e1f1280": [
+      "XELS",
       8
     ],
-    "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2": [
-      "PPAY",
+    "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd": [
+      "WOMBAT",
       18
     ],
-    "0xea18dc833653172bbe819feb5320d9da9f99799a": [
-      "ELON20",
+    "0x678e840c640f619e17848045d23072844224dd37": [
+      "CRTS",
       18
     ],
-    "0x80008bcd713c38af90a9930288d446bc3bd2e684": [
-      "KARATE",
+    "0x0391d2021f89dc339f60fff84546ea23e337750f": [
+      "BOND",
       18
     ],
-    "0x467bccd9d29f223bce8043b84e8c8b282827790f": [
-      "TEL",
-      2
+    "0x04c17b9d3b29a78f7bd062a57cf44fc633e71f85": [
+      "IMPT",
+      18
     ],
-    "0x7dedbce5a2e31e4c75f87fea60bf796c17718715": [
-      "PNP",
+    "0xcdeb595293511115d9d9d44b189cc0da4a08cfaf": [
+      "JFISH",
+      18
+    ],
+    "0x8765b1a0eb57ca49be7eacd35b24a574d0203656": [
+      "MGH",
+      18
+    ],
+    "0xd3210f246ae54c5a45a7b4a83315bf718f591bfc": [
+      "ARKI",
+      9
+    ],
+    "0x9813037ee2218799597d83d4a5b6f3b6778218d9": [
+      "BONE",
+      18
+    ],
+    "0x102fa93ef3d2dc5b0b9ed3e7b3bf832796cb7b95": [
+      "BBC",
+      18
+    ],
+    "0xcc2d17dfa245dc2aa3705fc75d2f7df3fe6440c7": [
+      "RSRV",
+      18
+    ],
+    "0x3d1e5cf16077f349e999d6b21a4f646e83cd90c5": [
+      "DETH",
       18
     ],
     "0x653aab62056b92641116d63927de6141d780e596": [
       "ACHF",
       18
     ],
-    "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202": [
-      "KNC",
-      18
-    ],
-    "0x397deb686c72384fad502a81f4d7fdb89e1f1280": [
-      "XELS",
-      8
-    ],
-    "0x4c5cb5d87709387f8821709f7a6664f00dcf0c93": [
-      "RAFT",
-      18
-    ],
     "0x29ef81cc8737f19449d501396d4968d138140675": [
       "0XCON",
       9
     ],
-    "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06": [
-      "PAR",
+    "0x788b6d2b37aa51d916f2837ae25b05f0e61339d1": [
+      "MVD",
+      9
+    ],
+    "0xf4b5470523ccd314c6b9da041076e7d79e0df267": [
+      "BBANK",
       18
     ],
-    "0x3e5d9d8a63cc8a88748f229999cf59487e90721e": [
-      "XMT",
+    "0xa1faa113cbe53436df28ff0aee54275c13b40975": [
+      "ALPHA",
+      18
+    ],
+    "0xa9049425b938c46ac3e312d4cdaeccb26282aeb2": [
+      "WIK",
       18
     ],
     "0x94b888e11a9e960a9c3b3528eb6ac807b27ca62e": [
       "INLSETH",
       18
     ],
-    "0x52a8845df664d76c69d2eea607cd793565af42b8": [
-      "APEX",
+    "0x49642110b712c1fd7261bc074105e9e44676c68f": [
+      "DINO",
       18
     ],
-    "0x625ae63000f46200499120b906716420bd059240": [
-      "ASUSD",
+    "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0": [
+      "EQZ",
       18
     ],
-    "0x72bab498fa50a33a03362d0024bb27efbc50a7b7": [
-      "BET",
-      18
+    "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe": [
+      "USDS",
+      6
     ],
-    "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce": [
-      "BEAM",
-      18
-    ],
-    "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9": [
-      "UNIBOT",
-      18
-    ],
-    "0x9c354503c38481a7a7a51629142963f98ecc12d0": [
-      "OGV",
-      18
-    ],
-    "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1": [
-      "AUNI",
-      18
-    ],
-    "0x7512200f2ae3e1625a060d589348716f65923d75": [
-      "ARENA",
+    "0x038ed1383763d704d4271fe856ac96b4557e9d06": [
+      "ALPHABET",
       18
     ],
     "0x3a6dc7eefef660be5c254c8aa1b710202151e345": [
       "PARROT",
       18
     ],
-    "0x80d55c03180349fff4a229102f62328220a96444": [
-      "OPUL",
+    "0xdefb0b264032e4e128b00d02b3fd0aa00331237b": [
+      "BUDDHA",
       18
     ],
-    "0x38e68a37e401f7271568cecaac63c6b1e19130b4": [
-      "BANANA",
+    "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5": [
+      "TT",
       18
     ],
-    "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf": [
-      "WQT",
+    "0x8baef8c9568c21b1a2b2fd048f8b4da835691fd0": [
+      "USDZ",
       18
     ],
-    "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551": [
-      "DUSK",
+    "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2": [
+      "UQC",
       18
     ],
-    "0xc5190e7fec4d97a3a3b1ab42dfedac608e2d0793": [
-      "FXI",
+    "0xd8912c10681d8b21fd3742244f44658dba12264e": [
+      "PLU",
+      18
+    ],
+    "0x467719ad09025fcc6cf6f8311755809d45a5e5f3": [
+      "AXL",
+      6
+    ],
+    "0x77be1ba1cd2d7a63bffc772d361168cc327dd8bc": [
+      "MEOW",
+      9
+    ],
+    "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b": [
+      "BORA",
+      18
+    ],
+    "0x34ba042827996821cffeb06477d48a2ff9474483": [
+      "SHIB20",
+      8
+    ],
+    "0x1e4746dc744503b53b4a082cb3607b169a289090": [
+      "IPOR",
+      18
+    ],
+    "0x037a54aab062628c9bbae1fdb1583c195585fe41": [
+      "LCX",
+      18
+    ],
+    "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1": [
+      "BOTX",
       18
     ],
     "0x92868a5255c628da08f550a858a802f5351c5223": [
       "BRIDGE",
       18
     ],
-    "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3": [
-      "USDGLO",
+    "0x3c2a309d9005433c1bc2c92ef1be06489e5bf258": [
+      "WPCI",
+      8
+    ],
+    "0xea81dab2e0ecbc6b5c4172de4c22b6ef6e55bd8f": [
+      "PLEB",
       18
     ],
-    "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e": [
-      "VEGA",
+    "0x5922c10653143f7eb8c0733563ede65e2e4e618e": [
+      "VDT",
       18
     ],
-    "0xfcf8eda095e37a41e002e266daad7efc1579bc0a": [
-      "FLEX",
+    "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6": [
+      "CERE",
+      10
+    ],
+    "0x34be5b8c30ee4fde069dc878989686abe9884470": [
+      "SENATE",
       18
     ],
-    "0xf2a22b900dde3ba18ec2aef67d4c8c1a0dab6aac": [
-      "MONKEYS",
+    "0xae36155a55f04a696b8362777620027882b31db5": [
+      "KISHIMOTO",
       9
     ],
-    "0x6ef460eb3563cfcc73f8147b0a77daffee71f867": [
-      "ZEUS",
+    "0x4b13006980acb09645131b91d259eaa111eaf5ba": [
+      "MYC",
       18
     ],
-    "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e": [
-      "USTB",
-      6
-    ],
-    "0xd36306a5d6bfde4f57b5159c6518d93f171fe755": [
-      "RSTETH",
+    "0xf1dc500fde233a4055e25e5bbf516372bc4f6871": [
+      "SDL",
       18
     ],
-    "0xa5f1dbb0e55bc31f32c6d032bee330288490e722": [
-      "DBD",
+    "0xd71ecff9342a5ced620049e616c5035f1db98620": [
+      "SEUR",
       18
     ],
-    "0x443b29fc978058abe3fc2f4c3c6b76c57fdecc02": [
-      "IDEAS",
-      18
-    ],
-    "0x3c3a81e81dc49a522a592e7622a7e711c06bf354": [
-      "MNT",
-      18
-    ],
-    "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c": [
-      "VAI",
-      18
-    ],
-    "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d": [
-      "00",
-      18
-    ],
-    "0xa92e7c82b11d10716ab534051b271d2f6aef7df5": [
-      "ARA",
-      18
-    ],
-    "0x824e35f7a75324f99300afac75ecf7354e17ea26": [
-      "TIA",
+    "0x389999216860ab8e0175387a0c90e5c52522c945": [
+      "FEG",
       9
     ],
-    "0x30d20208d987713f46dfd34ef128bb16c404d10f": [
-      "SD",
+    "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d": [
+      "CTSI",
       18
     ],
-    "0xf951e335afb289353dc249e82926178eac7ded78": [
-      "SWETH",
+    "0x7d4b8cce0591c9044a22ee543533b72e976e36c3": [
+      "CAG",
       18
     ],
     "0x0018d5e01e53878f90feab02f1b2019a21adf8b1": [
       "SHADOWCATS",
       18
     ],
-    "0x6034e0d6999741f07cb6fb1162cbaa46a1d33d36": [
-      "VITA-FAST",
-      18
-    ],
     "0x0ec72cd6690db40b16be166858299f19d4f8e5b0": [
       "GOLD1",
       9
     ],
-    "0xd92b7adfdb79c26b5983a56ba7540d48d4616b8e": [
-      "DOBBY",
+    "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc": [
+      "MIMO",
       18
     ],
-    "0xd98f75b1a3261dab9eed4956c93f33749027a964": [
-      "SHR",
-      2
-    ],
-    "0xed1167b6dc64e8a366db86f2e952a482d0981ebd": [
-      "LBR",
+    "0x18084fba666a33d37592fa2633fd49a74dd93a88": [
+      "TBTC",
       18
     ],
-    "0x5a9261b023692405f2f680240c6b010638e416dd": [
-      "JAN",
-      18
-    ],
-    "0x7f280dac515121dcda3eac69eb4c13a52392cace": [
-      "FNC",
+    "0x9f5f3cfd7a32700c93f971637407ff17b91c7342": [
+      "DDD",
       18
     ],
     "0x31c2415c946928e9fd1af83cdfa38d3edbd4326f": [
       "UMAD",
       8
     ],
-    "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6": [
-      "MITX",
+    "0xd289ea09aeece390629e9414d41b4d9d9bf43fd9": [
+      "AITEK",
+      18
+    ],
+    "0x9e9fbde7c7a83c43913bddc8779158f1368f0413": [
+      "PANDORA",
+      18
+    ],
+    "0x0305f515fa978cf87226cf8a9776d25bcfb2cc0b": [
+      "PEPE20",
+      18
+    ],
+    "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373": [
+      "GMEE",
+      18
+    ],
+    "0xf2a22b900dde3ba18ec2aef67d4c8c1a0dab6aac": [
+      "MONKEYS",
+      9
+    ],
+    "0xacc48f65f8701f376bc4ba13f4bc103f31dda74e": [
+      "SWIFT",
+      18
+    ],
+    "0xa849cd6239906f23b63ba34441b73a5c6eba8a00": [
+      "HASH",
+      18
+    ],
+    "0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d": [
+      "SNP",
+      18
+    ],
+    "0x1903be033d3e436dd79a8cf9030675bcf97ab589": [
+      "BJK",
+      6
+    ],
+    "0x549020a9cb845220d66d3e9c6d9f9ef61c981102": [
+      "SIDUS",
       18
     ],
     "0x51fa2efd62ee56a493f24ae963eace7d0051929e": [
@@ -47036,44 +47064,40 @@
       "YVHEGIC",
       18
     ],
-    "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e": [
-      "GENE",
+    "0x232fb065d9d24c34708eedbf03724f2e95abe768": [
+      "SHEESHA",
       18
     ],
     "0x17f7fea5f87d0f289d9827be78fc96027f8ed724": [
       "EHCK",
       0
     ],
-    "0x47d20c7800906e01adfc890f283c110ba70a6c97": [
-      "AZR",
-      9
-    ],
-    "0x2ebd53d035150f328bd754d6dc66b99b0edb89aa": [
-      "MET",
+    "0x14da230d6726c50f759bc1838717f8ce6373509c": [
+      "KAT",
       18
     ],
     "0x1500205f50bf3fd976466d0662905c9ff254fc9c": [
       "BBT",
       4
     ],
-    "0x50eec6d765792dcfb0913c8403ef2a12e1b861a6": [
-      "Z3",
+    "0xb9f69c75a3b67425474f8bcab9a3626d8b8249e1": [
+      "TOYBOX",
       18
     ],
-    "0x6123b0049f904d730db3c36a31167d9d4121fa6b": [
-      "RBN",
+    "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce": [
+      "BEAM",
       18
     ],
     "0x5a338f22b798490ec3e70cd5e64d0cc0754241c0": [
       "NSF",
       18
     ],
-    "0x7d225c4cc612e61d26523b099b0718d03152edef": [
-      "FORK",
+    "0x2c06ba9e7f0daccbc1f6a33ea67e85bb68fbee3a": [
+      "LENDS",
       18
     ],
-    "0xe5a3229ccb22b6484594973a03a3851dcd948756": [
-      "RAE",
+    "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c": [
+      "VAI",
       18
     ],
     "0x29de166064e1f9467b70bd561e516564a5a9ba3c": [
@@ -47084,176 +47108,204 @@
       "BTZ",
       18
     ],
-    "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9": [
-      "SUDO",
+    "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5": [
+      "BETS",
       18
     ],
-    "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c": [
-      "X8X",
+    "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e": [
+      "GENE",
       18
     ],
-    "0xae36155a55f04a696b8362777620027882b31db5": [
-      "KISHIMOTO",
-      9
-    ],
-    "0xcba78d126f0b1feda0c538bcaf4c852a7a171099": [
-      "MOE",
+    "0x87edffde3e14c7a66c9b9724747a1c5696b742e6": [
+      "SWAG",
       18
     ],
-    "0x3bd7d4f524d09f4e331577247a048d56e4b67a7f": [
-      "5IRE",
+    "0x486f4641ef2b50cc130dadbd27b6f271723873b8": [
+      "GOLD",
+      18
+    ],
+    "0x8dcaec45365e5ada5676073a07b418c2f538145a": [
+      "SHELL",
+      18
+    ],
+    "0xc3dbd99da846ea38d34430d852795684a211428b": [
+      "LYF",
+      18
+    ],
+    "0x183395dbd0b5e93323a7286d1973150697fffcb3": [
+      "CVXFXN",
+      18
+    ],
+    "0x96eafff5bedf18566b18fce71c2323b69c795623": [
+      "ASPC",
+      18
+    ],
+    "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf": [
+      "WQT",
       18
     ],
     "0x0ceccd54323b953a5464fddefc47171c397043f7": [
       "LBOT",
       18
     ],
-    "0xc8871267e07408b89aa5aecc58adca5e574557f8": [
-      "IUSDC",
-      6
-    ],
-    "0x5faa989af96af85384b8a938c2ede4a7378d9875": [
-      "GAL",
+    "0xc1ad0aa69454603a5dee55cf9bd9341e01328544": [
+      "HIGAZERS",
       18
     ],
-    "0x423352f2c6e0e72422b69af03aba259310146d90": [
-      "RMV",
+    "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9": [
+      "BITCOIN",
+      8
+    ],
+    "0xf5cfbc74057c610c8ef151a439252680ac68c6dc": [
+      "OCT",
+      18
+    ],
+    "0x6f259637dcd74c767781e37bc6133cd6a68aa161": [
+      "HT",
+      18
+    ],
+    "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb": [
+      "JPYC",
       18
     ],
     "0x4096fc7119040175589387656f7c6073265f4096": [
       "4096",
       0
     ],
-    "0x544c42fbb96b39b21df61cf322b5edc285ee7429": [
-      "INSUR",
+    "0x1f19f83fc9a25f3c861260143e36c17706257986": [
+      "VEST",
       18
     ],
-    "0x3496b523e5c00a4b4150d6721320cddb234c3079": [
-      "NUM",
+    "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794": [
+      "ETHM",
       18
     ],
-    "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be": [
-      "WSCRT",
-      6
+    "0xa2fe5e51729be71261bcf42854012827bc44c044": [
+      "BURN",
+      18
+    ],
+    "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06": [
+      "PAR",
+      18
+    ],
+    "0xbf2179859fc6d5bee9bf9158632dc51678a4100e": [
+      "ELF",
+      18
     ],
     "0x7104d1f179cc9cc7fb5c79be6da846e3fbc4c105": [
       "X7104",
-      18
-    ],
-    "0x182c00807f2d4904d02d5e0d179600ff6a3ae67c": [
-      "BTEX",
-      18
-    ],
-    "0xc3f8143212871014b472ea83285af7f25928dee4": [
-      "SOHOT",
-      9
-    ],
-    "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a": [
-      "EARN",
-      18
-    ],
-    "0x148255a3b10666d9788ec48bc61ea3e48974bf2c": [
-      "DMCC",
-      18
-    ],
-    "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c": [
-      "OSAK",
-      18
-    ],
-    "0x304645590f197d99fad9fa1d05e7bcdc563e1378": [
-      "GUARDIAN",
-      9
-    ],
-    "0x07e0edf8ce600fb51d44f51e3348d77d67f298ae": [
-      "XRP",
-      8
-    ],
-    "0x525a8f6f3ba4752868cde25164382bfbae3990e1": [
-      "NYM",
-      6
-    ],
-    "0xcdeb595293511115d9d9d44b189cc0da4a08cfaf": [
-      "JFISH",
-      18
-    ],
-    "0xf70e5e46a50bba54917d9cb7aeb8b83610bcd969": [
-      "EGMC",
-      18
-    ],
-    "0xd559f20296ff4895da39b5bd9add54b442596a61": [
-      "FTX",
-      18
-    ],
-    "0x5483dc6abda5f094865120b2d251b5744fc2ecb5": [
-      "TPAD",
-      18
-    ],
-    "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f": [
-      "F9",
-      9
-    ],
-    "0xec6d73557937974077911a0b6fdc436b0ff70296": [
-      "SKRIMP",
-      18
-    ],
-    "0x4db26817c88a57d2ef84cfd90168f535ee83bda9": [
-      "HIAZUKI",
-      18
-    ],
-    "0xb3207935ff56120f3499e8ad08461dd403bf16b8": [
-      "DAMM",
-      18
-    ],
-    "0xfd07fd5ebea6f24888a397997e262179bf494336": [
-      "INOSETH",
       18
     ],
     "0x943af2ece93118b973c95c2f698ee9d15002e604": [
       "DUEL",
       18
     ],
-    "0xccba0b2bc4babe4cbfb6bd2f1edc2a9e86b7845f": [
-      "WINTER",
+    "0xc08512927d12348f6620a698105e1baac6ecd911": [
+      "GYEN",
+      6
+    ],
+    "0xf073bac22dab7faf4a3dd6c6189a70d54110525c": [
+      "GENETH",
+      18
+    ],
+    "0x99e186e8671db8b10d45b7a1c430952a9fbe0d40": [
+      "SHOP",
+      18
+    ],
+    "0x8dc89f4716e027394bba225b82328c1ea2ea58bf": [
+      "GVC",
+      18
+    ],
+    "0xe4efdd2eb216a4620cfa55c5cc67bd09dc64ff24": [
+      "",
+      9
+    ],
+    "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54": [
+      "HAPI",
+      18
+    ],
+    "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c": [
+      "CBOT",
+      9
+    ],
+    "0x60c0d11c10a0c04acb47c6296156bdffac62ef97": [
+      "BBCG",
+      4
+    ],
+    "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd": [
+      "DODO",
+      18
+    ],
+    "0x39a9728fb398583154e6cc5e3defa60908f58e2f": [
+      "BEFY",
+      18
+    ],
+    "0x4c4a50a61bed3b9024d8ffc1f1d168dc8cb1c689": [
+      "BARC",
+      9
+    ],
+    "0x733b5056a0697e7a4357305fe452999a0c409feb": [
+      "VCORE",
+      18
+    ],
+    "0xf17e65822b568b3903685a7c9f496cf7656cc6c2": [
+      "BICO",
+      18
+    ],
+    "0xf70e5e46a50bba54917d9cb7aeb8b83610bcd969": [
+      "EGMC",
+      18
+    ],
+    "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5": [
+      "0X0",
+      9
+    ],
+    "0x467bccd9d29f223bce8043b84e8c8b282827790f": [
+      "TEL",
+      2
+    ],
+    "0x1e917e764bc34d3bc313fe8159a6bd9d9ffd450d": [
+      "WEWE",
+      18
+    ],
+    "0x576e2bed8f7b46d34016198911cdf9886f78bea7": [
+      "TRUMP",
+      9
+    ],
+    "0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a": [
+      "BUSY",
+      18
+    ],
+    "0xb3207935ff56120f3499e8ad08461dd403bf16b8": [
+      "DAMM",
       18
     ],
     "0x674c964ac0e89d847d6b0abd144b797bf78ba56b": [
       "GWD",
       6
     ],
-    "0x4667765333494049921709a1cec32dedc529d59e": [
-      "AION",
-      18
-    ],
-    "0x95e05e2abbd26943874ac000d87c3d9e115b543c": [
-      "BIBLE",
-      18
-    ],
-    "0x1e917e764bc34d3bc313fe8159a6bd9d9ffd450d": [
-      "WEWE",
-      18
-    ],
-    "0x7a58c0be72be218b41c608b7fe7c5bb630736c71": [
-      "PEOPLE",
-      18
-    ],
-    "0xeeee2a622330e6d2036691e983dee87330588603": [
-      "ASKO",
-      18
-    ],
-    "0x0a913bead80f321e7ac35285ee10d9d922659cb7": [
-      "DOS",
-      18
-    ],
     "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0": [
       "TRB",
+      18
+    ],
+    "0x1a59eec501745ad6bdfc37558ddacb38ca5a8c48": [
+      "COSMIC",
+      18
+    ],
+    "0xffffffff2ba8f66d4e51811c5190992176930278": [
+      "COMBO",
+      18
+    ],
+    "0xf8c3527cc04340b208c854e985240c02f7b7793f": [
+      "FRONT",
       18
     ],
     "0x92d529163c5e880b9de86f01de0cb8924d790357": [
       "EYE",
       18
     ],
-    "0x788d86e00ab31db859c3d6b80d5a9375801d7f2a": [
-      "TENET",
+    "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": [
+      "STETH",
       18
     ],
     "0xc1534fe936be00369c7a827a6e731a233bd0ed34": [
@@ -47264,172 +47316,188 @@
       "MPAY",
       18
     ],
-    "0xf073bac22dab7faf4a3dd6c6189a70d54110525c": [
-      "GENETH",
+    "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6": [
+      "POL",
       18
     ],
     "0x33bc4e44054fdb21d5a7cea5c03613782d821e45": [
       "XUDO",
       18
     ],
-    "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f": [
-      "OX",
+    "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790": [
+      "VAULT",
       18
     ],
     "0xd66c27518e72be89999ab1e53c3d9ff73f7f2858": [
       "TETHER",
       8
     ],
-    "0x163f8c2467924be0ae7b5347228cabf260318753": [
-      "WLD",
+    "0x8af78f0c818302164f73b2365fe152c2d1fe80e1": [
+      "FNCT",
       18
     ],
-    "0xe453c3409f8ad2b1fe1ed08e189634d359705a5b": [
-      "DGI",
+    "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b": [
+      "URUS",
       18
     ],
-    "0x21381e026ad6d8266244f2a583b35f9e4413fa2a": [
-      "FORM",
+    "0x369733153e6e08d38f2bc72ae2432e855cfbe221": [
+      "XALPHA",
+      18
+    ],
+    "0x625ae63000f46200499120b906716420bd059240": [
+      "ASUSD",
+      18
+    ],
+    "0x8cb73eb53fa81f808f704bea15a677b6464a1f90": [
+      "GAURO",
+      9
+    ],
+    "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671": [
+      "NMR",
+      18
+    ],
+    "0x5ba19d656b65f1684cfea4af428c23b9f3628f97": [
+      "AAG",
+      18
+    ],
+    "0xca9d8ef4ba15ae66347b3d22afe2970b89980f88": [
+      "INNOVA",
       18
     ],
     "0x4d4d883f920f7c0c36a1be71a02aa0cde2aa22d1": [
       "OPCH",
       18
     ],
-    "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2": [
-      "RVF",
+    "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": [
+      "AKRO",
       18
     ],
-    "0xdd974d5c2e2928dea5f71b9825b8b646686bd200": [
-      "KNCL",
-      18
-    ],
-    "0xe1bad922f84b198a08292fb600319300ae32471b": [
-      "FCT",
-      18
-    ],
-    "0x39a9728fb398583154e6cc5e3defa60908f58e2f": [
-      "BEFY",
-      18
-    ],
-    "0xf5cfbc74057c610c8ef151a439252680ac68c6dc": [
-      "OCT",
-      18
-    ],
-    "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa": [
-      "ZUSD",
-      6
-    ],
-    "0xe0a189c975e4928222978a74517442239a0b86ff": [
-      "KEYS",
+    "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed": [
+      "TSUKA",
       9
     ],
-    "0x668dbf100635f593a3847c0bdaf21f0a09380188": [
-      "BNSD",
+    "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4": [
+      "MNW",
       18
+    ],
+    "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be": [
+      "DOGWIFHAT",
+      9
+    ],
+    "0x18b7f4d5d8d1e36af2975be978fbb5438fd3c2a5": [
+      "BETROCK",
+      18
+    ],
+    "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9": [
+      "IQ",
+      18
+    ],
+    "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069": [
+      "0XGAS",
+      18
+    ],
+    "0xd36306a5d6bfde4f57b5159c6518d93f171fe755": [
+      "RSTETH",
+      18
+    ],
+    "0xd98f75b1a3261dab9eed4956c93f33749027a964": [
+      "SHR",
+      2
     ],
     "0xc2456d2118299a2efdfe6522ff79aa48fc5d2b00": [
       "MARU",
       9
     ],
-    "0x96eafff5bedf18566b18fce71c2323b69c795623": [
-      "ASPC",
+    "0xbe1a001fe942f96eea22ba08783140b9dcc09d28": [
+      "BETA",
       18
     ],
-    "0x8dc89f4716e027394bba225b82328c1ea2ea58bf": [
-      "GVC",
+    "0x4b9278b94a1112cad404048903b8d343a810b07e": [
+      "HIFI",
       18
     ],
-    "0x0b4bdc478791897274652dc15ef5c135cae61e60": [
-      "DAX",
+    "0x1f0efa15e9cb7ea9596257da63fecc36ba469b30": [
+      "ANON",
       18
     ],
-    "0xed35af169af46a02ee13b9d79eb57d6d68c1749e": [
-      "OMI",
+    "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d": [
+      "RLB",
       18
     ],
-    "0xdefb0b264032e4e128b00d02b3fd0aa00331237b": [
-      "BUDDHA",
-      18
-    ],
-    "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12": [
-      "SAVM",
+    "0xa80f2c8f61c56546001f5fc2eb8d6e4e72c45d4c": [
+      "UNQT",
       18
     ],
     "0x570936840fa942c96ca4c57a170dda494dd9b9c6": [
       "ART",
       18
     ],
-    "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e": [
-      "BCB",
-      9
-    ],
     "0x07ac55797d4f43f57ca92a49e65ca582cc287c27": [
       "TBT",
       18
     ],
-    "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6": [
-      "EPOCH",
+    "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7": [
+      "COV",
+      18
+    ],
+    "0x53263d9ef74db583b15fbc6d5d4e8b83833fa134": [
+      "LEAP",
       18
     ],
     "0xff00644ca76def7a3f7501a281ffe45934aefbfe": [
       "GANG",
       9
     ],
-    "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299": [
-      "RBX",
+    "0xd555498a524612c67f286df0e0a9a64a73a7cdc7": [
+      "DEFROGS",
       18
     ],
-    "0xbd6323a83b613f668687014e8a5852079494fb68": [
-      "BTC",
-      18
+    "0x1bb9b64927e0c5e207c9db4093b3738eef5d8447": [
+      "VEC",
+      9
     ],
-    "0xaa846b1ec76cdf864ea03e1df665f6c8d5510923": [
-      "LDAO",
+    "0x41ea5d41eeacc2d5c4072260945118a13bb7ebce": [
+      "CRE",
       18
     ],
     "0x987441856ba4f463544fc68ccbf6a80f434a7956": [
       "NOWAI",
       18
     ],
-    "0x1f19f83fc9a25f3c861260143e36c17706257986": [
-      "VEST",
+    "0x3472a5a71965499acd81997a54bba8d852c6e53d": [
+      "BADGER",
       18
     ],
-    "0xe803178b48a0e560c2b19f3b3d4e504f79d229ce": [
-      "BOBC",
-      18
+    "0x824e35f7a75324f99300afac75ecf7354e17ea26": [
+      "TIA",
+      9
     ],
-    "0x5a98fcbea516cf06857215779fd812ca3bef1b32": [
-      "LDO",
+    "0xb98d4c97425d9908e66e53a6fdf673acca0be986": [
+      "ABT",
       18
     ],
     "0x7fa768e035f956c41d6aeaa3bd857e7e5141cad5": [
       "INSTETH",
       18
     ],
-    "0x5b322514ff727253292637d9054301600c2c81e8": [
-      "DAD",
-      9
+    "0x013062189dc3dcc99e9cee714c513033b8d99e3c": [
+      "INFRA",
+      18
     ],
-    "0x4740735aa98dc8aa232bd049f8f0210458e7fca3": [
-      "RDT",
+    "0x377de38159bf87111c1523055b4a8c3a1a971722": [
+      "GROKGROW",
       18
     ],
     "0xfa2629b9cf3998d52726994e0fcdb750224d8b9d": [
       "INANKRETH",
       18
     ],
-    "0x3d1e5cf16077f349e999d6b21a4f646e83cd90c5": [
-      "DETH",
-      18
+    "0x5919dea604631016c15c805e3d948a0384879892": [
+      "PEEP",
+      9
     ],
-    "0x467719ad09025fcc6cf6f8311755809d45a5e5f3": [
-      "AXL",
-      6
-    ],
-    "0x24fcfc492c1393274b6bcd568ac9e225bec93584": [
-      "MAVIA",
+    "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd": [
+      "MAV",
       18
     ],
     "0xe0c28a5a2da3920946e8bf821f61f7bea311048b": [
@@ -47440,112 +47508,76 @@
       "DFUND",
       18
     ],
-    "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9": [
-      "SIS",
+    "0x97de57ec338ab5d51557da3434828c5dbfada371": [
+      "EUSD",
       18
     ],
-    "0xea81dab2e0ecbc6b5c4172de4c22b6ef6e55bd8f": [
-      "PLEB",
+    "0xbd6323a83b613f668687014e8a5852079494fb68": [
+      "BTC",
       18
     ],
-    "0xb62e45c3df611dce236a6ddc7a493d79f9dfadef": [
-      "WSM",
+    "0x3da932456d082cba208feb0b096d49b202bf89c8": [
+      "DEGO",
       18
     ],
-    "0x24d541c86dd44bc6ce0a0511cf3146c37388ec4c": [
-      "PINEOWL",
+    "0xed35af169af46a02ee13b9d79eb57d6d68c1749e": [
+      "OMI",
+      18
+    ],
+    "0x6923f9b683111dcc0e20124e9a031deeae5dad93": [
+      "HUB",
+      18
+    ],
+    "0x8b91f277501cf8322ebe34f137dd35b384b353c7": [
+      "CORE",
       9
-    ],
-    "0xa60b6c2537078b903e3e965d4e36b7280b0b53a9": [
-      "PYPY",
-      9
-    ],
-    "0x20a62aca58526836165ca53fe67dd884288c8abf": [
-      "RNB",
-      18
-    ],
-    "0xcda2f16c6aa895d533506b426aff827b709c87f5": [
-      "FAI",
-      18
-    ],
-    "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a": [
-      "WAVES",
-      18
-    ],
-    "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce": [
-      "ATOR",
-      18
-    ],
-    "0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b": [
-      "TOP",
-      18
-    ],
-    "0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12": [
-      "TOTORO",
-      9
-    ],
-    "0x61a35258107563f6b6f102ae25490901c8760b12": [
-      "KITTY",
-      18
-    ],
-    "0x028171bca77440897b824ca71d1c56cac55b68a3": [
-      "ADAI",
-      18
-    ],
-    "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f": [
-      "BEST",
-      8
     ],
     "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d": [
       "TEMCO",
       18
     ],
-    "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc": [
-      "LAI",
+    "0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd": [
+      "FEDAI",
+      8
+    ],
+    "0x9f9643209dcce8d7399d7bf932354768069ebc64": [
+      "ICG",
       18
     ],
-    "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca": [
-      "BORING",
+    "0x846c66cf71c43f80403b51fe3906b3599d63336f": [
+      "PMA",
       18
     ],
-    "0x89b69f2d1adffa9a253d40840b6baa7fc903d697": [
-      "DIONE",
-      9
-    ],
-    "0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d": [
-      "SNP",
+    "0xdd974d5c2e2928dea5f71b9825b8b646686bd200": [
+      "KNCL",
       18
     ],
-    "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790": [
-      "VAULT",
-      18
-    ],
-    "0x590f820444fa3638e022776752c5eef34e2f89a6": [
-      "ALPH",
-      18
-    ],
-    "0x18b7f4d5d8d1e36af2975be978fbb5438fd3c2a5": [
-      "BETROCK",
+    "0xde8cd13b812bcd82218754a740b27e76ec1e86ad": [
+      "TRESTLE",
       18
     ],
     "0x9baa12a9e3b9dc355f162082762f95626367d087": [
       "HANDZ",
       18
     ],
-    "0x7ca5af5ba3472af6049f63c1abc324475d44efc1": [
-      "KNDX",
-      9
-    ],
-    "0xcd24ba0e3364233ee9301c1d608a14753c8739c5": [
-      "SOUTH",
+    "0x6fc73113fc1afab4c28d3dd4c537a1da6045d47d": [
+      "TRENDAI",
       18
     ],
-    "0x53263d9ef74db583b15fbc6d5d4e8b83833fa134": [
-      "LEAP",
+    "0x8e0fe2947752be0d5acf73aae77362daf79cb379": [
+      "NFTD",
       18
     ],
-    "0xe16f2ec94e8a0819eb93022c45e05d582f4e5c15": [
-      "PCT",
+    "0x4667765333494049921709a1cec32dedc529d59e": [
+      "AION",
+      18
+    ],
+    "0x423352f2c6e0e72422b69af03aba259310146d90": [
+      "RMV",
+      18
+    ],
+    "0x19de6b897ed14a376dda0fe53a5420d2ac828a28": [
+      "BGB",
       18
     ],
     "0x33bd66c334274989b673a8e8c8d1a3f1b8de5889": [
@@ -47556,189 +47588,265 @@
       "PENGYX",
       18
     ],
-    "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85": [
-      "FET",
+    "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667": [
+      "CELR",
       18
     ],
-    "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54": [
-      "HAPI",
+    "0xd90e69f67203ebe02c917b5128629e77b4cd92dc": [
+      "ONC",
+      18
+    ],
+    "0x39142c18b6db2a8a41b7018f49e1478837560cad": [
+      "STATS",
+      9
+    ],
+    "0xc3cc3076cb304494775b3193ef1aa080ba6bf962": [
+      "ODGN",
       18
     ],
     "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4": [
       "ROUTE",
       18
     ],
-    "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0": [
-      "EQZ",
+    "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9": [
+      "SUDO",
       18
     ],
-    "0xce246eea10988c495b4a90a905ee9237a0f91543": [
-      "VCX",
+    "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2": [
+      "SGT",
+      8
+    ],
+    "0x7616113782aadab041d7b10d474f8a0c04eff258": [
+      "VEE",
       18
     ],
-    "0xd85ad783cc94bd04196a13dc042a3054a9b52210": [
-      "HAKA",
+    "0xed1167b6dc64e8a366db86f2e952a482d0981ebd": [
+      "LBR",
+      18
+    ],
+    "0x10703ca5e253306e2ababd68e963198be8887c81": [
+      "SCAN",
+      18
+    ],
+    "0x9e20461bc2c4c980f62f1b279d71734207a6a356": [
+      "OMNI",
+      18
+    ],
+    "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d": [
+      "DORA",
       18
     ],
     "0xbe393aa534f82c0ffac31bf06a23e283acb3352b": [
       "NTB",
       18
     ],
-    "0x746dda2ea243400d5a63e0700f190ab79f06489e": [
-      "BOA",
-      7
+    "0x24e3794605c84e580eea4972738d633e8a7127c8": [
+      "KTLYO",
+      18
     ],
-    "0x97de57ec338ab5d51557da3434828c5dbfada371": [
+    "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec": [
+      "JASMY",
+      18
+    ],
+    "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f": [
       "EUSD",
       18
     ],
-    "0x71ab77b7dbb4fa7e017bc15090b2163221420282": [
-      "HIGH",
+    "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b": [
+      "GFI",
       18
     ],
-    "0x668308d77be3533c909a692302cb4d135bf8041c": [
-      "INSFRXETH",
+    "0x72bab498fa50a33a03362d0024bb27efbc50a7b7": [
+      "BET",
       18
     ],
-    "0xbf19eead55a6b100667f04f8fbc5371e03e8ab2e": [
-      "INCBETH",
+    "0xfa05a73ffe78ef8f1a739473e462c54bae6567d9": [
+      "LUN",
       18
     ],
-    "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b": [
-      "CRPT",
+    "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6": [
+      "EPOCH",
       18
     ],
-    "0x6c5ba91642f10282b576d91922ae6448c9d52f4e": [
-      "PHA",
+    "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a": [
+      "ZETA",
       18
     ],
-    "0x9181f633e9b9f15a32d5e37094f4c93b333e0e92": [
-      "INOETH",
+    "0x508e00d5cef397b02d260d035e5ee80775e4c821": [
+      "1CAT",
       18
     ],
-    "0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1": [
-      "BIFI",
+    "0x51fe05eac152494908ff1ebbd50e116e960baf64": [
+      "XGPT",
       18
     ],
-    "0x6fc73113fc1afab4c28d3dd4c537a1da6045d47d": [
-      "TRENDAI",
-      18
-    ],
-    "0xecf3672a6d2147e2a77f07069fb48d8cf6f6fbf9": [
-      "INMETH",
+    "0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2": [
+      "BLACK",
       18
     ],
     "0x6bd361e10c1afed0d95259e7c0115f3a60e4ea99": [
       "BOLLY",
       18
     ],
-    "0x9ff58067bd8d239000010c154c6983a325df138e": [
-      "PROPC",
+    "0x08a1c30bbb26425c1031ee9e43fa0b9960742539": [
+      "LNDX",
+      6
+    ],
+    "0x05fe069626543842439ef90d9fa1633640c50cf1": [
+      "EVEAI",
       18
     ],
     "0x6876eba317272fe221c67405c5e8eb3b24535547": [
       "MCT",
       18
     ],
-    "0xda9b11cd701e10c2ec1a284f80820edd128c5246": [
-      "INWBETH",
+    "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40": [
+      "AENJ",
       18
+    ],
+    "0x08c32b0726c5684024ea6e141c50ade9690bbdcc": [
+      "STOS",
+      18
+    ],
+    "0x6982508145454ce325ddbe47a25d4ec3d2311933": [
+      "PEPE",
+      18
+    ],
+    "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb": [
+      "BZZ",
+      16
+    ],
+    "0x738865301a9b7dd80dc3666dd48cf034ec42bdda": [
+      "AGRS",
+      8
     ],
     "0x0888fd2960ddf57cfb561b59d73dd2b9524f6a26": [
       "MIKAWA",
       9
     ],
+    "0x4156d3342d5c385a87d264f90653733592000581": [
+      "SALT",
+      8
+    ],
+    "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2": [
+      "CAPS",
+      18
+    ],
+    "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38": [
+      "MPH",
+      18
+    ],
     "0xbb6881874825e60e1160416d6c426eae65f2459e": [
       "BB-A-WETH",
       18
     ],
-    "0x04c17b9d3b29a78f7bd062a57cf44fc633e71f85": [
-      "IMPT",
+    "0xce246eea10988c495b4a90a905ee9237a0f91543": [
+      "VCX",
       18
     ],
-    "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593": [
-      "RETH",
+    "0xfcf8eda095e37a41e002e266daad7efc1579bc0a": [
+      "FLEX",
       18
     ],
-    "0x3f68e7b44e9bcb486c2feadb7a2289d9cdfc9088": [
-      "ICONS",
+    "0x04506dddbf689714487f91ae1397047169afcf34": [
+      "UNKMAV",
       18
     ],
-    "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe": [
-      "EROWAN",
-      18
-    ],
-    "0x2f4404c4012476929b6503e1397707480bf23b7f": [
-      "TAI",
+    "0x7ca5af5ba3472af6049f63c1abc324475d44efc1": [
+      "KNDX",
       9
+    ],
+    "0x4da08a1bff50be96bded5c7019227164b49c2bfc": [
+      "MONONOKE-INU",
+      9
+    ],
+    "0x12e2b8033420270db2f3b328e32370cb5b2ca134": [
+      "SFP",
+      18
+    ],
+    "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050": [
+      "ARKM",
+      18
     ],
     "0xbd15ad921e1b480209af549874a2fcb80dc312bf": [
       "HRP",
       18
     ],
-    "0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd": [
-      "LSD",
+    "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6": [
+      "MITX",
+      18
+    ],
+    "0xecd48f326e70388d993694de59b4542ce8af7649": [
+      "TADPOLE",
+      18
+    ],
+    "0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c": [
+      "STMX",
+      18
+    ],
+    "0x949d48eca67b17269629c7194f4b727d4ef9e5d6": [
+      "MC",
+      18
+    ],
+    "0xae05559e5bc86ecca132956fa0482dd7d4b2d76d": [
+      "UCLONEX",
+      18
+    ],
+    "0xec6d73557937974077911a0b6fdc436b0ff70296": [
+      "SKRIMP",
+      18
+    ],
+    "0x27702a26126e0b3702af63ee09ac4d1a084ef628": [
+      "ALEPH",
+      18
+    ],
+    "0x728f30fa2f100742c7949d1961804fa8e0b1387d": [
+      "GHX",
+      18
+    ],
+    "0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda": [
+      "HIMAYC",
+      18
+    ],
+    "0x9ff58067bd8d239000010c154c6983a325df138e": [
+      "PROPC",
+      18
+    ],
+    "0xd567b5f02b9073ad3a982a099a23bf019ff11d1c": [
+      "GAME",
+      5
+    ],
+    "0x71ab77b7dbb4fa7e017bc15090b2163221420282": [
+      "HIGH",
+      18
+    ],
+    "0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5": [
+      "AIX",
+      18
+    ],
+    "0xb9f599ce614feb2e1bbe58f180f370d05b39344e": [
+      "PORK",
+      18
+    ],
+    "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": [
+      "OHM",
       9
     ],
-    "0x6ef3d766dfe02dc4bf04aae9122eb9a0ded25615": [
-      "PRIMEETH",
+    "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3": [
+      "OETH",
       18
     ],
-    "0x5c1d9aa868a30795f92fae903edc9eff269044bf": [
-      "CNG",
+    "0x06f3c323f0238c72bf35011071f2b5b7f43a054c": [
+      "MASQ",
       18
     ],
-    "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7": [
-      "YETH",
+    "0x95e05e2abbd26943874ac000d87c3d9e115b543c": [
+      "BIBLE",
       18
     ],
-    "0x4bc2213ee6c99dc38099690603f044980a4f5dba": [
-      "BEAR",
+    "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3": [
+      "MIM",
       18
-    ],
-    "0xa849cd6239906f23b63ba34441b73a5c6eba8a00": [
-      "HASH",
-      18
-    ],
-    "0x68037790a0229e9ce6eaa8a99ea92964106c4703": [
-      "PAR",
-      18
-    ],
-    "0xf091867ec603a6628ed83d274e835539d82e9cc8": [
-      "ZETA",
-      18
-    ],
-    "0x993864e43caa7f7f12953ad6feb1d1ca635b875f": [
-      "SDAO",
-      18
-    ],
-    "0x045109cf1be9edec048aa0b3d7a323154a1aea65": [
-      "ELEV",
-      18
-    ],
-    "0x9f9643209dcce8d7399d7bf932354768069ebc64": [
-      "ICG",
-      18
-    ],
-    "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": [
-      "FXS",
-      18
-    ],
-    "0x70b790d0948a760e80bc3f892b142f7779b538b2": [
-      "DORA",
-      18
-    ],
-    "0xfa14fa6958401314851a17d6c5360ca29f74b57b": [
-      "SAITO",
-      18
-    ],
-    "0xf8b358b3397a8ea5464f8cc753645d42e14b79ea": [
-      "ABL",
-      18
-    ],
-    "0x179cd91631d96e8fafee6a744eac6ffdbb923520": [
-      "IXI",
-      8
     ],
     "0x1ba9843bd4327c6c77011406de5fa8749f7e3479": [
       "ASTG",
@@ -47748,73 +47856,77 @@
       "FURIE",
       9
     ],
-    "0xa258c4606ca8206d8aa700ce2143d7db854d168c": [
-      "YVWETH",
-      18
-    ],
-    "0x5c872500c00565505f3624ab435c222e558e9ff8": [
-      "COT",
+    "0x8ed97a637a790be1feff5e888d43629dc05408f6": [
+      "NPC",
       18
     ],
     "0x9dc7094530cb1bcf5442c3b9389ee386738a190c": [
       "MACRV",
       18
     ],
+    "0x7b744eea1deca2f1b7b31f15ba036fa1759452d7": [
+      "HIPP",
+      18
+    ],
+    "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec": [
+      "REL",
+      18
+    ],
     "0x1900e8b5619a3596745f715d0427fe617c729ba9": [
       "CBG",
       18
     ],
-    "0x8e0fe2947752be0d5acf73aae77362daf79cb379": [
-      "NFTD",
-      18
+    "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e": [
+      "YVWBTC",
+      8
     ],
     "0xe15a66b7b8e385caa6f69fd0d55984b96d7263cf": [
       "ADDY",
       18
     ],
-    "0x115ec79f1de567ec68b7ae7eda501b406626478e": [
-      "CRE",
+    "0x0b61c4f33bcdef83359ab97673cb5961c6435f4e": [
+      "EARN",
       18
+    ],
+    "0xc8871267e07408b89aa5aecc58adca5e574557f8": [
+      "IUSDC",
+      6
     ],
     "0x05030203674173fa6df6f9f7e34d6e70e9a761d7": [
       "MU",
+      18
+    ],
+    "0x8c543aed163909142695f2d2acd0d55791a9edb9": [
+      "VLX",
       18
     ],
     "0xfd4ca4a692f14d88af3e7ae13cf00d5095213b25": [
       "WSKR",
       18
     ],
-    "0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a": [
-      "TET",
-      8
+    "0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0": [
+      "VETH",
+      18
     ],
     "0x98968f0747e0a261532cacc0be296375f5c08398": [
       "MOONCAT",
       18
     ],
-    "0x12ef10a4fc6e1ea44b4ca9508760ff51c647bb71": [
-      "RSTK",
-      18
-    ],
-    "0xb4357054c3da8d46ed642383f03139ac7f090343": [
-      "PORT3",
-      18
-    ],
-    "0x823556202e86763853b40e9cde725f412e294689": [
-      "ASTO",
+    "0x218de5e6324c5351c3a2bf0c40d76f585b8de04d": [
+      "STPETH",
       18
     ],
     "0x8b0fde007458ee153bd0f66cd448af5fb3d99b43": [
       "MASTERMIND",
       18
     ],
-    "0x7da2641000cbb407c329310c461b2cb9c70c3046": [
-      "AGI",
+    "0x06450dee7fd2fb8e39061434babcfc05599a6fb8": [
+      "XEN",
       18
     ],
-    "0xac51066d7bec65dc4589368da368b212745d63e8": [
-      "ALICE",
-      6
+    "0x7237c0b30b1355f1b76355582f182f6f04b08740": [
+      "MGG",
+      18
     ],
     "0xd2287a52287dd64ae2c690d74322e2e345dc8f69": [
       "BBW",
@@ -47824,168 +47936,172 @@
       "BLOB",
       18
     ],
-    "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a": [
-      "CAH",
+    "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f": [
+      "AMANA",
+      18
+    ],
+    "0xec19caef9c046f5f87a497154766742ab9c90820": [
+      "UY00TS",
       18
     ],
     "0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a": [
       "ICNQ",
       18
     ],
+    "0x378cb52b00f9d0921cb46dfc099cff73b42419dc": [
+      "YVLUSD",
+      18
+    ],
     "0x52f4d5ee6c91e01be67ca1f64b11ed0ee370817d": [
       "CIA",
       9
     ],
-    "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65": [
-      "IC21",
+    "0xcba78d126f0b1feda0c538bcaf4c852a7a171099": [
+      "MOE",
       18
     ],
     "0xc608557d966f6b7568e5c9345285f0c8c90a96a2": [
       "XCATGE",
       9
     ],
-    "0xc4e8a9d47000ab8e59c7031e311762c68215e467": [
-      "STARX",
+    "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce": [
+      "ATOR",
       18
     ],
-    "0xbe1a001fe942f96eea22ba08783140b9dcc09d28": [
-      "BETA",
+    "0x148255a3b10666d9788ec48bc61ea3e48974bf2c": [
+      "DMCC",
+      18
+    ],
+    "0x6553565eac5daa9bfc5e2892b36291634c9b2ad6": [
+      "RAKE",
       18
     ],
     "0xedeec5691f23e4914cf0183a4196bbeb30d027a0": [
       "WSTA",
       18
     ],
-    "0xadd8abdea5cb95f4dcd8e128eeef64f023615a6a": [
-      "CHZB",
+    "0xa5f1dbb0e55bc31f32c6d032bee330288490e722": [
+      "DBD",
       18
     ],
     "0x53bd789f2cdb846b227d8ffc7b46ed4263231fdf": [
       "SMBSWAP",
       18
     ],
+    "0xad038eb671c44b853887a7e32528fab35dc5d710": [
+      "DBR",
+      18
+    ],
+    "0x8c3d11360a70fb708762b394be8ef23e3a633e3f": [
+      "UBAKC",
+      18
+    ],
     "0x465a5a630482f3abd6d3b84b39b29b07214d19e5": [
       "FUSDC",
       8
-    ],
-    "0xb62e24b747eaa41454857cf6011832117df59cb8": [
-      "EPIKO",
-      18
-    ],
-    "0x667102bd3413bfeaa3dffb48fa8288819e480a88": [
-      "TKX",
-      8
-    ],
-    "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569": [
-      "KAP",
-      18
-    ],
-    "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b": [
-      "URUS",
-      18
-    ],
-    "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6": [
-      "CERE",
-      10
-    ],
-    "0x678e840c640f619e17848045d23072844224dd37": [
-      "CRTS",
-      18
-    ],
-    "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a": [
-      "SCOTTY",
-      16
-    ],
-    "0x08ba718f288c3b12b01146816bef9fa03cc635bc": [
-      "CENT",
-      18
-    ],
-    "0xb8c3b7a2a618c552c23b1e4701109a9e756bab67": [
-      "YV1INCH",
-      18
-    ],
-    "0xa067237f8016d5e3770cf08b20e343ab9ee813d5": [
-      "GRL",
-      9
-    ],
-    "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec": [
-      "JASMY",
-      18
-    ],
-    "0x62939f78a9a1cc4f9f1ea41cff95cd4f6b912d1b": [
-      "NUME2",
-      18
-    ],
-    "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40": [
-      "AENJ",
-      18
-    ],
-    "0x382a1667c9062f0621362f49076ef6e4fe4c9ec7": [
-      "RUSH",
-      18
-    ],
-    "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d": [
-      "LQTY",
-      18
-    ],
-    "0xde67d97b8770dc98c746a3fc0093c538666eb493": [
-      "BROCK",
-      9
-    ],
-    "0x508e00d5cef397b02d260d035e5ee80775e4c821": [
-      "1CAT",
-      18
-    ],
-    "0xbd356a39bff2cada8e9248532dd879147221cf76": [
-      "WOM",
-      18
-    ],
-    "0x2598c30330d5771ae9f983979209486ae26de875": [
-      "AI",
-      18
-    ],
-    "0xfa05a73ffe78ef8f1a739473e462c54bae6567d9": [
-      "LUN",
-      18
-    ],
-    "0x4b13006980acb09645131b91d259eaa111eaf5ba": [
-      "MYC",
-      18
     ],
     "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86": [
       "OUSD",
       18
     ],
-    "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776": [
-      "NFTX",
+    "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb": [
+      "ALT",
       18
     ],
-    "0xf6d2224916ddfbbab6e6bd0d1b7034f4ae0cab18": [
-      "AUNI",
+    "0xffc97d72e13e01096502cb8eb52dee56f74dad7b": [
+      "AAAVE",
       18
     ],
     "0x64bc2ca1be492be7185faa2c8835d9b824c8a194": [
       "BIGTIME",
       18
     ],
-    "0x57a5a0567187ff4a8dcc1a9bba86155e355878f2": [
-      "INETHX",
+    "0xb8c3b7a2a618c552c23b1e4701109a9e756bab67": [
+      "YV1INCH",
       18
     ],
-    "0x469eda64aed3a3ad6f868c44564291aa415cb1d9": [
-      "FLUX",
+    "0xf941d3aabf2ee0f5589e68ba6047b8329592b366": [
+      "HEEL",
+      9
+    ],
+    "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661": [
+      "COMBO",
       18
     ],
-    "0xb98d4c97425d9908e66e53a6fdf673acca0be986": [
-      "ABT",
+    "0x62939f78a9a1cc4f9f1ea41cff95cd4f6b912d1b": [
+      "NUME2",
       18
     ],
-    "0x35f67c1d929e106fdff8d1a55226afe15c34dbe2": [
-      "BETA",
+    "0x382a1667c9062f0621362f49076ef6e4fe4c9ec7": [
+      "RUSH",
       18
     ],
-    "0x035df12e0f3ac6671126525f1015e47d79dfeddf": [
-      "0XMR",
+    "0xd01409314acb3b245cea9500ece3f6fd4d70ea30": [
+      "LTO",
+      8
+    ],
+    "0x3bd7d4f524d09f4e331577247a048d56e4b67a7f": [
+      "5IRE",
+      18
+    ],
+    "0xe063f04f280c60aeca68b38341c2eecbec703ae2": [
+      "XETH",
+      18
+    ],
+    "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9": [
+      "KOMPETE",
+      10
+    ],
+    "0x3acfc40a19520d97648eb7c0891e747b7f2b0283": [
+      "UAZUKI",
+      18
+    ],
+    "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457": [
+      "INSP",
+      18
+    ],
+    "0xbededdf2ef49e87037c4fb2ca34d1ff3d3992a11": [
+      "FEG",
+      18
+    ],
+    "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac": [
+      "STORJ",
+      8
+    ],
+    "0x7d5121505149065b562c789a0145ed750e6e8cdd": [
+      "VR",
+      18
+    ],
+    "0x6cacdb97e3fc8136805a9e7c342d866ab77d0957": [
+      "SWPR",
+      18
+    ],
+    "0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12": [
+      "TOTORO",
+      9
+    ],
+    "0xfa14fa6958401314851a17d6c5360ca29f74b57b": [
+      "SAITO",
+      18
+    ],
+    "0x5c77bffc54e33ee4ae303a168a4a0e45b238d09c": [
+      "WORMZ",
+      18
+    ],
+    "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643": [
+      "CDAI",
+      8
+    ],
+    "0xf6d2224916ddfbbab6e6bd0d1b7034f4ae0cab18": [
+      "AUNI",
+      18
+    ],
+    "0xcbe7142f5c16755d8683ba329efa1abf7b54482d": [
+      "MVEDA",
+      8
+    ],
+    "0x513c3200f227ebb62e3b3d00b7a83779643a71cf": [
+      "LIFT",
       18
     ],
     "0xd05e3cfe984a00f5d6a1e5b75dee43d7e9ab63c8": [
@@ -47996,68 +48112,56 @@
       "AUSDC",
       6
     ],
-    "0x0abdace70d3790235af448c88547603b945604ea": [
-      "DNT",
-      18
-    ],
-    "0x60c0d11c10a0c04acb47c6296156bdffac62ef97": [
-      "BBCG",
-      4
-    ],
-    "0x378cb52b00f9d0921cb46dfc099cff73b42419dc": [
-      "YVLUSD",
-      18
-    ],
     "0x378e1be15be6d6d1f23cfe7090b6a77660dbf14d": [
       "FOXE",
       18
     ],
-    "0xe1d7c7a4596b038ced2a84bf65b8647271c53208": [
-      "NFTY",
+    "0x6cd7fc3118a8ffa40af0f99f3cbda54b0c6d4d1d": [
+      "UMIL",
       18
     ],
-    "0xa444ec96ee01bb219a44b285de47bf33c3447ad5": [
-      "LEOX",
+    "0xc78b628b060258300218740b1a7a5b3c82b3bd9f": [
+      "COMAI",
       18
     ],
-    "0x0aa1582bebf8d96ea384b6829a5d41278579cd88": [
-      "LYVE",
+    "0x7dedbce5a2e31e4c75f87fea60bf796c17718715": [
+      "PNP",
       18
     ],
-    "0x865ec58b06bf6305b886793aa20a2da31d034e68": [
-      "MOC",
+    "0x6c061d18d2b5bbfbe8a8d1eeb9ee27efd544cc5d": [
+      "MNRCH",
       18
     ],
-    "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667": [
-      "CELR",
+    "0x8ab2ff0116a279a99950c66a12298962d152b83c": [
+      "ORDS",
+      18
+    ],
+    "0x168e209d7b2f58f1f24b8ae7b7d35e662bbf11cc": [
+      "LAI",
       18
     ],
     "0x1d00e86748573c322f4cc41518aa0e77bd912eb4": [
       "USDE",
       18
     ],
-    "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d": [
-      "AURABAL",
+    "0xc691bc298a304d591ad9b352c7a8d216de9f2ced": [
+      "POLA",
       18
     ],
-    "0x038a68ff68c393373ec894015816e33ad41bd564": [
-      "GLCH",
+    "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1": [
+      "SLICE",
       18
     ],
-    "0xd71ecff9342a5ced620049e616c5035f1db98620": [
-      "SEUR",
+    "0x7ba5273d53d8a964b0a338e25def0c082f5c29d3": [
+      "WEN",
+      8
+    ],
+    "0xfe67a4450907459c3e1fff623aa927dd4e28c67a": [
+      "NEXT",
       18
     ],
-    "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d": [
-      "RLB",
-      18
-    ],
-    "0x58b6a8a3302369daec383334672404ee733ab239": [
-      "LPT",
-      18
-    ],
-    "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1": [
-      "BOTX",
+    "0xbf19eead55a6b100667f04f8fbc5371e03e8ab2e": [
+      "INCBETH",
       18
     ],
     "0x553531c45eabc2f3343d19885262ac784046fd5f": [
@@ -48068,80 +48172,84 @@
       "NOONE",
       9
     ],
-    "0x808507121b80c02388fad14726482e061b8da827": [
-      "PENDLE",
+    "0x7da2641000cbb407c329310c461b2cb9c70c3046": [
+      "AGI",
       18
     ],
-    "0x87edffde3e14c7a66c9b9724747a1c5696b742e6": [
-      "SWAG",
+    "0x443b29fc978058abe3fc2f4c3c6b76c57fdecc02": [
+      "IDEAS",
       18
     ],
-    "0x018008bfb33d285247a21d44e50697654f754e63": [
-      "ADAI",
+    "0x7512200f2ae3e1625a060d589348716f65923d75": [
+      "ARENA",
       18
     ],
-    "0x436da116249044e8b4464f0cf21dd93311d88190": [
-      "ZEUM",
+    "0x5fe72ed557d8a02fff49b3b826792c765d5ce162": [
+      "SHEZMU",
       18
     ],
-    "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae": [
-      "XFT",
+    "0x0b38210ea11411557c13457d4da7dc6ea731b88a": [
+      "API3",
       18
     ],
-    "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3": [
-      "ONDO",
+    "0x23352036e911a22cfc692b5e2e196692658aded9": [
+      "FDZ",
       18
     ],
-    "0x6d57b2e05f26c26b549231c866bdd39779e4a488": [
-      "VNXAU",
+    "0x817bbdbc3e8a1204f3691d14bb44992841e3db35": [
+      "CUDOS",
       18
     ],
-    "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e": [
-      "YVWBTC",
-      8
-    ],
-    "0x8d75959f1e61ec2571aa72798237101f084de63a": [
-      "SUB",
+    "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe": [
+      "AVI",
       18
     ],
-    "0x57b946008913b82e4df85f501cbaed910e58d26c": [
-      "POND",
+    "0x0d248ce39e26fb00f911fb1e7a45a00d8c94341c": [
+      "BUTTER",
       18
     ],
-    "0x08a1c30bbb26425c1031ee9e43fa0b9960742539": [
-      "LNDX",
+    "0x12ef10a4fc6e1ea44b4ca9508760ff51c647bb71": [
+      "RSTK",
+      18
+    ],
+    "0xf7168c8abb0ff80116413a8d95396bbdc318a3ff": [
+      "KEKE",
+      7
+    ],
+    "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17": [
+      "DUBBZ",
+      18
+    ],
+    "0x668308d77be3533c909a692302cb4d135bf8041c": [
+      "INSFRXETH",
+      18
+    ],
+    "0x8390a1da07e376ef7add4be859ba74fb83aa02d5": [
+      "GROK",
+      9
+    ],
+    "0x9fa69536d1cda4a04cfb50688294de75b505a9ae": [
+      "DERC",
+      18
+    ],
+    "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c": [
+      "USDTSO",
       6
     ],
-    "0x42a7797351dfd281a80807196c8508eb70bb2af9": [
-      "AIS",
-      18
-    ],
-    "0x72c60bfffef18dca51db32b52b819a951b6ddbed": [
-      "SHIDO",
-      18
-    ],
-    "0x3007083eaa95497cd6b2b809fb97b6a30bdf53d3": [
-      "PSYOP",
+    "0x0b4bdc478791897274652dc15ef5c135cae61e60": [
+      "DAX",
       18
     ],
     "0x045da4bfe02b320f4403674b3b7d121737727a36": [
       "DCHF",
       18
     ],
-    "0x888888848b652b3e3a0f34c96e00eec0f3a23f72": [
-      "TLM",
-      4
-    ],
-    "0xdd782657af86492771bdb369caeb8c246be362f5": [
-      "RUG",
-      12
-    ],
-    "0x3486b751a36f731a1bebff779374bad635864919": [
-      "INEDIBLE",
+    "0xb056c38f6b7dc4064367403e26424cd2c60655e1": [
+      "CEEK",
       18
     ],
-    "0x8b79656fc38a04044e495e22fad747126ca305c4": [
-      "AGVC",
+    "0x2dc917b722184ece1dcb9bb9dddfb1d63ccd25eb": [
+      "WHRH",
       18
     ],
     "0x04e3a2932bfe7b669c9f18df44b2b0a0ee681c19": [
@@ -48152,524 +48260,480 @@
       "KLTR",
       18
     ],
-    "0xb3a58eb551b5f80ec70b7f69ab7b664453271412": [
-      "MIXCOIN",
+    "0xa35923162c49cf95e6bf26623385eb431ad920d3": [
+      "TURBO",
       18
     ],
-    "0x2dc917b722184ece1dcb9bb9dddfb1d63ccd25eb": [
-      "WHRH",
+    "0x08ba718f288c3b12b01146816bef9fa03cc635bc": [
+      "CENT",
       18
     ],
-    "0x3819f64f282bf135d62168c1e513280daf905e06": [
-      "HDRN",
-      9
-    ],
-    "0x33e07f5055173cf8febede8b21b12d1e2b523205": [
-      "ELAND",
+    "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593": [
+      "RETH",
       18
     ],
-    "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7": [
-      "MANDOX",
-      9
+    "0x3007083eaa95497cd6b2b809fb97b6a30bdf53d3": [
+      "PSYOP",
+      18
     ],
-    "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff": [
-      "IMX",
+    "0x72108a8cc3254813c6be2f1b77be53e185abfdd9": [
+      "ES",
+      18
+    ],
+    "0x823556202e86763853b40e9cde725f412e294689": [
+      "ASTO",
+      18
+    ],
+    "0xbcca60bb61934080951369a648fb03df4f96263c": [
+      "AUSDC",
+      6
+    ],
+    "0x57a5a0567187ff4a8dcc1a9bba86155e355878f2": [
+      "INETHX",
       18
     ],
     "0x71aef7b30728b9bb371578f36c5a1f1502a5723e": [
       "A1INCH",
       18
     ],
-    "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794": [
-      "ETHM",
+    "0x4bc2213ee6c99dc38099690603f044980a4f5dba": [
+      "BEAR",
       18
     ],
-    "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7": [
-      "MOOV",
+    "0xa408090a36cef0b23c3f518484a4e06c7c7df27c": [
+      "LONG",
       18
     ],
-    "0xda47862a83dac0c112ba89c6abc2159b95afd71c": [
-      "PRISMA",
+    "0x329c6e459ffa7475718838145e5e85802db2a303": [
+      "EMAID",
       18
     ],
-    "0xd01409314acb3b245cea9500ece3f6fd4d70ea30": [
-      "LTO",
+    "0xc5170dd7386247cdb8c48545c803f5d0e3347022": [
+      "TI",
+      18
+    ],
+    "0x6c5024cd4f8a59110119c56f8933403a539555eb": [
+      "ASUSD",
+      18
+    ],
+    "0x3f68e7b44e9bcb486c2feadb7a2289d9cdfc9088": [
+      "ICONS",
+      18
+    ],
+    "0xdd782657af86492771bdb369caeb8c246be362f5": [
+      "RUG",
+      12
+    ],
+    "0x3597bfd533a99c9aa083587b074434e61eb0a258": [
+      "DENT",
       8
     ],
-    "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079": [
-      "AJNA",
-      18
-    ],
-    "0x4ffe9cc172527df1e40d0b2efe1e9f05884a13da": [
-      "USA",
-      18
-    ],
-    "0x7c28310cc0b8d898c57b93913098e74a3ba23228": [
-      "PCE",
-      18
-    ],
-    "0x037a54aab062628c9bbae1fdb1583c195585fe41": [
-      "LCX",
-      18
-    ],
-    "0x513c3200f227ebb62e3b3d00b7a83779643a71cf": [
-      "LIFT",
+    "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31": [
+      "PIXEL",
       18
     ],
     "0xe340b25fe32b1011616bb8ec495a4d503e322177": [
       "AAMMUNIDAIUSDC",
       18
     ],
-    "0x2a69655c22eda32ff48d315bb26ed45f150700b4": [
-      "WXTZ",
-      6
+    "0x7deb5e830be29f91e298ba5ff1356bb7f8146998": [
+      "AMKR",
+      18
     ],
-    "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe": [
-      "USDS",
-      6
+    "0x24fcfc492c1393274b6bcd568ac9e225bec93584": [
+      "MAVIA",
+      18
+    ],
+    "0x6100dd79fcaa88420750dcee3f735d168abcb771": [
+      "OS",
+      18
+    ],
+    "0x411099c0b413f4feddb10edf6a8be63bd321311c": [
+      "HELLO",
+      18
     ],
     "0xb8fa12f8409da31a4fc43d15c4c78c33d8213b9b": [
       "CALI",
       18
     ],
-    "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa": [
-      "QANX",
-      18
-    ],
-    "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25": [
-      "XCM",
+    "0xb7be27ba608641f0b6f152c8b432757f3685d2b0": [
+      "U",
       18
     ],
     "0x966e770030209c95f974f37edbde65d98e853354": [
       "MAXX",
       18
     ],
-    "0x36a17b52b5322846fcf894ee1535c8aa23df6765": [
-      "UPOTATOZ",
-      18
-    ],
-    "0x3106a0a076bedae847652f42ef07fd58589e001f": [
-      "ADS",
-      18
-    ],
     "0x9c32185b81766a051e08de671207b34466dd1021": [
       "BTCPX",
       8
     ],
-    "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": [
-      "STETH",
+    "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22": [
+      "OBT",
       18
     ],
     "0xbf0b8b7475edb32d103001efd19fdd2753d7b76d": [
       "ABI",
       18
     ],
-    "0x719e7f0dadfdea25b78595da944f44d15d7e6795": [
-      "MUSK",
+    "0x644192291cc835a93d6330b24ea5f5fedd0eef9e": [
+      "NXRA",
       18
     ],
-    "0x0b61c4f33bcdef83359ab97673cb5961c6435f4e": [
-      "EARN",
+    "0x58fad9e3c3ae54c9ba98c3f0e4bf88ab3e8cf3c5": [
+      "SPAY",
       18
     ],
-    "0xdc47f2ba852669b178699449e50682d6ceaf8c07": [
-      "STON",
+    "0x746dda2ea243400d5a63e0700f190ab79f06489e": [
+      "BOA",
+      7
+    ],
+    "0x3e5d9d8a63cc8a88748f229999cf59487e90721e": [
+      "XMT",
       18
     ],
     "0x30cf203b48edaa42c3b4918e955fed26cd012a3f": [
       "SEED",
       18
     ],
+    "0xb62e24b747eaa41454857cf6011832117df59cb8": [
+      "EPIKO",
+      18
+    ],
+    "0x89b69f2d1adffa9a253d40840b6baa7fc903d697": [
+      "DIONE",
+      9
+    ],
     "0x55b2cfcfe99110c773f00b023560dd9ef6c8a13b": [
       "CDETI",
       18
     ],
-    "0x979aca85ba37c675e78322ed5d97fa980b9bdf00": [
-      "FSN",
+    "0xd92b7adfdb79c26b5983a56ba7540d48d4616b8e": [
+      "DOBBY",
       18
     ],
     "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629": [
       "CIG",
       18
     ],
-    "0x630d98424efe0ea27fb1b3ab7741907dffeaad78": [
-      "PEAK",
-      8
-    ],
     "0xf80d589b3dbe130c270a69f1a69d050f268786df": [
       "DAM",
       18
     ],
-    "0xa35b1b31ce002fbf2058d22f30f95d405200a15b": [
-      "ETHX",
+    "0xf250b1f6193941bb8bff4152d719edf1a59c0e69": [
+      "AIRM",
       18
     ],
-    "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84": [
-      "ALINK",
+    "0x719e7f0dadfdea25b78595da944f44d15d7e6795": [
+      "MUSK",
       18
     ],
-    "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7": [
-      "TEMPLE",
+    "0xe1d7c7a4596b038ced2a84bf65b8647271c53208": [
+      "NFTY",
       18
     ],
-    "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda": [
-      "AKNC",
+    "0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52": [
+      "CLH",
       18
     ],
-    "0x1cfa5641c01406ab8ac350ded7d735ec41298372": [
-      "CJPY",
+    "0x943ed852dadb5c3938ecdc6883718df8142de4c8": [
+      "FTI",
       18
     ],
-    "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321": [
-      "VITA",
+    "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f": [
+      "BEST",
+      8
+    ],
+    "0xda47862a83dac0c112ba89c6abc2159b95afd71c": [
+      "PRISMA",
       18
     ],
-    "0x586ee5df24c5a426e42ed7ea6e3eb0f00a4a2256": [
-      "AMB",
-      18
-    ],
-    "0x38e382f74dfb84608f3c1f10187f6bef5951de93": [
-      "MUBI",
-      18
-    ],
-    "0xb7037457de15fed6cbecc0c62d5d610834b958ec": [
-      "WHIRL",
-      18
-    ],
-    "0x27702a26126e0b3702af63ee09ac4d1a084ef628": [
-      "ALEPH",
+    "0x163f8c2467924be0ae7b5347228cabf260318753": [
+      "WLD",
       18
     ],
     "0xda816459f1ab5631232fe5e97a05bbbb94970c95": [
       "YVDAI",
       18
     ],
+    "0x562e362876c8aee4744fc2c6aac8394c312d215d": [
+      "OPTI",
+      9
+    ],
+    "0xc8bf8bc34874e07f6a0d4abc8be22ba9e372631b": [
+      "SWGT",
+      8
+    ],
+    "0x0d438f3b5175bebc262bf23753c1e53d03432bde": [
+      "WNXM",
+      18
+    ],
+    "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1": [
+      "AUNI",
+      18
+    ],
+    "0x61a35258107563f6b6f102ae25490901c8760b12": [
+      "KITTY",
+      18
+    ],
     "0x8d9d725aaa3f6236763ff548051657a342c37623": [
       "NED",
       18
     ],
-    "0x19de6b897ed14a376dda0fe53a5420d2ac828a28": [
-      "BGB",
-      18
-    ],
-    "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661": [
-      "COMBO",
+    "0x5283d291dbcf85356a21ba090e6db59121208b44": [
+      "BLUR",
       18
     ],
     "0xe5ca70281149be03da30778fb5ec6183d339f7a5": [
       "GPBP",
       9
     ],
-    "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb": [
-      "ALT",
-      18
-    ],
-    "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1": [
-      "SLICE",
-      18
-    ],
-    "0xcc2d17dfa245dc2aa3705fc75d2f7df3fe6440c7": [
-      "RSRV",
+    "0x6ef460eb3563cfcc73f8147b0a77daffee71f867": [
+      "ZEUS",
       18
     ],
     "0xfbeb78a723b8087fd2ea7ef1afec93d35e8bed42": [
       "YVUNI",
       18
     ],
-    "0xa2fe5e51729be71261bcf42854012827bc44c044": [
-      "BURN",
-      18
-    ],
-    "0xee503d43ad447cdfc719f688207bfcb2fbb9471c": [
-      "DAO",
-      18
-    ],
     "0x66fd97a78d8854fec445cd1c80a07896b0b4851f": [
       "LMY",
       18
     ],
-    "0xe063f04f280c60aeca68b38341c2eecbec703ae2": [
-      "XETH",
-      18
-    ],
-    "0x674c6ad92fd080e4004b2312b45f796a192d27a0": [
-      "XTN",
-      18
-    ],
-    "0xfbe6f37d3db3fc939f665cfe21238c11a5447831": [
-      "ETH20",
-      9
-    ],
-    "0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20": [
-      "AGA",
-      4
-    ],
-    "0x9f5f3cfd7a32700c93f971637407ff17b91c7342": [
-      "DDD",
-      18
-    ],
-    "0xf1df7305e4bab3885cab5b1e4dfc338452a67891": [
-      "PALM",
-      9
-    ],
-    "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38": [
-      "OSETH",
-      18
-    ],
-    "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c": [
-      "USDTSO",
-      6
-    ],
-    "0xcf60870dcedcad18d987af20687ca4717cae0533": [
-      "DFC",
-      18
-    ],
-    "0x430ef9263e76dae63c84292c3409d61c598e9682": [
-      "PYR",
+    "0x922d8563631b03c2c4cf817f4d18f6883aba0109": [
+      "LOCK",
       18
     ],
     "0x09f098b155d561fc9f7bccc97038b7e3d20baf74": [
       "ZOO",
       18
     ],
-    "0xb3999f658c0391d94a37f7ff328f3fec942bcadc": [
-      "HFT",
+    "0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6": [
+      "ODDZ",
       18
     ],
-    "0x21b8bfbbefc9e2b9a994871ecd742a5132b98aed": [
-      "CRE",
+    "0x4b7265d153886a7dc717e815862acde6ff7b5bc8": [
+      "DENCH",
       18
     ],
-    "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131": [
-      "DEFI",
+    "0xe33ae4e795114279721047484e5ad5cc7df24fcb": [
+      "MCF",
+      10
+    ],
+    "0x75c97384ca209f915381755c582ec0e2ce88c1ba": [
+      "FINE",
       18
     ],
-    "0xd90e69f67203ebe02c917b5128629e77b4cd92dc": [
-      "ONC",
+    "0xdefcafe7eac90d31bbba841038df365de3c4e207": [
+      "CAFE",
+      9
+    ],
+    "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8": [
+      "CTR",
+      18
+    ],
+    "0x9681ee0d91e737c3b60aceba7fbdae61b5462f42": [
+      "CYCE",
+      6
+    ],
+    "0xccba0b2bc4babe4cbfb6bd2f1edc2a9e86b7845f": [
+      "WINTER",
+      18
+    ],
+    "0x18e5f92103d1b34623738ee79214b1659f2ee109": [
+      "WCELL",
+      18
+    ],
+    "0x9181f633e9b9f15a32d5e37094f4c93b333e0e92": [
+      "INOETH",
+      18
+    ],
+    "0xe0a189c975e4928222978a74517442239a0b86ff": [
+      "KEYS",
+      9
+    ],
+    "0x10f2cf6ef155460c5b716080eb57928652867f2e": [
+      "MUSK",
       18
     ],
     "0x51fe2e572e97bfeb1d719809d743ec2675924edc": [
       "VPAD",
       18
     ],
-    "0xb8b295df2cd735b15be5eb419517aa626fc43cd5": [
-      "STLINK",
-      18
-    ],
-    "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3": [
-      "OETH",
-      18
-    ],
-    "0x4507cef57c46789ef8d1a19ea45f4216bae2b528": [
-      "TOKEN",
-      9
-    ],
-    "0x8c3d11360a70fb708762b394be8ef23e3a633e3f": [
-      "UBAKC",
-      18
-    ],
-    "0x14cc8dfaf2258e1b8b2869300dba1b734dc0fe43": [
-      "KTT",
+    "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776": [
+      "NFTX",
       18
     ],
     "0x2f6f397332b0f8b4536430bcc97980aa838f62f9": [
       "YUNA",
       18
     ],
-    "0xd7b2c1a7f3c67fb0ea57a7ef29bc1f18d7be3195": [
-      "VMINT",
-      18
-    ],
     "0x4e1a609ec87cf6477613f515f6eb64ef2d31089a": [
       "DGCS",
       0
     ],
-    "0x821a278dfff762c76410264303f25bf42e195c0c": [
-      "PETH",
+    "0xe4dae00bc1c46ea2f44ae71b1beb8b171c15d812": [
+      "PRMX",
       18
     ],
-    "0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda": [
-      "HIMAYC",
-      18
-    ],
-    "0xcb8fb2438a805664cd8c3e640b85ac473da5be87": [
-      "CTI",
-      18
-    ],
-    "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb": [
-      "BZZ",
-      16
+    "0x925206b8a707096ed26ae47c84747fe0bb734f59": [
+      "WBT",
+      8
     ],
     "0x4501a82790ef2587dfeb93dc038541228e516597": [
       "HYDRA",
       18
     ],
-    "0xe085ff62e049b5e3a8d12bc6dffc2dfa329a8894": [
-      "FLEX",
+    "0x4594cffbfc09bc5e7ecf1c2e1c1e24f0f7d29036": [
+      "0KN",
       18
     ],
-    "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef": [
-      "AENJ",
+    "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7": [
+      "TEMPLE",
       18
     ],
-    "0x96f6ef951840721adbf46ac996b59e0235cb985c": [
-      "USDY",
+    "0x530824da86689c9c17cdc2871ff29b058345b44a": [
+      "STBT",
       18
     ],
-    "0x7616113782aadab041d7b10d474f8a0c04eff258": [
-      "VEE",
+    "0xbe59baad09b07086ee6c39bd0fc234c157c31ccc": [
+      "LONG",
       18
     ],
-    "0x7ba5273d53d8a964b0a338e25def0c082f5c29d3": [
-      "WEN",
-      8
-    ],
-    "0x5283d291dbcf85356a21ba090e6db59121208b44": [
-      "BLUR",
+    "0xca0e7269600d353f70b14ad118a49575455c0f2f": [
+      "AMLT",
       18
     ],
-    "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9": [
-      "IQ",
+    "0xa0ef786bf476fe0810408caba05e536ac800ff86": [
+      "MYRIA",
       18
     ],
-    "0xc78b628b060258300218740b1a7a5b3c82b3bd9f": [
-      "COMAI",
+    "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208": [
+      "ROCK",
       18
     ],
-    "0xd4568d313fa2d5c6eba37c9f30f6fb8d1c552ddd": [
-      "LDY",
+    "0xa444ec96ee01bb219a44b285de47bf33c3447ad5": [
+      "LEOX",
       18
     ],
-    "0x7f792db54b0e580cdc755178443f0430cf799aca": [
-      "VOLT",
-      9
-    ],
-    "0xeb986da994e4a118d5956b02d8b7c3c7ce373674": [
-      "GTH",
+    "0x3c3a81e81dc49a522a592e7622a7e711c06bf354": [
+      "MNT",
       18
     ],
-    "0xf17e65822b568b3903685a7c9f496cf7656cc6c2": [
-      "BICO",
+    "0xd101dcc414f310268c37eeb4cd376ccfa507f571": [
+      "RSC",
       18
     ],
-    "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0": [
-      "LORDS",
+    "0xdc63269ea166b70d4780b3a11f5c825c2b761b01": [
+      "PAW",
       18
     ],
-    "0x662b67d00a13faf93254714dd601f5ed49ef2f51": [
-      "ORC",
+    "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": [
+      "ANKR",
       18
     ],
-    "0x6c4c193bff0a117f0c2b516802abba961a1eeb12": [
-      "PAPA",
+    "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c": [
+      "X8X",
       18
     ],
-    "0x58083b54013631bacc0bbb6d4efa543fee1d9ce0": [
-      "FRC",
+    "0x668dbf100635f593a3847c0bdaf21f0a09380188": [
+      "BNSD",
       18
     ],
-    "0xbadff0ef41d2a68f22de21eabca8a59aaf495cf0": [
-      "KABOSU",
+    "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84": [
+      "ALINK",
       18
     ],
-    "0x6dca182ac5e3f99985bc4ee0f726d6472ab1ec55": [
-      "USHI",
+    "0xb478c6245e3d85d6ec3486b62ea872128d562541": [
+      "LOOT",
+      18
+    ],
+    "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca": [
+      "BORING",
+      18
+    ],
+    "0x5a98fcbea516cf06857215779fd812ca3bef1b32": [
+      "LDO",
+      18
+    ],
+    "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d": [
+      "FUSE",
+      18
+    ],
+    "0xee503d43ad447cdfc719f688207bfcb2fbb9471c": [
+      "DAO",
       18
     ],
     "0xf0068a3657526bc7f824b55575714ebffe9ca67e": [
       "PGA",
       18
     ],
-    "0x68b429161ec09a6c1d65ba70727ab1faa5bc4026": [
-      "ODOGE",
-      18
-    ],
-    "0x8bcbef61acd66537362f38167f11875134ffcd63": [
-      "PEPEG",
-      18
-    ],
-    "0x486f4641ef2b50cc130dadbd27b6f271723873b8": [
-      "GOLD",
+    "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202": [
+      "KNC",
       18
     ],
     "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e": [
       "FPI",
       18
     ],
-    "0x04506dddbf689714487f91ae1397047169afcf34": [
-      "UNKMAV",
+    "0x5c1d9aa868a30795f92fae903edc9eff269044bf": [
+      "CNG",
       18
     ],
-    "0x7a2631aa3590fd6361d2d7afb51d5fe9d33ab2ec": [
-      "CHECKDM",
-      9
-    ],
-    "0x3ba925fdeae6b46d0bb4d424d829982cb2f7309e": [
-      "RBX",
+    "0xfe39c384d702914127a005523f9915addb9bd59b": [
+      "HPO",
       18
     ],
-    "0xffc97d72e13e01096502cb8eb52dee56f74dad7b": [
-      "AAAVE",
+    "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c": [
+      "OSAK",
       18
     ],
-    "0xf1dc500fde233a4055e25e5bbf516372bc4f6871": [
-      "SDL",
+    "0x80008bcd713c38af90a9930288d446bc3bd2e684": [
+      "KARATE",
       18
     ],
-    "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d": [
-      "CTSI",
-      18
-    ],
-    "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69": [
-      "IOTX",
-      18
-    ],
-    "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd": [
-      "WOMBAT",
-      18
+    "0x71fc860f7d3a592a4a98740e39db31d25db65ae8": [
+      "AUSDT",
+      6
     ],
     "0xbe1dbe6741fb988fb571ab1e28cffb36e3c62629": [
       "MAV",
       18
     ],
-    "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe": [
-      "AVI",
+    "0xcf60870dcedcad18d987af20687ca4717cae0533": [
+      "DFC",
       18
     ],
-    "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c": [
-      "SHIBA",
+    "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197": [
+      "GAMMA",
       18
     ],
-    "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38": [
-      "EDUM",
+    "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3": [
+      "USDGLO",
       18
     ],
     "0x8811e4dd5ec5eb8764b97cc814b1339089717ada": [
       "BITH",
       8
     ],
-    "0xf7e945fce8f19302aacc7e1418b0a0bdef89327b": [
-      "IZE",
+    "0x274e7eb07b485cfde53d02270555213447570ac6": [
+      "GOV",
+      18
+    ],
+    "0xd9a442856c234a39a81a089c06451ebaa4306a72": [
+      "PUFETH",
+      18
+    ],
+    "0x666d875c600aa06ac1cf15641361dec3b00432ef": [
+      "BTSE",
       8
     ],
-    "0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c": [
-      "STMX",
+    "0xfd07fd5ebea6f24888a397997e262179bf494336": [
+      "INOSETH",
       18
     ],
-    "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2": [
-      "CHR",
-      6
-    ],
-    "0x070e984fda37dd942f5c953f6b2375339adac308": [
-      "AXE",
-      18
-    ],
-    "0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98": [
-      "OPSEC",
-      18
-    ],
-    "0xd3210f246ae54c5a45a7b4a83315bf718f591bfc": [
-      "ARKI",
+    "0x4507cef57c46789ef8d1a19ea45f4216bae2b528": [
+      "TOKEN",
       9
     ],
     "0xc3ade5ace1bbb033ccae8177c12ecbfa16bd6a9d": [
@@ -48680,20 +48744,16 @@
       "MORI",
       18
     ],
-    "0xaaaaaa20d9e0e2461697782ef11675f668207961": [
-      "AURORA",
-      18
+    "0xac51066d7bec65dc4589368da368b212745d63e8": [
+      "ALICE",
+      6
     ],
     "0x5c8c8d560048f34e5f7f8ad71f2f81a89dbd273e": [
       "CART",
       18
     ],
-    "0xa1faa113cbe53436df28ff0aee54275c13b40975": [
-      "ALPHA",
-      18
-    ],
-    "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05": [
-      "GEL",
+    "0xcda2f16c6aa895d533506b426aff827b709c87f5": [
+      "FAI",
       18
     ],
     "0x50d1c8e131dca8b9226c0a0f78947557497374b3": [
@@ -48704,248 +48764,260 @@
       "PAYB",
       18
     ],
-    "0xcc0d1b36d88fd8f5f26fd00e4e769e2dab4e3e07": [
-      "LIGHT",
+    "0x57b946008913b82e4df85f501cbaed910e58d26c": [
+      "POND",
       18
     ],
-    "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": [
-      "AKRO",
+    "0x5483dc6abda5f094865120b2d251b5744fc2ecb5": [
+      "TPAD",
       18
     ],
-    "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd": [
-      "DODO",
+    "0x035df12e0f3ac6671126525f1015e47d79dfeddf": [
+      "0XMR",
       18
     ],
-    "0x19ae49b9f38dd836317363839a5f6bfbfa7e319a": [
-      "STC",
+    "0xe085ff62e049b5e3a8d12bc6dffc2dfa329a8894": [
+      "FLEX",
+      18
+    ],
+    "0xeb986da994e4a118d5956b02d8b7c3c7ce373674": [
+      "GTH",
+      18
+    ],
+    "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5": [
+      "SOV",
+      18
+    ],
+    "0xa34ee6108fe427f91edce0d6520d9fec0e64f67b": [
+      "PLPC",
       9
     ],
-    "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5": [
-      "0X0",
+    "0x8642a849d0dcb7a15a974794668adcfbe4794b56": [
+      "PROS",
+      18
+    ],
+    "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25": [
+      "XCM",
+      18
+    ],
+    "0xc5190e7fec4d97a3a3b1ab42dfedac608e2d0793": [
+      "FXI",
+      18
+    ],
+    "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41": [
+      "PROPS",
+      18
+    ],
+    "0x430ef9263e76dae63c84292c3409d61c598e9682": [
+      "PYR",
+      18
+    ],
+    "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181": [
+      "ALI",
+      18
+    ],
+    "0xa60b6c2537078b903e3e965d4e36b7280b0b53a9": [
+      "PYPY",
       9
     ],
-    "0x7340ea46360576dc46ef49bce99bc5072c32421d": [
-      "DSQ",
+    "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7": [
+      "MOOV",
       18
     ],
-    "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd": [
-      "MAV",
-      18
-    ],
-    "0x0d438f3b5175bebc262bf23753c1e53d03432bde": [
-      "WNXM",
-      18
-    ],
-    "0x8fac8031e079f409135766c7d5de29cf22ef897c": [
-      "HEART",
-      18
-    ],
-    "0x925206b8a707096ed26ae47c84747fe0bb734f59": [
-      "WBT",
-      8
-    ],
-    "0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd": [
-      "FEDAI",
-      8
-    ],
-    "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5": [
-      "TT",
-      18
-    ],
-    "0x23352036e911a22cfc692b5e2e196692658aded9": [
-      "FDZ",
-      18
-    ],
-    "0x7df18e4efd6e6f73cfb462937dac40fe42533016": [
-      "ZKITTY",
-      18
-    ],
-    "0xde8cd13b812bcd82218754a740b27e76ec1e86ad": [
-      "TRESTLE",
-      18
-    ],
-    "0x77571a64342667f7818520ef004b2b91f47a266b": [
-      "SNM",
-      18
-    ],
-    "0xe7eaec9bca79d537539c00c58ae93117fb7280b9": [
-      "DOGEP",
-      18
-    ],
-    "0xd1c8fa30fded3e0031dc24c1646d74108b096cc2": [
-      "LUCKY",
+    "0xf1df7305e4bab3885cab5b1e4dfc338452a67891": [
+      "PALM",
       9
     ],
-    "0x86ed939b500e121c0c5f493f399084db596dad20": [
-      "SPC",
+    "0xea068fba19ce95f12d252ad8cb2939225c4ea02d": [
+      "FIEF",
       18
     ],
-    "0xf66cd2f8755a21d3c8683a10269f795c0532dd58": [
-      "COREDAO",
+    "0x40a7df3df8b56147b781353d379cb960120211d7": [
+      "MOBY",
       18
     ],
-    "0x661013bb8d1c95d86d9c85f76e9004561f1bb36f": [
-      "DRBT",
+    "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa": [
+      "METH",
       18
     ],
-    "0x1122b6a0e00dce0563082b6e2953f3a943855c1f": [
-      "CENNZ",
+    "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda": [
+      "AKNC",
       18
     ],
-    "0x8c543aed163909142695f2d2acd0d55791a9edb9": [
-      "VLX",
-      18
-    ],
-    "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac": [
-      "STORJ",
-      8
-    ],
-    "0xdfc3829b127761a3218bfcee7fc92e1232c9d116": [
-      "PRCY",
-      8
-    ],
-    "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3": [
-      "LEO",
-      18
-    ],
-    "0x06450dee7fd2fb8e39061434babcfc05599a6fb8": [
-      "XEN",
-      18
-    ],
-    "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408": [
-      "LIQ",
-      18
-    ],
-    "0x644192291cc835a93d6330b24ea5f5fedd0eef9e": [
-      "NXRA",
-      18
-    ],
-    "0xc691bc298a304d591ad9b352c7a8d216de9f2ced": [
-      "POLA",
-      18
-    ],
-    "0xa5f2211b9b8170f694421f2046281775e8468044": [
-      "THOR",
-      18
-    ],
-    "0x0c08638473cafbca3beb113616a1871f4bfad4f9": [
-      "ZOO",
-      18
-    ],
-    "0x9fd5555d0360adc2b5d92179e9bc36802bba8621": [
-      "APES",
-      18
-    ],
-    "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc": [
-      "MIMO",
-      18
-    ],
-    "0x8390a1da07e376ef7add4be859ba74fb83aa02d5": [
-      "GROK",
+    "0xfc4b4ec763722b71eb1d729749b447a9645f5f30": [
+      "GME",
       9
     ],
     "0x97effb790f2fbb701d88f89db4521348a2b77be8": [
       "CVG",
       18
     ],
-    "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": [
-      "ANKR",
+    "0x2a69655c22eda32ff48d315bb26ed45f150700b4": [
+      "WXTZ",
+      6
+    ],
+    "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408": [
+      "LIQ",
       18
     ],
-    "0x69fa10cac03047a47ff32d7cddd6085ff1583d03": [
-      "HYPER",
+    "0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd": [
+      "LSD",
+      9
+    ],
+    "0x3486b751a36f731a1bebff779374bad635864919": [
+      "INEDIBLE",
       18
     ],
-    "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695": [
-      "PBR",
+    "0xa92e7c82b11d10716ab534051b271d2f6aef7df5": [
+      "ARA",
+      18
+    ],
+    "0x8947da500eb47f82df21143d0c01a29862a8c3c5": [
+      "THALES",
+      18
+    ],
+    "0xb17548c7b510427baac4e267bea62e800b247173": [
+      "SMT",
+      18
+    ],
+    "0x3ba925fdeae6b46d0bb4d424d829982cb2f7309e": [
+      "RBX",
+      18
+    ],
+    "0x5e3346444010135322268a4630d2ed5f8d09446c": [
+      "LOC",
+      18
+    ],
+    "0x35f67c1d929e106fdff8d1a55226afe15c34dbe2": [
+      "BETA",
+      18
+    ],
+    "0x8bcbef61acd66537362f38167f11875134ffcd63": [
+      "PEPEG",
       18
     ],
     "0x849c479d7a90eb378dbd00e8f166371176244eb1": [
       "MUU",
       9
     ],
-    "0x3b604747ad1720c01ded0455728b62c0d2f100f0": [
-      "WAGMIGAMES",
+    "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d": [
+      "LQTY",
       18
     ],
-    "0x58fad9e3c3ae54c9ba98c3f0e4bf88ab3e8cf3c5": [
-      "SPAY",
+    "0x4c3bae16c79c30eeb1004fb03c878d89695e3a99": [
+      "AUTUMN",
       18
     ],
-    "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": [
-      "OHM",
+    "0x69fa10cac03047a47ff32d7cddd6085ff1583d03": [
+      "HYPER",
+      18
+    ],
+    "0x42476f744292107e34519f9c357927074ea3f75d": [
+      "LOOM",
+      18
+    ],
+    "0xf6aeaf0fe66cf2ef2e738ba465fb531ffe39b4e2": [
+      "ATR",
       9
-    ],
-    "0x4341a2c412b1b7bee50616de6e6e1172719c6351": [
-      "GUPPI",
-      18
-    ],
-    "0xc8bf8bc34874e07f6a0d4abc8be22ba9e372631b": [
-      "SWGT",
-      8
     ],
     "0x51cb253744189f11241becb29bedd3f1b5384fdb": [
       "DMTR",
       18
     ],
-    "0x75c97384ca209f915381755c582ec0e2ce88c1ba": [
-      "FINE",
+    "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a": [
+      "WAVES",
       18
     ],
-    "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24": [
-      "RNDR",
+    "0x6ef3d766dfe02dc4bf04aae9122eb9a0ded25615": [
+      "PRIMEETH",
       18
+    ],
+    "0x4c5cb5d87709387f8821709f7a6664f00dcf0c93": [
+      "RAFT",
+      18
+    ],
+    "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e": [
+      "VEGA",
+      18
+    ],
+    "0x7a2631aa3590fd6361d2d7afb51d5fe9d33ab2ec": [
+      "CHECKDM",
+      9
     ],
     "0xdd69db25f6d620a7bad3023c5d32761d353d3de9": [
       "GETH",
       18
     ],
+    "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2": [
+      "RVF",
+      18
+    ],
+    "0xd1c8fa30fded3e0031dc24c1646d74108b096cc2": [
+      "LUCKY",
+      9
+    ],
     "0x03a0657fc10d7169305a0179eb80d4f568cda705": [
       "BLITZ",
       18
     ],
-    "0x4b9278b94a1112cad404048903b8d343a810b07e": [
-      "HIFI",
+    "0xf2dfdbe1ea71bbdcb5a4662a16dbf5e487be3ebe": [
+      "CLOUD",
       18
     ],
-    "0x4e9fcd48af4738e3bf1382009dc1e93ebfce698f": [
-      "TAONU",
-      18
-    ],
-    "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c": [
-      "XRUNE",
+    "0x045109cf1be9edec048aa0b3d7a323154a1aea65": [
+      "ELEV",
       18
     ],
     "0x641927e970222b10b2e8cdbc96b1b4f427316f16": [
       "MEEB",
       18
     ],
-    "0x14778860e937f509e651192a90589de711fb88a9": [
-      "CYBER",
+    "0xb4357054c3da8d46ed642383f03139ac7f090343": [
+      "PORT3",
       18
+    ],
+    "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c": [
+      "UOS",
+      4
     ],
     "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363": [
       "MANC",
       2
     ],
+    "0x1cfa5641c01406ab8ac350ded7d735ec41298372": [
+      "CJPY",
+      18
+    ],
     "0x9870fb2a93fe3c1ad2fc585dba873e5cb77f3e4c": [
       "MRSPEPE",
       18
     ],
-    "0xf941d3aabf2ee0f5589e68ba6047b8329592b366": [
-      "HEEL",
-      9
+    "0xe5a3229ccb22b6484594973a03a3851dcd948756": [
+      "RAE",
+      18
+    ],
+    "0x5c872500c00565505f3624ab435c222e558e9ff8": [
+      "COT",
+      18
+    ],
+    "0x75231f58b43240c9718dd58b4967c5114342a86c": [
+      "OKB",
+      18
+    ],
+    "0x96f6ef951840721adbf46ac996b59e0235cb985c": [
+      "USDY",
+      18
     ],
     "0xdd2e93924bdd4e20c3cf4a8736e5955224fa450e": [
       "FOHO",
       8
     ],
-    "0x3acfc40a19520d97648eb7c0891e747b7f2b0283": [
-      "UAZUKI",
+    "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d": [
+      "AURABAL",
       18
     ],
-    "0x196c81385bc536467433014042788eb707703934": [
-      "CTASK",
+    "0x710287d1d39dcf62094a83ebb3e736e79400068a": [
+      "ENQAI",
       18
     ],
     "0x6a4f9a1372235c3fea4fb07170a635b26417382b": [
@@ -48956,52 +49028,60 @@
       "GOLD",
       18
     ],
-    "0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0": [
-      "VETH",
+    "0x7c28310cc0b8d898c57b93913098e74a3ba23228": [
+      "PCE",
       18
     ],
-    "0x320623b8e4ff03373931769a31fc52a4e78b5d70": [
-      "RSR",
+    "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517": [
+      "WAXP",
+      8
+    ],
+    "0x21381e026ad6d8266244f2a583b35f9e4413fa2a": [
+      "FORM",
       18
     ],
-    "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9": [
-      "YUP",
+    "0x893c47bc1ff55c2269236ac7a4288681532161e0": [
+      "ERR",
       18
     ],
-    "0x06f3c323f0238c72bf35011071f2b5b7f43a054c": [
-      "MASQ",
+    "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": [
+      "FXS",
       18
     ],
-    "0x75231f58b43240c9718dd58b4967c5114342a86c": [
-      "OKB",
+    "0xfae103dc9cf190ed75350761e95403b7b8afa6c0": [
+      "RSWETH",
       18
     ],
-    "0x24ae2da0f361aa4be46b48eb19c91e02c5e4f27e": [
-      "MEVETH",
+    "0x4db26817c88a57d2ef84cfd90168f535ee83bda9": [
+      "HIAZUKI",
       18
     ],
-    "0x576e2bed8f7b46d34016198911cdf9886f78bea7": [
-      "TRUMP",
+    "0xb8b295df2cd735b15be5eb419517aa626fc43cd5": [
+      "STLINK",
+      18
+    ],
+    "0x661013bb8d1c95d86d9c85f76e9004561f1bb36f": [
+      "DRBT",
+      18
+    ],
+    "0xfd26e39807772251c3bb90fb1fcd9ce5b80c5c24": [
+      "CODEX",
       9
     ],
-    "0xf4b5470523ccd314c6b9da041076e7d79e0df267": [
-      "BBANK",
+    "0x7a58c0be72be218b41c608b7fe7c5bb630736c71": [
+      "PEOPLE",
       18
     ],
-    "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d": [
-      "ALD",
+    "0xe1bad922f84b198a08292fb600319300ae32471b": [
+      "FCT",
       18
     ],
-    "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409": [
-      "FDUSD",
+    "0xb62e45c3df611dce236a6ddc7a493d79f9dfadef": [
+      "WSM",
       18
     ],
-    "0x8baef8c9568c21b1a2b2fd048f8b4da835691fd0": [
-      "USDZ",
-      18
-    ],
-    "0xdc63269ea166b70d4780b3a11f5c825c2b761b01": [
-      "PAW",
+    "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299": [
+      "RBX",
       18
     ],
     "0x545bd6c032efdde65a377a6719def2796c8e0f2e": [
@@ -49012,56 +49092,60 @@
       "FREN",
       18
     ],
-    "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8": [
-      "CYDOGE",
+    "0x3106a0a076bedae847652f42ef07fd58589e001f": [
+      "ADS",
       18
     ],
-    "0x25f8087ead173b73d6e8b84329989a8eea16cf73": [
-      "YGG",
+    "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695": [
+      "PBR",
       18
     ],
-    "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8": [
-      "MUSK",
+    "0xb533687ef77459093368c43e95f8df1c2b5a1f7a": [
+      "ASG",
       18
+    ],
+    "0x12b6893ce26ea6341919fe289212ef77e51688c8": [
+      "TAMA",
+      18
+    ],
+    "0x07e0edf8ce600fb51d44f51e3348d77d67f298ae": [
+      "XRP",
+      8
     ],
     "0x6d56cddd23a693ed3851fa0a5d8c67a8739537c8": [
       "SONIC",
       9
     ],
-    "0x5e3346444010135322268a4630d2ed5f8d09446c": [
-      "LOC",
-      18
-    ],
     "0xb870679a7fa65b924026f496de7f27c1dd0e5c5f": [
       "PET",
       18
     ],
-    "0xbe9ab37a414c517b2be2bfa5945665bb07379054": [
-      "TOMS",
+    "0x14778860e937f509e651192a90589de711fb88a9": [
+      "CYBER",
       18
     ],
-    "0x80fb784b7ed66730e8b1dbd9820afd29931aab03": [
-      "LEND",
+    "0xa6ed258e3126be568a5f53ade7b6a1e478e5ef98": [
+      "XYN",
       18
     ],
-    "0x0e573ce2736dd9637a0b21058352e1667925c7a8": [
-      "USDV",
-      6
+    "0x414cbf31c62d99515bfd66497b495a585b52f703": [
+      "CHAP",
+      0
     ],
-    "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f": [
-      "EUSD",
+    "0x354c8cda7e3b737d360513a0dc5abcee8ee1cea3": [
+      "BABYTRUMP",
+      18
+    ],
+    "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551": [
+      "DUSK",
       18
     ],
     "0x5b502e3796385e1e9755d7043b9c945c3accec9c": [
       "AKNC",
       18
     ],
-    "0xca0e7269600d353f70b14ad118a49575455c0f2f": [
-      "AMLT",
-      18
-    ],
-    "0x530824da86689c9c17cdc2871ff29b058345b44a": [
-      "STBT",
+    "0x8d75959f1e61ec2571aa72798237101f084de63a": [
+      "SUB",
       18
     ],
     "0x228ba514309ffdf03a81a205a6d040e429d6e80c": [
@@ -49072,33 +49156,25 @@
       "HOPE",
       18
     ],
-    "0x24b47299e756af0571f512232a3629e0dabb52ed": [
-      "CVT",
+    "0x7e77dcb127f99ece88230a64db8d595f31f1b068": [
+      "SILV2",
       18
     ],
-    "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2": [
-      "UQC",
+    "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c": [
+      "XRUNE",
       18
     ],
-    "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec": [
-      "REL",
+    "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a": [
+      "BANANA",
       18
     ],
-    "0x6923f9b683111dcc0e20124e9a031deeae5dad93": [
-      "HUB",
+    "0xec213f83defb583af3a000b1c0ada660b1902a0f": [
+      "PRE",
       18
     ],
-    "0xc775c0c30840cb9f51e21061b054ebf1a00acc29": [
-      "PSL",
-      5
-    ],
-    "0x218de5e6324c5351c3a2bf0c40d76f585b8de04d": [
-      "STPETH",
+    "0x33e07f5055173cf8febede8b21b12d1e2b523205": [
+      "ELAND",
       18
-    ],
-    "0x75ce16d11b83605aa039d40d7d846ff23064fb65": [
-      "DUB",
-      9
     ],
     "0x37cfc2e83665d49364670dfea6d2dd4cb1215f22": [
       "RRETH",
@@ -49108,37 +49184,41 @@
       "INRETH",
       18
     ],
-    "0x8947da500eb47f82df21143d0c01a29862a8c3c5": [
-      "THALES",
+    "0x089453742936dd35134383aee9d78bee63a69b01": [
+      "GOLD",
       18
     ],
-    "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed": [
-      "STBU",
+    "0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b": [
+      "TOP",
       18
     ],
-    "0xa80f2c8f61c56546001f5fc2eb8d6e4e72c45d4c": [
-      "UNQT",
+    "0x9d91be44c06d373a8a226e1f3b146956083803eb": [
+      "AKNC",
       18
     ],
-    "0xb056c38f6b7dc4064367403e26424cd2c60655e1": [
-      "CEEK",
+    "0x65def5029a0e7591e46b38742bfedd1fb7b24436": [
+      "KAE",
       18
     ],
-    "0xad038eb671c44b853887a7e32528fab35dc5d710": [
-      "DBR",
+    "0x8df5066cf67d909eb67b82854cf54026d31fffae": [
+      "KOI",
       18
     ],
-    "0xed354cae598148846aa9694254c854fc7051163c": [
-      "SHIDO",
+    "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3": [
+      "LEO",
       18
     ],
-    "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181": [
-      "ALI",
+    "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65": [
+      "IC21",
       18
     ],
-    "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be": [
-      "DOGWIFHAT",
-      9
+    "0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675": [
+      "TOKO",
+      18
+    ],
+    "0x177c3973b16c16fb5d934ca92b6e6afb03383268": [
+      "P404",
+      18
     ],
     "0x0fe0ed7f146cb12e4b9759aff4fa8d34571802ca": [
       "PARTY",
@@ -49148,8 +49228,8 @@
       "DEV",
       6
     ],
-    "0xa6ed258e3126be568a5f53ade7b6a1e478e5ef98": [
-      "XYN",
+    "0x17837004ea685690b32dbead02a274ec4333a26a": [
+      "BEAR",
       18
     ],
     "0x9657477ac915f56ca87c253db1320218ec2d5ddd": [
@@ -49160,104 +49240,192 @@
       "BAG",
       18
     ],
-    "0x9fa69536d1cda4a04cfb50688294de75b505a9ae": [
-      "DERC",
+    "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651": [
+      "IFARM",
       18
     ],
-    "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a": [
-      "MOG",
+    "0x9506d37f70eb4c3d79c398d326c871abbf10521d": [
+      "MLT",
       18
     ],
-    "0x99e186e8671db8b10d45b7a1c430952a9fbe0d40": [
-      "SHOP",
+    "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e": [
+      "USTB",
+      6
+    ],
+    "0xaaaaaa20d9e0e2461697782ef11675f668207961": [
+      "AURORA",
       18
     ],
-    "0xd7efb00d12c2c13131fd319336fdf952525da2af": [
-      "XPR",
-      4
-    ],
-    "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014": [
-      "ISP",
+    "0xd559f20296ff4895da39b5bd9add54b442596a61": [
+      "FTX",
       18
     ],
-    "0xacc48f65f8701f376bc4ba13f4bc103f31dda74e": [
-      "SWIFT",
+    "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4": [
+      "GNY",
+      18
+    ],
+    "0x0c08638473cafbca3beb113616a1871f4bfad4f9": [
+      "ZOO",
+      18
+    ],
+    "0x120a3879da835a5af037bb2d1456bebd6b54d4ba": [
+      "RVST",
+      18
+    ],
+    "0x70b790d0948a760e80bc3f892b142f7779b538b2": [
+      "DORA",
+      18
+    ],
+    "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e": [
+      "SWFTC",
+      8
+    ],
+    "0xbe33f57f41a20b2f00dec91dcc1169597f36221f": [
+      "RUG",
       18
     ],
     "0x00282fd551d03dc033256c4bf119532e8c735d8a": [
       "BIAO",
       2
     ],
-    "0xe4dae00bc1c46ea2f44ae71b1beb8b171c15d812": [
-      "PRMX",
+    "0x674c6ad92fd080e4004b2312b45f796a192d27a0": [
+      "XTN",
       18
     ],
-    "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8": [
-      "CTR",
+    "0x662b67d00a13faf93254714dd601f5ed49ef2f51": [
+      "ORC",
       18
     ],
-    "0x00c2999c8b2adf4abc835cc63209533973718eb1": [
-      "STATE",
+    "0xd4568d313fa2d5c6eba37c9f30f6fb8d1c552ddd": [
+      "LDY",
       18
     ],
-    "0xb81914f05daf95802eb30726a399733e0696cd79": [
-      "HOLA",
+    "0xa258c4606ca8206d8aa700ce2143d7db854d168c": [
+      "YVWETH",
       18
     ],
-    "0x562e362876c8aee4744fc2c6aac8394c312d215d": [
-      "OPTI",
+    "0x02f92800f57bcd74066f5709f1daa1a4302df875": [
+      "PEAS",
+      18
+    ],
+    "0x68037790a0229e9ce6eaa8a99ea92964106c4703": [
+      "PAR",
+      18
+    ],
+    "0x8ccd897ca6160ed76755383b201c1948394328c7": [
+      "BAI",
       9
     ],
-    "0x6c5024cd4f8a59110119c56f8933403a539555eb": [
-      "ASUSD",
+    "0xf66cd2f8755a21d3c8683a10269f795c0532dd58": [
+      "COREDAO",
       18
     ],
-    "0xd24946147829deaa935be2ad85a3291dbf109c80": [
-      "AAMMUSDC",
-      6
-    ],
-    "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09": [
-      "DGTX",
+    "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2": [
+      "PPAY",
       18
     ],
-    "0x666d875c600aa06ac1cf15641361dec3b00432ef": [
-      "BTSE",
+    "0xb3999f658c0391d94a37f7ff328f3fec942bcadc": [
+      "HFT",
+      18
+    ],
+    "0x788d86e00ab31db859c3d6b80d5a9375801d7f2a": [
+      "TENET",
+      18
+    ],
+    "0xf7e945fce8f19302aacc7e1418b0a0bdef89327b": [
+      "IZE",
       8
     ],
-    "0xacb47686b92fdde6d233ec6445c1f8d4d0d59c38": [
-      "SWIPE",
-      8
+    "0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6": [
+      "WTK",
+      18
+    ],
+    "0x865ec58b06bf6305b886793aa20a2da31d034e68": [
+      "MOC",
+      18
+    ],
+    "0x4341a2c412b1b7bee50616de6e6e1172719c6351": [
+      "GUPPI",
+      18
+    ],
+    "0xcd24ba0e3364233ee9301c1d608a14753c8739c5": [
+      "SOUTH",
+      18
+    ],
+    "0x58083b54013631bacc0bbb6d4efa543fee1d9ce0": [
+      "FRC",
+      18
     ],
     "0x71a28feaee902966dc8d355e7b8aa427d421e7e0": [
       "LUNCH",
       18
     ],
-    "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050": [
-      "ARKM",
-      18
-    ],
-    "0x42476f744292107e34519f9c357927074ea3f75d": [
-      "LOOM",
-      18
-    ],
-    "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373": [
-      "GMEE",
-      18
-    ],
-    "0x42bbfa2e77757c645eeaad1655e0911a7553efbc": [
-      "BOBA",
-      18
-    ],
-    "0xbcca60bb61934080951369a648fb03df4f96263c": [
-      "AUSDC",
-      6
-    ],
-    "0x4156d3342d5c385a87d264f90653733592000581": [
-      "SALT",
+    "0x39aa39c021dfbae8fac545936693ac917d5e7563": [
+      "CUSDC",
       8
     ],
-    "0xd8912c10681d8b21fd3742244f44658dba12264e": [
-      "PLU",
+    "0xedc1004886d010751f74ec0ad223819f9f3b1910": [
+      "AGN",
+      18
+    ],
+    "0x20a62aca58526836165ca53fe67dd884288c8abf": [
+      "RNB",
+      18
+    ],
+    "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d": [
+      "00",
+      18
+    ],
+    "0x814a870726edb7dfc4798300ae1ce3e5da0ac467": [
+      "DACAT",
+      18
+    ],
+    "0x830a8512db4f6fca51968593e2667156c2c483a8": [
+      "WEN",
+      18
+    ],
+    "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131": [
+      "DEFI",
+      18
+    ],
+    "0x179cd91631d96e8fafee6a744eac6ffdbb923520": [
+      "IXI",
+      8
+    ],
+    "0xc3f8143212871014b472ea83285af7f25928dee4": [
+      "SOHOT",
+      9
+    ],
+    "0xc4e8a9d47000ab8e59c7031e311762c68215e467": [
+      "STARX",
+      18
+    ],
+    "0xae6e307c3fe9e922e5674dbd7f830ed49c014c6b": [
+      "CREDI",
+      18
+    ],
+    "0x2f4404c4012476929b6503e1397707480bf23b7f": [
+      "TAI",
+      9
+    ],
+    "0x196c81385bc536467433014042788eb707703934": [
+      "CTASK",
+      18
+    ],
+    "0x5b322514ff727253292637d9054301600c2c81e8": [
+      "DAD",
+      9
+    ],
+    "0x544c42fbb96b39b21df61cf322b5edc285ee7429": [
+      "INSUR",
+      18
+    ],
+    "0x6d57b2e05f26c26b549231c866bdd39779e4a488": [
+      "VNXAU",
+      18
+    ],
+    "0x436da116249044e8b4464f0cf21dd93311d88190": [
+      "ZEUM",
       18
     ],
     "0x000000000075f13bcf2e6652e84821e8b544f6f9": [
@@ -49268,64 +49436,68 @@
       "UNIWAR",
       18
     ],
-    "0x013062189dc3dcc99e9cee714c513033b8d99e3c": [
-      "INFRA",
+    "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079": [
+      "AJNA",
       18
     ],
-    "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35": [
-      "SWEAT",
+    "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae": [
+      "XFT",
       18
     ],
-    "0x08c32b0726c5684024ea6e141c50ade9690bbdcc": [
-      "STOS",
-      18
-    ],
-    "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f": [
-      "AMANA",
-      18
-    ],
-    "0xae6e307c3fe9e922e5674dbd7f830ed49c014c6b": [
-      "CREDI",
+    "0x586ee5df24c5a426e42ed7ea6e3eb0f00a4a2256": [
+      "AMB",
       18
     ],
     "0xc89d9aa9d9e54bb196319c6195aea1038d2bc936": [
       "TRENDX",
       18
     ],
-    "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4": [
-      "GNY",
+    "0xab306326bc72c2335bd08f42cbec383691ef8446": [
+      "PPIZZA",
       18
     ],
-    "0x14fee680690900ba0cccfc76ad70fd1b95d10e16": [
-      "PAAL",
+    "0x77571a64342667f7818520ef004b2b91f47a266b": [
+      "SNM",
+      18
+    ],
+    "0x75ce16d11b83605aa039d40d7d846ff23064fb65": [
+      "DUB",
       9
-    ],
-    "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22": [
-      "OBT",
-      18
     ],
     "0x2c7f442aab99d5e18cfae2291c507c0b5f3c1eb5": [
       "KEKO",
       18
     ],
+    "0xdf574c24545e5ffecb9a659c229253d4111d87e1": [
+      "HUSD",
+      8
+    ],
+    "0x19ae49b9f38dd836317363839a5f6bfbfa7e319a": [
+      "STC",
+      9
+    ],
     "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776": [
       "STUSD",
       18
     ],
-    "0x12b6893ce26ea6341919fe289212ef77e51688c8": [
-      "TAMA",
+    "0x42a7797351dfd281a80807196c8508eb70bb2af9": [
+      "AIS",
       18
     ],
-    "0x2c06ba9e7f0daccbc1f6a33ea67e85bb68fbee3a": [
-      "LENDS",
+    "0x7f280dac515121dcda3eac69eb4c13a52392cace": [
+      "FNC",
       18
     ],
     "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3": [
       "FLP",
       18
     ],
-    "0x7deb5e830be29f91e298ba5ff1356bb7f8146998": [
-      "AMKR",
+    "0xacb47686b92fdde6d233ec6445c1f8d4d0d59c38": [
+      "SWIPE",
+      8
+    ],
+    "0x6c4c193bff0a117f0c2b516802abba961a1eeb12": [
+      "PAPA",
       18
     ],
     "0xe4b91faf8810f8895772e7ca065d4cb889120f94": [
@@ -49340,149 +49512,161 @@
       "ANB",
       18
     ],
-    "0x92d6c1e31e14520e676a687f0a93788b716beff5": [
-      "DYDX",
-      18
-    ],
-    "0xb0e99627bc29adef1178f16117bf495351e81997": [
-      "DXC",
-      18
-    ],
-    "0xb9f599ce614feb2e1bbe58f180f370d05b39344e": [
-      "PORK",
-      18
-    ],
-    "0x377de38159bf87111c1523055b4a8c3a1a971722": [
-      "GROKGROW",
-      18
-    ],
-    "0xfae103dc9cf190ed75350761e95403b7b8afa6c0": [
-      "RSWETH",
-      18
-    ],
-    "0x39aa39c021dfbae8fac545936693ac917d5e7563": [
-      "CUSDC",
-      8
-    ],
-    "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5": [
-      "BETS",
-      18
-    ],
-    "0x3f0c858c26775df75e45934b189154c436bd7335": [
-      "CHFP",
-      8
-    ],
-    "0xfe67a4450907459c3e1fff623aa927dd4e28c67a": [
-      "NEXT",
-      18
-    ],
-    "0x43d7e65b8ff49698d9550a7f315c87e67344fb59": [
-      "SHIA",
-      18
-    ],
-    "0xd2af830e8cbdfed6cc11bab697bb25496ed6fa62": [
-      "WOUSD",
-      18
-    ],
-    "0x4c3bae16c79c30eeb1004fb03c878d89695e3a99": [
-      "AUTUMN",
-      18
-    ],
-    "0xe33ae4e795114279721047484e5ad5cc7df24fcb": [
-      "MCF",
-      10
-    ],
-    "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f": [
-      "PAWTH",
-      9
-    ],
-    "0xb17548c7b510427baac4e267bea62e800b247173": [
-      "SMT",
-      18
-    ],
-    "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457": [
-      "INSP",
+    "0x808507121b80c02388fad14726482e061b8da827": [
+      "PENDLE",
       18
     ],
     "0x70edf1c215d0ce69e7f16fd4e6276ba0d99d4de7": [
       "CHEQ",
       9
     ],
-    "0x728f30fa2f100742c7949d1961804fa8e0b1387d": [
-      "GHX",
+    "0xb0e99627bc29adef1178f16117bf495351e81997": [
+      "DXC",
       18
     ],
-    "0xd33526068d116ce69f19a9ee46f0bd304f21a51f": [
-      "RPL",
+    "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569": [
+      "KAP",
       18
     ],
-    "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7": [
-      "RSETH",
+    "0x340d2bde5eb28c1eed91b2f790723e3b160613b7": [
+      "VEE",
       18
     ],
-    "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671": [
-      "NMR",
+    "0xecf3672a6d2147e2a77f07069fb48d8cf6f6fbf9": [
+      "INMETH",
       18
     ],
-    "0x8765b1a0eb57ca49be7eacd35b24a574d0203656": [
-      "MGH",
+    "0xe9572938bcbf08adcee86fd12a7c0d08dc4ab841": [
+      "INS",
       18
     ],
-    "0x1a403e1c96792dfedb8232cf56400eb72ab95acb": [
-      "SML",
+    "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8": [
+      "MUSK",
       18
     ],
-    "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed": [
-      "TSUKA",
+    "0x3f0c858c26775df75e45934b189154c436bd7335": [
+      "CHFP",
+      8
+    ],
+    "0xc775c0c30840cb9f51e21061b054ebf1a00acc29": [
+      "PSL",
+      5
+    ],
+    "0xd2af830e8cbdfed6cc11bab697bb25496ed6fa62": [
+      "WOUSD",
+      18
+    ],
+    "0x38a94e92a19e970c144ded0b2dd47278ca11cc1f": [
+      "F9",
       9
     ],
-    "0xec19caef9c046f5f87a497154766742ab9c90820": [
-      "UY00TS",
-      18
-    ],
-    "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38": [
-      "MPH",
-      18
-    ],
-    "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5": [
-      "SOV",
+    "0x590f820444fa3638e022776752c5eef34e2f89a6": [
+      "ALPH",
       18
     ],
     "0x16756ec1deb89a2106c35e0b586a799d0a61837d": [
       "CHEDDA",
       18
     ],
-    "0xa9049425b938c46ac3e312d4cdaeccb26282aeb2": [
-      "WIK",
+    "0x8de5b80a0c1b02fe4976851d030b36122dbb8624": [
+      "VANRY",
       18
     ],
-    "0x7e77dcb127f99ece88230a64db8d595f31f1b068": [
-      "SILV2",
+    "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef": [
+      "AENJ",
+      18
+    ],
+    "0xdc1de096ed4ec5b48f4b0496a6ecee3d63e74f53": [
+      "PNF",
+      18
+    ],
+    "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a": [
+      "MOG",
+      18
+    ],
+    "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a": [
+      "CAH",
+      18
+    ],
+    "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7": [
+      "YETH",
+      18
+    ],
+    "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": [
+      "AGEUR",
+      18
+    ],
+    "0x070e984fda37dd942f5c953f6b2375339adac308": [
+      "AXE",
+      18
+    ],
+    "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136": [
+      "AIT",
+      18
+    ],
+    "0x75858677e27c930fb622759feaffee2b754af07f": [
+      "SOUL",
+      8
+    ],
+    "0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1": [
+      "BIFI",
+      18
+    ],
+    "0x86ed939b500e121c0c5f493f399084db596dad20": [
+      "SPC",
+      18
+    ],
+    "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a": [
+      "EARN",
+      18
+    ],
+    "0x5aa158404fed6b4730c13f49d3a7f820e14a636f": [
+      "ULX",
+      18
+    ],
+    "0x8b79656fc38a04044e495e22fad747126ca305c4": [
+      "AGVC",
+      18
+    ],
+    "0x1a403e1c96792dfedb8232cf56400eb72ab95acb": [
+      "SML",
+      18
+    ],
+    "0xa35b1b31ce002fbf2058d22f30f95d405200a15b": [
+      "ETHX",
+      18
+    ],
+    "0x6e39a587691b8c9d4341ce0a960998ed6f537af6": [
+      "MEMAG",
+      18
+    ],
+    "0x2f3d0d2317802a65faac6e4cd94067c37b4d4804": [
+      "DCARD",
+      9
+    ],
+    "0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a": [
+      "TET",
+      8
+    ],
+    "0x2ebd53d035150f328bd754d6dc66b99b0edb89aa": [
+      "MET",
+      18
+    ],
+    "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69": [
+      "IOTX",
+      18
+    ],
+    "0x3496b523e5c00a4b4150d6721320cddb234c3079": [
+      "NUM",
       18
     ],
     "0x0262e9374e95b9667b78136c3897cb4e4ef7f0c2": [
       "FAKT",
       18
     ],
-    "0xedc1004886d010751f74ec0ad223819f9f3b1910": [
-      "AGN",
-      18
-    ],
-    "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0": [
-      "OLAS",
-      18
-    ],
-    "0x5ba19d656b65f1684cfea4af428c23b9f3628f97": [
-      "AAG",
-      18
-    ],
-    "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439": [
-      "APP",
-      18
-    ],
-    "0x3597bfd533a99c9aa083587b074434e61eb0a258": [
-      "DENT",
-      8
+    "0x14fee680690900ba0cccfc76ad70fd1b95d10e16": [
+      "PAAL",
+      9
     ],
     "0xbb97e381f1d1e94ffa2a5844f6875e6146981009": [
       "WBX",
@@ -49492,444 +49676,744 @@
       "REKT",
       18
     ],
-    "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2": [
-      "SGT",
-      8
+    "0x3b604747ad1720c01ded0455728b62c0d2f100f0": [
+      "WAGMIGAMES",
+      18
     ],
-    "0xcbe7142f5c16755d8683ba329efa1abf7b54482d": [
-      "MVEDA",
-      8
+    "0x0c37bcf456bc661c14d596683325623076d7e283": [
+      "ARNX",
+      18
     ],
-    "0x3506424f91fd33084466f402d5d97f05f8e3b4af": [
-      "CHZ",
+    "0x38e68a37e401f7271568cecaac63c6b1e19130b4": [
+      "BANANA",
       18
     ],
     "0x7e9afd25f5ec0eb24d7d4b089ae7ecb9651c8b1f": [
       "BAOUSD-LUSD-STABLEP",
       18
     ],
+    "0x571e21a545842c6ce596663cda5caa8196ac1c7a": [
+      "CHAMPZ",
+      8
+    ],
+    "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4": [
+      "IXS",
+      18
+    ],
     "0xa6a1cc527d48585538b137e6abc14b2a55489d11": [
       "LWC",
       8
     ],
-    "0x4da08a1bff50be96bded5c7019227164b49c2bfc": [
-      "MONONOKE-INU",
-      9
-    ],
-    "0x75858677e27c930fb622759feaffee2b754af07f": [
-      "SOUL",
-      8
-    ],
-    "0x1903be033d3e436dd79a8cf9030675bcf97ab589": [
-      "BJK",
-      6
-    ],
-    "0x102fa93ef3d2dc5b0b9ed3e7b3bf832796cb7b95": [
-      "BBC",
+    "0x320623b8e4ff03373931769a31fc52a4e78b5d70": [
+      "RSR",
       18
     ],
-    "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83": [
-      "YFII",
+    "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7": [
+      "RSETH",
       18
     ],
-    "0xfe39c384d702914127a005523f9915addb9bd59b": [
-      "HPO",
+    "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09": [
+      "DGTX",
       18
     ],
-    "0x814a870726edb7dfc4798300ae1ce3e5da0ac467": [
-      "DACAT",
+    "0xd7efb00d12c2c13131fd319336fdf952525da2af": [
+      "XPR",
+      4
+    ],
+    "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a": [
+      "TON",
       18
     ],
-    "0x7237c0b30b1355f1b76355582f182f6f04b08740": [
-      "MGG",
+    "0x4e9fcd48af4738e3bf1382009dc1e93ebfce698f": [
+      "TAONU",
       18
     ],
-    "0xbf2179859fc6d5bee9bf9158632dc51678a4100e": [
-      "ELF",
+    "0xea18dc833653172bbe819feb5320d9da9f99799a": [
+      "ELON20",
       18
     ],
-    "0xd87996ff3d06858bfc20989aef50cc5fcd4d84ca": [
-      "GOLDEN",
-      9
-    ],
-    "0x733b5056a0697e7a4357305fe452999a0c409feb": [
-      "VCORE",
+    "0x80fb784b7ed66730e8b1dbd9820afd29931aab03": [
+      "LEND",
       18
     ],
-    "0xaec65404ddc3af3c897ad89571d5772c1a695f22": [
-      "PHX",
+    "0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98": [
+      "OPSEC",
       18
     ],
-    "0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb": [
-      "XDNA",
+    "0xb7037457de15fed6cbecc0c62d5d610834b958ec": [
+      "WHIRL",
       18
     ],
-    "0x0d248ce39e26fb00f911fb1e7a45a00d8c94341c": [
-      "BUTTER",
+    "0x018008bfb33d285247a21d44e50697654f754e63": [
+      "ADAI",
       18
     ],
-    "0xa792ff98afd4ccb8d33f2590d0bc9420a062e555": [
-      "AGF",
+    "0x25f8087ead173b73d6e8b84329989a8eea16cf73": [
+      "YGG",
       18
     ],
-    "0xca9d8ef4ba15ae66347b3d22afe2970b89980f88": [
-      "INNOVA",
-      18
-    ],
-    "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e": [
-      "SWFTC",
-      8
-    ],
-    "0x2f3d0d2317802a65faac6e4cd94067c37b4d4804": [
-      "DCARD",
-      9
-    ],
-    "0x4c4a50a61bed3b9024d8ffc1f1d168dc8cb1c689": [
-      "BARC",
-      9
-    ],
-    "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41": [
-      "PROPS",
-      18
-    ],
-    "0x9e20461bc2c4c980f62f1b279d71734207a6a356": [
-      "OMNI",
-      18
-    ],
-    "0x71fc860f7d3a592a4a98740e39db31d25db65ae8": [
-      "AUSDT",
-      6
-    ],
-    "0x8df5066cf67d909eb67b82854cf54026d31fffae": [
-      "KOI",
+    "0xbd356a39bff2cada8e9248532dd879147221cf76": [
+      "WOM",
       18
     ],
     "0xcafe001067cdef266afb7eb5a286dcfd277f3de5": [
       "PSP",
       18
     ],
-    "0x37da9de38c4094e090c014325f6ef4baeb302626": [
-      "OTSEA",
+    "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9": [
+      "SIS",
       18
     ],
-    "0x244517dc59943e8cdfbd424bdb3262c5f04a1387": [
-      "FDAI",
-      6
-    ],
-    "0x24e3794605c84e580eea4972738d633e8a7127c8": [
-      "KTLYO",
+    "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18": [
+      "XCN",
       18
     ],
-    "0xc3dbd99da846ea38d34430d852795684a211428b": [
-      "LYF",
+    "0xbddc20ed7978b7d59ef190962f441cd18c14e19f": [
+      "CAGA",
       18
-    ],
-    "0x65def5029a0e7591e46b38742bfedd1fb7b24436": [
-      "KAE",
-      18
-    ],
-    "0x571042b7138ee957a96a6820fce79c48fe2da816": [
-      "ESLBR",
-      18
-    ],
-    "0x549020a9cb845220d66d3e9c6d9f9ef61c981102": [
-      "SIDUS",
-      18
-    ],
-    "0x6cf9788cda282aeb729477f6bda9c4db082b5746": [
-      "KINGDOM",
-      0
-    ],
-    "0x9d91be44c06d373a8a226e1f3b146956083803eb": [
-      "AKNC",
-      18
-    ],
-    "0x36905fc93280f52362a1cbab151f25dc46742fb5": [
-      "BTO",
-      18
-    ],
-    "0xc1ad0aa69454603a5dee55cf9bd9341e01328544": [
-      "HIGAZERS",
-      18
-    ],
-    "0x508b27902c6c14972a10a4e413b9cfa449e9cedb": [
-      "AISIG",
-      0
     ],
     "0x2e19067cbeb38d6554d31a1a83aefc4018a1688a": [
       "CBK",
       18
     ],
-    "0x329c6e459ffa7475718838145e5e85802db2a303": [
-      "EMAID",
+    "0xf8b358b3397a8ea5464f8cc753645d42e14b79ea": [
+      "ABL",
       18
     ],
-    "0x49642110b712c1fd7261bc074105e9e44676c68f": [
-      "DINO",
+    "0xeeee2a622330e6d2036691e983dee87330588603": [
+      "ASKO",
+      18
+    ],
+    "0x24d541c86dd44bc6ce0a0511cf3146c37388ec4c": [
+      "PINEOWL",
+      9
+    ],
+    "0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb": [
+      "XDNA",
+      18
+    ],
+    "0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20": [
+      "AGA",
+      4
+    ],
+    "0x17c50d62e6e8d20d2dc18e9ad79c43263d0720d9": [
+      "NFAI",
+      18
+    ],
+    "0x8be8b0dde627dd6be9a4b7fcadd04899aabdb2b1": [
+      "RND",
+      6
+    ],
+    "0x6c5ba91642f10282b576d91922ae6448c9d52f4e": [
+      "PHA",
+      18
+    ],
+    "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83": [
+      "YFII",
+      18
+    ],
+    "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3": [
+      "ONDO",
+      18
+    ],
+    "0x6034e0d6999741f07cb6fb1162cbaa46a1d33d36": [
+      "VITA-FAST",
+      18
+    ],
+    "0xa792ff98afd4ccb8d33f2590d0bc9420a062e555": [
+      "AGF",
       18
     ],
     "0x5de597849cf72c72f073e9085bdd0dadd8e6c199": [
       "FBX",
       18
     ],
+    "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321": [
+      "VITA",
+      18
+    ],
+    "0x9fd5555d0360adc2b5d92179e9bc36802bba8621": [
+      "APES",
+      18
+    ],
+    "0xc106b98c4d0b3f1c92da0e9a6089e9c63ceacbb0": [
+      "TRND",
+      9
+    ],
+    "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa": [
+      "QANX",
+      18
+    ],
+    "0x00c2999c8b2adf4abc835cc63209533973718eb1": [
+      "STATE",
+      18
+    ],
+    "0x0aa1582bebf8d96ea384b6829a5d41278579cd88": [
+      "LYVE",
+      18
+    ],
+    "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6": [
+      "BRD",
+      18
+    ],
+    "0x38e382f74dfb84608f3c1f10187f6bef5951de93": [
+      "MUBI",
+      18
+    ],
+    "0xe16f2ec94e8a0819eb93022c45e05d582f4e5c15": [
+      "PCT",
+      18
+    ],
+    "0x36a17b52b5322846fcf894ee1535c8aa23df6765": [
+      "UPOTATOZ",
+      18
+    ],
+    "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17": [
+      "DYP",
+      18
+    ],
+    "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835": [
+      "COR",
+      18
+    ],
+    "0x244517dc59943e8cdfbd424bdb3262c5f04a1387": [
+      "FDAI",
+      6
+    ],
+    "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b": [
+      "CRPT",
+      18
+    ],
+    "0x667102bd3413bfeaa3dffb48fa8288819e480a88": [
+      "TKX",
+      8
+    ],
+    "0x42bbfa2e77757c645eeaad1655e0911a7553efbc": [
+      "BOBA",
+      18
+    ],
+    "0x571042b7138ee957a96a6820fce79c48fe2da816": [
+      "ESLBR",
+      18
+    ],
+    "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15": [
+      "KATA",
+      18
+    ],
+    "0xa02120696c7b8fe16c09c749e4598819b2b0e915": [
+      "WXT",
+      18
+    ],
+    "0xbe9ab37a414c517b2be2bfa5945665bb07379054": [
+      "TOMS",
+      18
+    ],
+    "0x6cf9788cda282aeb729477f6bda9c4db082b5746": [
+      "KINGDOM",
+      0
+    ],
+    "0x182c00807f2d4904d02d5e0d179600ff6a3ae67c": [
+      "BTEX",
+      18
+    ],
+    "0xb3a58eb551b5f80ec70b7f69ab7b664453271412": [
+      "MIXCOIN",
+      18
+    ],
     "0xb970e14df2161c0a2f32eba35901f2446581b482": [
       "RKR",
       9
     ],
-    "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0": [
-      "WGR",
-      8
+    "0x508b27902c6c14972a10a4e413b9cfa449e9cedb": [
+      "AISIG",
+      0
     ],
-    "0x17837004ea685690b32dbead02a274ec4333a26a": [
-      "BEAR",
-      18
-    ],
-    "0x0f2d719407fdbeff09d87557abb7232601fd9f29": [
-      "SYN",
-      18
-    ],
-    "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d": [
-      "FUSE",
-      18
-    ],
-    "0x8f0921f30555624143d427b340b1156914882c10": [
-      "FYP",
-      18
-    ],
-    "0x77be1ba1cd2d7a63bffc772d361168cc327dd8bc": [
-      "MEOW",
+    "0xa067237f8016d5e3770cf08b20e343ab9ee813d5": [
+      "GRL",
       9
     ],
-    "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651": [
-      "IFARM",
+    "0xa5f2211b9b8170f694421f2046281775e8468044": [
+      "THOR",
       18
     ],
-    "0xd555498a524612c67f286df0e0a9a64a73a7cdc7": [
-      "DEFROGS",
-      18
-    ],
-    "0x2ad9addd0d97ec3cdba27f92bf6077893b76ab0b": [
-      "PLANET",
-      18
-    ],
-    "0xa52b7ea0365310ca87ab73aef4f2f75c9a999af3": [
-      "MASS",
-      18
-    ],
-    "0xe4efdd2eb216a4620cfa55c5cc67bd09dc64ff24": [
-      "",
-      9
-    ],
-    "0xce20bb92ccf9bbf5091ef85649e71e552819ad8c": [
-      "SMART",
-      18
-    ],
-    "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f": [
-      "GEM",
+    "0x6ae2a128cd07d672164ca9f2712ea737d198dd41": [
+      "GOAT",
       18
     ],
     "0xc9bc48c72154ef3e5425641a3c747242112a46af": [
       "ARAI",
       18
     ],
-    "0x10703ca5e253306e2ababd68e963198be8887c81": [
-      "SCAN",
-      18
-    ],
-    "0x39142c18b6db2a8a41b7018f49e1478837560cad": [
-      "STATS",
-      9
-    ],
-    "0x1af4f195a8aaa7ffd752c28a13b719b84056f0d6": [
-      "NTP",
-      18
-    ],
-    "0x949d48eca67b17269629c7194f4b727d4ef9e5d6": [
-      "MC",
-      18
-    ],
-    "0x232fb065d9d24c34708eedbf03724f2e95abe768": [
-      "SHEESHA",
-      18
-    ],
-    "0x571e21a545842c6ce596663cda5caa8196ac1c7a": [
-      "CHAMPZ",
-      8
-    ],
-    "0xc1ecfaf43c53bec9b9143ab274f35603fd10b886": [
-      "SSHIP",
-      18
-    ],
-    "0xc382e04099a435439725bb40647e2b32dc136806": [
-      "COGE",
-      18
-    ],
-    "0x830a8512db4f6fca51968593e2667156c2c483a8": [
-      "WEN",
-      18
-    ],
-    "0x5cb3ce6d081fb00d5f6677d196f2d70010ea3f4a": [
-      "BUSY",
-      18
-    ],
-    "0x8ab2ff0116a279a99950c66a12298962d152b83c": [
-      "ORDS",
-      18
-    ],
-    "0x8954d907520532c1f0d89d42569232fd0f995fdf": [
-      "TX",
-      8
-    ],
-    "0x089453742936dd35134383aee9d78bee63a69b01": [
-      "GOLD",
-      18
-    ],
-    "0x6cacdb97e3fc8136805a9e7c342d866ab77d0957": [
-      "SWPR",
-      18
-    ],
-    "0x0000206329b97db379d5e1bf586bbdb969c63274": [
-      "AGUSD",
-      18
-    ],
-    "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2": [
-      "CAPS",
-      18
-    ],
-    "0x120a3879da835a5af037bb2d1456bebd6b54d4ba": [
-      "RVST",
-      18
-    ],
-    "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de": [
-      "MILK2",
-      18
-    ],
-    "0xc3c221fe28c33814c28c822b631fd76047ef1a63": [
-      "MM",
-      18
-    ],
-    "0x817bbdbc3e8a1204f3691d14bb44992841e3db35": [
-      "CUDOS",
-      18
-    ],
-    "0x1bb9b64927e0c5e207c9db4093b3738eef5d8447": [
-      "VEC",
-      9
-    ],
-    "0x8c088775e4139af116ac1fa6f281bbf71e8c1c73": [
-      "PUMLX",
-      18
-    ],
-    "0xb478c6245e3d85d6ec3486b62ea872128d562541": [
-      "LOOT",
+    "0x24ae2da0f361aa4be46b48eb19c91e02c5e4f27e": [
+      "MEVETH",
       18
     ],
     "0x471ea49dd8e60e697f4cac262b5fafcc307506e4": [
       "RMRK",
       10
     ],
-    "0xf0f67ddb45c90946d717f2225910cb940c28afae": [
-      "MEMES",
+    "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85": [
+      "FET",
       18
     ],
-    "0xe9572938bcbf08adcee86fd12a7c0d08dc4ab841": [
-      "INS",
+    "0x1982b2f5814301d4e9a8b0201555376e62f82428": [
+      "ASTETH",
       18
     ],
-    "0x6982508145454ce325ddbe47a25d4ec3d2311933": [
-      "PEPE",
+    "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be": [
+      "WSCRT",
+      6
+    ],
+    "0x8fac8031e079f409135766c7d5de29cf22ef897c": [
+      "HEART",
       18
     ],
-    "0x5fc111f3fa4c6b32eaf65659cfebdeed57234069": [
-      "0XGAS",
+    "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0": [
+      "WGR",
+      8
+    ],
+    "0xd85ad783cc94bd04196a13dc042a3054a9b52210": [
+      "HAKA",
       18
     ],
-    "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a": [
-      "TON",
+    "0x30d20208d987713f46dfd34ef128bb16c404d10f": [
+      "SD",
       18
     ],
-    "0x846c66cf71c43f80403b51fe3906b3599d63336f": [
-      "PMA",
-      18
-    ],
-    "0xbe1bc2e2338defcd88e7f9f5f745ddb222180ab9": [
-      "TESO",
+    "0x6fc16de36e040e0c7d1a70d039ef701516516b32": [
+      "SCOPEX",
       9
     ],
-    "0xe2976a66e8cef3932cdaeb935e114dcd5ce20f20": [
-      "CFSH",
+    "0x5a9261b023692405f2f680240c6b010638e416dd": [
+      "JAN",
       18
     ],
-    "0x7d5121505149065b562c789a0145ed750e6e8cdd": [
-      "VR",
+    "0x21b8bfbbefc9e2b9a994871ecd742a5132b98aed": [
+      "CRE",
       18
     ],
-    "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": [
-      "AXS",
+    "0x58b6a8a3302369daec383334672404ee733ab239": [
+      "LPT",
       18
     ],
-    "0x18084fba666a33d37592fa2633fd49a74dd93a88": [
-      "TBTC",
-      18
-    ],
-    "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": [
-      "AGEUR",
-      18
-    ],
-    "0x869dbe51dc214fcb663604b0f7b548592f8c71f5": [
-      "DOKI",
+    "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e": [
+      "BCB",
       9
     ],
-    "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74": [
-      "MEME",
+    "0x2de7b02ae3b1f11d51ca7b2495e9094874a064c0": [
+      "SHIB2",
       18
     ],
-    "0x1294f4183763743c7c9519bec51773fb3acd78fd": [
-      "FI",
-      18
-    ],
-    "0x710287d1d39dcf62094a83ebb3e736e79400068a": [
-      "ENQAI",
-      18
-    ],
-    "0xfd26e39807772251c3bb90fb1fcd9ce5b80c5c24": [
-      "CODEX",
-      9
-    ],
-    "0xd7d8f3b8bc8bc48d3acc37879eaba7b85889fa52": [
-      "CLH",
-      18
-    ],
-    "0x3fe7940616e5bc47b0775a0dccf6237893353bb4": [
-      "IDLEDAIYIELD",
-      18
-    ],
-    "0x0b38210ea11411557c13457d4da7dc6ea731b88a": [
-      "API3",
-      18
-    ],
-    "0x411099c0b413f4feddb10edf6a8be63bd321311c": [
-      "HELLO",
+    "0x33f289d91286535c47270c8479f6776fb3adeb3e": [
+      "BXBT",
       18
     ],
     "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62": [
       "GOG",
       18
     ],
-    "0xc314b0e758d5ff74f63e307a86ebfe183c95767b": [
-      "ADP",
+    "0xd7b2c1a7f3c67fb0ea57a7ef29bc1f18d7be3195": [
+      "VMINT",
+      18
+    ],
+    "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c": [
+      "BNT",
+      18
+    ],
+    "0x8f0921f30555624143d427b340b1156914882c10": [
+      "FYP",
+      18
+    ],
+    "0x4fa5836b58d6f1877a616e7833c7350781e21202": [
+      "UOTHR",
+      18
+    ],
+    "0x92d6c1e31e14520e676a687f0a93788b716beff5": [
+      "DYDX",
+      18
+    ],
+    "0xdc47f2ba852669b178699449e50682d6ceaf8c07": [
+      "STON",
+      18
+    ],
+    "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": [
+      "AXS",
+      18
+    ],
+    "0x72c60bfffef18dca51db32b52b819a951b6ddbed": [
+      "SHIDO",
+      18
+    ],
+    "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff": [
+      "IMX",
+      18
+    ],
+    "0xaa846b1ec76cdf864ea03e1df665f6c8d5510923": [
+      "LDAO",
+      18
+    ],
+    "0x4ffe9cc172527df1e40d0b2efe1e9f05884a13da": [
+      "USA",
+      18
+    ],
+    "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38": [
+      "EDUM",
+      18
+    ],
+    "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014": [
+      "ISP",
+      18
+    ],
+    "0xa52b7ea0365310ca87ab73aef4f2f75c9a999af3": [
+      "MASS",
+      18
+    ],
+    "0xd24946147829deaa935be2ad85a3291dbf109c80": [
+      "AAMMUSDC",
+      6
+    ],
+    "0x52a8845df664d76c69d2eea607cd793565af42b8": [
+      "APEX",
+      18
+    ],
+    "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9": [
+      "YUP",
       18
     ],
     "0x3e9bc21c9b189c09df3ef1b824798658d5011937": [
       "LINA",
       18
     ],
-    "0xf250b1f6193941bb8bff4152d719edf1a59c0e69": [
-      "AIRM",
+    "0x14cc8dfaf2258e1b8b2869300dba1b734dc0fe43": [
+      "KTT",
       18
     ],
-    "0x2de7b02ae3b1f11d51ca7b2495e9094874a064c0": [
-      "SHIB2",
+    "0x32b86b99441480a7e5bd3a26c124ec2373e3f015": [
+      "BAD",
+      18
+    ],
+    "0xcb8fb2438a805664cd8c3e640b85ac473da5be87": [
+      "CTI",
+      18
+    ],
+    "0xce20bb92ccf9bbf5091ef85649e71e552819ad8c": [
+      "SMART",
+      18
+    ],
+    "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa": [
+      "ZUSD",
+      6
+    ],
+    "0x1af4f195a8aaa7ffd752c28a13b719b84056f0d6": [
+      "NTP",
+      18
+    ],
+    "0x028171bca77440897b824ca71d1c56cac55b68a3": [
+      "ADAI",
+      18
+    ],
+    "0xda9b11cd701e10c2ec1a284f80820edd128c5246": [
+      "INWBETH",
+      18
+    ],
+    "0x7df18e4efd6e6f73cfb462937dac40fe42533016": [
+      "ZKITTY",
+      18
+    ],
+    "0xcd7492db29e2ab436e819b249452ee1bbdf52214": [
+      "SMI",
+      8
+    ],
+    "0x47d20c7800906e01adfc890f283c110ba70a6c97": [
+      "AZR",
+      9
+    ],
+    "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a": [
+      "CGT",
+      18
+    ],
+    "0xd807f7e2818db8eda0d28b5be74866338eaedb86": [
+      "JIM",
+      18
+    ],
+    "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f": [
+      "PAWTH",
+      9
+    ],
+    "0xc1ecfaf43c53bec9b9143ab274f35603fd10b886": [
+      "SSHIP",
+      18
+    ],
+    "0x630d98424efe0ea27fb1b3ab7741907dffeaad78": [
+      "PEAK",
+      8
+    ],
+    "0xc382e04099a435439725bb40647e2b32dc136806": [
+      "COGE",
+      18
+    ],
+    "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2": [
+      "CHR",
+      6
+    ],
+    "0x6dca182ac5e3f99985bc4ee0f726d6472ab1ec55": [
+      "USHI",
+      18
+    ],
+    "0x8954d907520532c1f0d89d42569232fd0f995fdf": [
+      "TX",
+      8
+    ],
+    "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c": [
+      "SHIBA",
+      18
+    ],
+    "0x7d225c4cc612e61d26523b099b0718d03152edef": [
+      "FORK",
+      18
+    ],
+    "0x8c088775e4139af116ac1fa6f281bbf71e8c1c73": [
+      "PUMLX",
+      18
+    ],
+    "0x50eec6d765792dcfb0913c8403ef2a12e1b861a6": [
+      "Z3",
+      18
+    ],
+    "0x0f59bfdd1d95a3736d2e219f905ae9b2e69c6638": [
+      "KIWI",
+      9
+    ],
+    "0x2598c30330d5771ae9f983979209486ae26de875": [
+      "AI",
+      18
+    ],
+    "0x0f2d719407fdbeff09d87557abb7232601fd9f29": [
+      "SYN",
+      18
+    ],
+    "0x0000206329b97db379d5e1bf586bbdb969c63274": [
+      "AGUSD",
+      18
+    ],
+    "0xbadff0ef41d2a68f22de21eabca8a59aaf495cf0": [
+      "KABOSU",
+      18
+    ],
+    "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f": [
+      "GEM",
+      18
+    ],
+    "0xed354cae598148846aa9694254c854fc7051163c": [
+      "SHIDO",
+      18
+    ],
+    "0x7340ea46360576dc46ef49bce99bc5072c32421d": [
+      "DSQ",
+      18
+    ],
+    "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de": [
+      "MILK2",
+      18
+    ],
+    "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05": [
+      "GEL",
+      18
+    ],
+    "0xc55126051b22ebb829d00368f4b12bde432de5da": [
+      "BTRFLY",
+      18
+    ],
+    "0x304645590f197d99fad9fa1d05e7bcdc563e1378": [
+      "GUARDIAN",
+      9
+    ],
+    "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d": [
+      "ALD",
+      18
+    ],
+    "0xc3c221fe28c33814c28c822b631fd76047ef1a63": [
+      "MM",
+      18
+    ],
+    "0x7f59b64c6ee521c0d7e590cf8e4b843caa236f96": [
+      "CELL",
+      0
+    ],
+    "0x80d55c03180349fff4a229102f62328220a96444": [
+      "OPUL",
+      18
+    ],
+    "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe": [
+      "EROWAN",
+      18
+    ],
+    "0x525a8f6f3ba4752868cde25164382bfbae3990e1": [
+      "NYM",
+      6
+    ],
+    "0x3506424f91fd33084466f402d5d97f05f8e3b4af": [
+      "CHZ",
+      18
+    ],
+    "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439": [
+      "APP",
+      18
+    ],
+    "0x9c354503c38481a7a7a51629142963f98ecc12d0": [
+      "OGV",
+      18
+    ],
+    "0xe803178b48a0e560c2b19f3b3d4e504f79d229ce": [
+      "BOBC",
+      18
+    ],
+    "0x2b91c5a73b7c4a70a61536429a2bf45461d85b27": [
+      "RIG",
+      18
+    ],
+    "0xa6422e3e219ee6d4c1b18895275fe43556fd50ed": [
+      "STBU",
+      18
+    ],
+    "0x43d7e65b8ff49698d9550a7f315c87e67344fb59": [
+      "SHIA",
+      18
+    ],
+    "0xf0f67ddb45c90946d717f2225910cb940c28afae": [
+      "MEMES",
+      18
+    ],
+    "0x1294f4183763743c7c9519bec51773fb3acd78fd": [
+      "FI",
+      18
+    ],
+    "0xd87996ff3d06858bfc20989aef50cc5fcd4d84ca": [
+      "GOLDEN",
+      9
+    ],
+    "0x1122b6a0e00dce0563082b6e2953f3a943855c1f": [
+      "CENNZ",
+      18
+    ],
+    "0x869dbe51dc214fcb663604b0f7b548592f8c71f5": [
+      "DOKI",
+      9
+    ],
+    "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7": [
+      "MANDOX",
+      9
+    ],
+    "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24": [
+      "RNDR",
+      18
+    ],
+    "0x3819f64f282bf135d62168c1e513280daf905e06": [
+      "HDRN",
+      9
+    ],
+    "0xbe1bc2e2338defcd88e7f9f5f745ddb222180ab9": [
+      "TESO",
+      9
+    ],
+    "0xaec65404ddc3af3c897ad89571d5772c1a695f22": [
+      "PHX",
+      18
+    ],
+    "0xe2976a66e8cef3932cdaeb935e114dcd5ce20f20": [
+      "CFSH",
+      18
+    ],
+    "0x24b47299e756af0571f512232a3629e0dabb52ed": [
+      "CVT",
+      18
+    ],
+    "0x979aca85ba37c675e78322ed5d97fa980b9bdf00": [
+      "FSN",
+      18
+    ],
+    "0xf091867ec603a6628ed83d274e835539d82e9cc8": [
+      "ZETA",
+      18
+    ],
+    "0x37da9de38c4094e090c014325f6ef4baeb302626": [
+      "OTSEA",
+      18
+    ],
+    "0x5faa989af96af85384b8a938c2ede4a7378d9875": [
+      "GAL",
+      18
+    ],
+    "0x8248270620aa532e4d64316017be5e873e37cc09": [
+      "DEVVE",
+      18
+    ],
+    "0x0001a500a6b18995b03f44bb040a5ffc28e45cb0": [
+      "OLAS",
+      18
+    ],
+    "0xf951e335afb289353dc249e82926178eac7ded78": [
+      "SWETH",
+      18
+    ],
+    "0x8df4197669cf7af9fd29d768c932251a0c2e3e94": [
+      "NINJA",
+      18
+    ],
+    "0x115ec79f1de567ec68b7ae7eda501b406626478e": [
+      "CRE",
+      18
+    ],
+    "0x68b429161ec09a6c1d65ba70727ab1faa5bc4026": [
+      "ODOGE",
+      18
+    ],
+    "0x3fe7940616e5bc47b0775a0dccf6237893353bb4": [
+      "IDLEDAIYIELD",
+      18
+    ],
+    "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1": [
+      "TRADE",
+      18
+    ],
+    "0x821a278dfff762c76410264303f25bf42e195c0c": [
+      "PETH",
+      18
+    ],
+    "0xeaa260c1d247135cec29ec10fb6acedf2a55dc6b": [
+      "TADA",
+      9
+    ],
+    "0xbaac2b4491727d78d2b78815144570b9f2fe8899": [
+      "DOG",
+      18
+    ],
+    "0xfa219a9bd37712ef04e5b04abce9ace538ffafb7": [
+      "DOGPET",
+      18
+    ],
+    "0x038a68ff68c393373ec894015816e33ad41bd564": [
+      "GLCH",
+      18
+    ],
+    "0x0e573ce2736dd9637a0b21058352e1667925c7a8": [
+      "USDV",
+      6
+    ],
+    "0xc314b0e758d5ff74f63e307a86ebfe183c95767b": [
+      "ADP",
+      18
+    ],
+    "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e": [
+      "DRGN",
+      18
+    ],
+    "0x0a913bead80f321e7ac35285ee10d9d922659cb7": [
+      "DOS",
+      18
+    ],
+    "0xe7eaec9bca79d537539c00c58ae93117fb7280b9": [
+      "DOGEP",
       18
     ],
     "0x834e7fdc574cc0c95857da38190b453a3666387e": [
@@ -49940,20 +50424,48 @@
       "HLTC",
       18
     ],
-    "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517": [
-      "WAXP",
+    "0x320d31183100280ccdf69366cd56180ea442a3e8": [
+      "LHC",
       8
     ],
     "0x930ae5999210724248b36265e8d3696128115946": [
       "SAITAMA",
       8
     ],
+    "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e": [
+      "CRVUSD",
+      18
+    ],
     "0x69e37422cb87d963367f73a119c8ce9a4d529b72": [
       "ADVT",
       9
     ],
+    "0x993864e43caa7f7f12953ad6feb1d1ca635b875f": [
+      "SDAO",
+      18
+    ],
+    "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8": [
+      "CYDOGE",
+      18
+    ],
+    "0xe59b14e43479dc30d77f553e4b5c6fc67e1f6caf": [
+      "LEXA",
+      18
+    ],
     "0x32c6f1c1731ff8f98ee2ede8954f696446307846": [
       "BEARDY",
+      18
+    ],
+    "0x4740735aa98dc8aa232bd049f8f0210458e7fca3": [
+      "RDT",
+      18
+    ],
+    "0xb81914f05daf95802eb30726a399733e0696cd79": [
+      "HOLA",
+      18
+    ],
+    "0x0abdace70d3790235af448c88547603b945604ea": [
+      "DNT",
       18
     ],
     "0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da": [
@@ -49964,20 +50476,24 @@
       "CDT",
       18
     ],
-    "0x6cd7fc3118a8ffa40af0f99f3cbda54b0c6d4d1d": [
-      "UMIL",
+    "0xde67d97b8770dc98c746a3fc0093c538666eb493": [
+      "BROCK",
+      9
+    ],
+    "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f": [
+      "OX",
       18
     ],
-    "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e": [
-      "DRGN",
+    "0x7f792db54b0e580cdc755178443f0430cf799aca": [
+      "VOLT",
+      9
+    ],
+    "0x50b806c5fe274c07e46b96be8c68d2fd2d9597b4": [
+      "TUCKER",
       18
     ],
-    "0x9e9fbde7c7a83c43913bddc8779158f1368f0413": [
-      "PANDORA",
-      18
-    ],
-    "0xa0ef786bf476fe0810408caba05e536ac800ff86": [
-      "MYRIA",
+    "0x469eda64aed3a3ad6f868c44564291aa415cb1d9": [
+      "FLUX",
       18
     ],
     "0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5": [
@@ -49992,65 +50508,101 @@
       "TOL",
       18
     ],
-    "0xae05559e5bc86ecca132956fa0482dd7d4b2d76d": [
-      "UCLONEX",
+    "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74": [
+      "MEME",
       18
     ],
     "0x37f74e99794853777a10ea1dc08a64c86958f06a": [
       "DILI",
       18
     ],
+    "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a": [
+      "SCOTTY",
+      16
+    ],
+    "0xadd8abdea5cb95f4dcd8e128eeef64f023615a6a": [
+      "CHZB",
+      18
+    ],
     "0xf32aa187d5bc16a2c02a6afb7df1459d0d107574": [
       "INU",
+      18
+    ],
+    "0x686f2404e77ab0d9070a46cdfb0b7fecdd2318b0": [
+      "LORDS",
       18
     ],
     "0xef89c37fe9e5c906b404cd7edae4a2992b5d25fa": [
       "TIME",
       18
     ],
-    "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247": [
-      "PEUSD",
-      18
-    ],
-    "0x33f289d91286535c47270c8479f6776fb3adeb3e": [
-      "BXBT",
-      18
-    ],
-    "0xb7be27ba608641f0b6f152c8b432757f3685d2b0": [
-      "U",
-      18
-    ],
     "0xe44ac096d96b7918afc0d98cb18d40c5ca5868ab": [
       "OSMO",
       18
     ],
-    "0xea068fba19ce95f12d252ad8cb2939225c4ea02d": [
-      "FIEF",
+    "0x470c8950c0c3aa4b09654bc73b004615119a44b5": [
+      "KIZUNA",
       18
     ],
-    "0x1982b2f5814301d4e9a8b0201555376e62f82428": [
-      "ASTETH",
+    "0xe55d97a97ae6a17706ee281486e98a84095d8aaf": [
+      "AIPAD",
       18
     ],
-    "0x4fa5836b58d6f1877a616e7833c7350781e21202": [
-      "UOTHR",
+    "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12": [
+      "SAVM",
+      18
+    ],
+    "0xfbe6f37d3db3fc939f665cfe21238c11a5447831": [
+      "ETH20",
+      9
+    ],
+    "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409": [
+      "FDUSD",
       18
     ],
     "0xf725f73caee250ae384ec38bb2c77c38ef2cccea": [
       "AIR",
       18
     ],
+    "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9": [
+      "UNIBOT",
+      18
+    ],
     "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": [
       "ITP",
+      18
+    ],
+    "0xd33526068d116ce69f19a9ee46f0bd304f21a51f": [
+      "RPL",
       18
     ],
     "0x1e87d63d11d1c16052bbca06d43ba4ceb4ee686c": [
       "BRC20",
       9
     ],
+    "0xdfc3829b127761a3218bfcee7fc92e1232c9d116": [
+      "PRCY",
+      8
+    ],
+    "0x44face2e310e543f6d85867eb06fb251e3bfe1fc": [
+      "BAKE",
+      9
+    ],
+    "0x36905fc93280f52362a1cbab151f25dc46742fb5": [
+      "BTO",
+      18
+    ],
     "0x3e8203e0b1d56984abc66f183a8d0b1a09a7e607": [
       "LP",
       9
+    ],
+    "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247": [
+      "PEUSD",
+      18
+    ],
+    "0xe453c3409f8ad2b1fe1ed08e189634d359705a5b": [
+      "DGI",
+      18
     ],
     "0xf920e4f3fbef5b3ad0a25017514b769bdc4ac135": [
       "BAX",
@@ -50060,13 +50612,33 @@
       "YASHA",
       18
     ],
-    "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c": [
-      "UOS",
-      4
+    "0x6123b0049f904d730db3c36a31167d9d4121fa6b": [
+      "RBN",
+      18
+    ],
+    "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35": [
+      "SWEAT",
+      18
+    ],
+    "0x80c62fe4487e1351b47ba49809ebd60ed085bf52": [
+      "CLV",
+      18
     ],
     "0x83869de76b9ad8125e22b857f519f001588c0f62": [
       "EXM",
       8
+    ],
+    "0x888888848b652b3e3a0f34c96e00eec0f3a23f72": [
+      "TLM",
+      4
+    ],
+    "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38": [
+      "OSETH",
+      18
+    ],
+    "0xcc0d1b36d88fd8f5f26fd00e4e769e2dab4e3e07": [
+      "LIGHT",
+      18
     ],
     "0x28b5e12cce51f15594b0b91d5b5adaa70f684a02": [
       "NPX",
@@ -50078,6 +50650,10 @@
     ],
     "0xbb19da2482308ec02a242aced4fe0f09d06b12a7": [
       "FLASH",
+      18
+    ],
+    "0x2ad9addd0d97ec3cdba27f92bf6077893b76ab0b": [
+      "PLANET",
       18
     ],
     "0x69fa8e7f6bf1ca1fb0de61e1366f7412b827cc51": [
@@ -50096,20 +50672,12 @@
       "LBA",
       18
     ],
-    "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4": [
-      "MNW",
-      18
-    ],
     "0x2ed2cc2c858a8a8219fd2f2d9e170285dbd02756": [
       "SBET",
       18
     ],
     "0x382ac32e9abe17f424a74e8ce0a92c0f18788f9a": [
       "HOTT",
-      18
-    ],
-    "0x51fe05eac152494908ff1ebbd50e116e960baf64": [
-      "XGPT",
       18
     ],
     "0xcf9560b9e952b195d408be966e4f6cf4ab8206e5": [
@@ -50146,10 +50714,6 @@
     ],
     "0x8353b92201f19b4812eee32efd325f7ede123718": [
       "SCM",
-      18
-    ],
-    "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136": [
-      "AIT",
       18
     ],
     "0x973e52691176d36453868d9d86572788d27041a9": [
@@ -50192,10 +50756,6 @@
       "LOTTY",
       18
     ],
-    "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835": [
-      "COR",
-      18
-    ],
     "0x4086e77c5e993fdb90a406285d00111a974f877a": [
       "BRWL",
       4
@@ -50231,10 +50791,6 @@
     "0x3832d2f059e55934220881f831be501d180671a7": [
       "RENDOGE",
       8
-    ],
-    "0x0391d2021f89dc339f60fff84546ea23e337750f": [
-      "BOND",
-      18
     ],
     "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f": [
       "GTC",
@@ -50306,10 +50862,6 @@
     ],
     "0x5224f552f110ec78e6e0468138950ae5f3040942": [
       "ANOM",
-      18
-    ],
-    "0x8de5b80a0c1b02fe4976851d030b36122dbb8624": [
-      "VANRY",
       18
     ],
     "0x116c4b65e14449947bc6fa1bbe844cb16a162d53": [
@@ -50400,10 +50952,6 @@
       "CROWN",
       18
     ],
-    "0x9813037ee2218799597d83d4a5b6f3b6778218d9": [
-      "BONE",
-      18
-    ],
     "0x18cc2ba8995c6307e355726244adb023cf00522f": [
       "MONKE",
       9
@@ -50460,10 +51008,6 @@
       "HEMULE",
       18
     ],
-    "0x369733153e6e08d38f2bc72ae2432e855cfbe221": [
-      "XALPHA",
-      18
-    ],
     "0xcd14517c7397a003aec7404cb8159f16a90f9fe9": [
       "AIRBOT",
       18
@@ -50478,10 +51022,6 @@
     ],
     "0x0eb3032bcac2be1fa95e296442f225edb80fc3cd": [
       "ATC",
-      18
-    ],
-    "0xc55126051b22ebb829d00368f4b12bde432de5da": [
-      "BTRFLY",
       18
     ],
     "0xed04915c23f00a313a544955524eb7dbd823143d": [
@@ -50768,10 +51308,6 @@
       "PTN",
       18
     ],
-    "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1": [
-      "TRADE",
-      18
-    ],
     "0x0c7b199ac2bca0dba8d1785480648f0318b9a7b8": [
       "ORDIBOT",
       9
@@ -50787,10 +51323,6 @@
     "0x2730d6fdc86c95a74253beffaa8306b40fedecbb": [
       "UNI",
       8
-    ],
-    "0x8642a849d0dcb7a15a974794668adcfbe4794b56": [
-      "PROS",
-      18
     ],
     "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7": [
       "MEED",
@@ -50852,10 +51384,6 @@
       "TBOS",
       0
     ],
-    "0xdf574c24545e5ffecb9a659c229253d4111d87e1": [
-      "HUSD",
-      8
-    ],
     "0xd17c18979a45c0f3604331831c409f7bff64d3c1": [
       "FRENS",
       18
@@ -50886,10 +51414,6 @@
     ],
     "0x9754d5e5ea788c62f11d34a818aeae927aeac84c": [
       "NOLO",
-      18
-    ],
-    "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b": [
-      "GFI",
       18
     ],
     "0xaae3cf9968d26925bdb73ce3864e0084a20f4687": [
@@ -50994,10 +51518,6 @@
     ],
     "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae": [
       "IDEX",
-      18
-    ],
-    "0x6f259637dcd74c767781e37bc6133cd6a68aa161": [
-      "HT",
       18
     ],
     "0xcccd1ba9f7acd6117834e0d28f25645decb1736a": [
@@ -51240,14 +51760,6 @@
       "JEFF",
       18
     ],
-    "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7": [
-      "COV",
-      18
-    ],
-    "0x9506d37f70eb4c3d79c398d326c871abbf10521d": [
-      "MLT",
-      18
-    ],
     "0x4e4a47cac6a28a62dcc20990ed2cda9bc659469f": [
       "SHIT",
       18
@@ -51255,10 +51767,6 @@
     "0x9ce07410673206c693bcec9b07710767637a564c": [
       "MONKEYS",
       9
-    ],
-    "0x470c8950c0c3aa4b09654bc73b004615119a44b5": [
-      "KIZUNA",
-      18
     ],
     "0x7865ec47bef9823ad0010c4970ed90a5e8107e53": [
       "NAAI",
@@ -51332,10 +51840,6 @@
       "OKIKU",
       18
     ],
-    "0xa35923162c49cf95e6bf26623385eb431ad920d3": [
-      "TURBO",
-      18
-    ],
     "0xb4c25205f7a76ae08cbe95e27864106e1b93732c": [
       "EXTROPIC",
       9
@@ -51367,10 +51871,6 @@
     "0xf61bf4d1a948487d61b8fa63808aac06bda55f98": [
       "TR3",
       18
-    ],
-    "0x8be8b0dde627dd6be9a4b7fcadd04899aabdb2b1": [
-      "RND",
-      6
     ],
     "0x59f7b6bb42cb9c47f16fb0fbb15f154f1046ec60": [
       "THUND",
@@ -51451,10 +51951,6 @@
     "0xc9a1f104fbbda8b8752946f7d56d59d28284037f": [
       "DOUG",
       18
-    ],
-    "0x320d31183100280ccdf69366cd56180ea442a3e8": [
-      "LHC",
-      8
     ],
     "0x1e3778dd6dbfdc1c5b89f95f7c098b21e80ec4fa": [
       "VIC",
@@ -51548,10 +52044,6 @@
       "P2PS",
       8
     ],
-    "0x05fe069626543842439ef90d9fa1633640c50cf1": [
-      "EVEAI",
-      18
-    ],
     "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f": [
       "BSSB",
       18
@@ -51644,20 +52136,12 @@
       "ISK",
       18
     ],
-    "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197": [
-      "GAMMA",
-      18
-    ],
     "0xe2ba8693ce7474900a045757fe0efca900f6530b": [
       "FDAI",
       8
     ],
     "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9": [
       "FTT",
-      18
-    ],
-    "0x7b744eea1deca2f1b7b31f15ba036fa1759452d7": [
-      "HIPP",
       18
     ],
     "0x6f38e0f1a73c96cb3f42598613ea3474f09cb200": [
@@ -51708,14 +52192,6 @@
       "ORLA",
       18
     ],
-    "0xc590c348d431d544172f5ec4e4c8ea44537b8f4d": [
-      "ANTX",
-      9
-    ],
-    "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4": [
-      "IXS",
-      18
-    ],
     "0x8c688327c9371bb3bd69f6e1f1a6d8c9ca0880a7": [
       "DADA",
       18
@@ -51734,10 +52210,6 @@
     ],
     "0xddf688e96cb2531a69bf6347c02f069266c1aa81": [
       "MMVG",
-      18
-    ],
-    "0x50b806c5fe274c07e46b96be8c68d2fd2d9597b4": [
-      "TUCKER",
       18
     ],
     "0xa3c31927a092bd54eb9a0b5dfe01d9db5028bd4f": [
@@ -51780,10 +52252,6 @@
       "DPAY",
       18
     ],
-    "0x9681ee0d91e737c3b60aceba7fbdae61b5462f42": [
-      "CYCE",
-      6
-    ],
     "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f": [
       "DLT",
       18
@@ -51798,10 +52266,6 @@
     ],
     "0xa3ee21c306a700e682abcdfe9baa6a08f3820419": [
       "CTC",
-      18
-    ],
-    "0x0c37bcf456bc661c14d596683325623076d7e283": [
-      "ARNX",
       18
     ],
     "0x903ff0ba636e32de1767a4b5eeb55c155763d8b7": [
@@ -51852,16 +52316,8 @@
       "USDK",
       18
     ],
-    "0x3472a5a71965499acd81997a54bba8d852c6e53d": [
-      "BADGER",
-      18
-    ],
     "0x36f8d0d0573ae92326827c4a82fe4ce4c244cab6": [
       "MADAI",
-      18
-    ],
-    "0x02f92800f57bcd74066f5709f1daa1a4302df875": [
-      "PEAS",
       18
     ],
     "0xd4e245848d6e1220dbe62e155d89fa327e43cb06": [
@@ -51960,10 +52416,6 @@
       "WCA",
       18
     ],
-    "0xc3cc3076cb304494775b3193ef1aa080ba6bf962": [
-      "ODGN",
-      18
-    ],
     "0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438": [
       "MODEX",
       18
@@ -52044,10 +52496,6 @@
       "EMOJI",
       9
     ],
-    "0xa02120696c7b8fe16c09c749e4598819b2b0e915": [
-      "WXT",
-      18
-    ],
     "0x0d15009896efe9972f8e086bdd3bcba5c1f74bf3": [
       "SONO",
       8
@@ -52084,10 +52532,6 @@
       "RTH",
       18
     ],
-    "0xc5170dd7386247cdb8c48545c803f5d0e3347022": [
-      "TI",
-      18
-    ],
     "0x5e72ad4bf50c952b11a63b6769d02bb486a9a897": [
       "888",
       18
@@ -52110,14 +52554,6 @@
     ],
     "0x49849c98ae39fff122806c06791fa73784fb3675": [
       "RENBTCCURVE",
-      18
-    ],
-    "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6": [
-      "POL",
-      18
-    ],
-    "0x14da230d6726c50f759bc1838717f8ce6373509c": [
-      "KAT",
       18
     ],
     "0xabec00542d141bddf58649bfe860c6449807237c": [
@@ -52152,10 +52588,6 @@
       "PANO",
       18
     ],
-    "0x8ccd897ca6160ed76755383b201c1948394328c7": [
-      "BAI",
-      9
-    ],
     "0x561cf9121e89926c27fa1cfc78dfcc4c422937a4": [
       "SQUID",
       18
@@ -52171,10 +52603,6 @@
     "0x2e880962a9609aa3eab4def919fe9e917e99073b": [
       "BOSS",
       0
-    ],
-    "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9": [
-      "BITCOIN",
-      8
     ],
     "0x68ddd6812684ff87d483342b69db5a89c2af711b": [
       "NOOTNOOT",
@@ -52276,20 +52704,12 @@
       "LUNA",
       18
     ],
-    "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15": [
-      "KATA",
-      18
-    ],
     "0xc81b0d02393a956234e24564805a896f14ad1250": [
       "BPD",
       9
     ],
     "0xebe4a49df7885d015329c919bf43e6460a858f1e": [
       "SHK",
-      18
-    ],
-    "0xffffffff2ba8f66d4e51811c5190992176930278": [
-      "COMBO",
       18
     ],
     "0x01ba67aac7f75f647d94220cc98fb30fcc5105bf": [
@@ -52368,10 +52788,6 @@
       "DONG",
       18
     ],
-    "0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5": [
-      "AIX",
-      18
-    ],
     "0xed0d5747a9ab03a75fbfec3228cd55848245b75d": [
       "NGM",
       6
@@ -52418,10 +52834,6 @@
     ],
     "0x0dcee5f694e492f0dd842a7fbe5bed4c6e4665a6": [
       "CATBOY",
-      18
-    ],
-    "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17": [
-      "DUBBZ",
       18
     ],
     "0xb3e6ee8d2c586fa03ab70aef96b8ae6d12d64ec7": [
@@ -52512,10 +52924,6 @@
       "DCO",
       8
     ],
-    "0x32b86b99441480a7e5bd3a26c124ec2373e3f015": [
-      "BAD",
-      18
-    ],
     "0x6a4c76874e686a7d080d173987a35a9c48905583": [
       "LPNT",
       18
@@ -52526,10 +52934,6 @@
     ],
     "0x5026f006b85729a8b14553fae6af249ad16c9aab": [
       "WOJAK",
-      18
-    ],
-    "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa": [
-      "METH",
       18
     ],
     "0x5394794be8b6ed5572fcd6b27103f46b5f390e8f": [
@@ -52652,10 +53056,6 @@
       "JACK",
       18
     ],
-    "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb": [
-      "JPYC",
-      18
-    ],
     "0x809826cceab68c387726af962713b64cb5cb3cca": [
       "NCASH",
       18
@@ -52670,10 +53070,6 @@
     ],
     "0xcfc5bd99915aaa815401c5a41a927ab7a38d29cf": [
       "THUSD",
-      18
-    ],
-    "0xec213f83defb583af3a000b1c0ada660b1902a0f": [
-      "PRE",
       18
     ],
     "0x22fc5a29bd3d6cce19a06f844019fd506fce4455": [
@@ -52846,10 +53242,6 @@
     ],
     "0x0e8d2eb7d6bdf28393c25a1966385ad32ff0259a": [
       "STREAMERINU",
-      18
-    ],
-    "0x3da932456d082cba208feb0b096d49b202bf89c8": [
-      "DEGO",
       18
     ],
     "0xfe459828c90c0ba4bc8b42f5c5d44f316700b430": [
@@ -53040,16 +53432,8 @@
       "HAHA",
       18
     ],
-    "0x738865301a9b7dd80dc3666dd48cf034ec42bdda": [
-      "AGRS",
-      8
-    ],
     "0xf974b5f9ac9c6632fee8b76c61b0242ce69c839d": [
       "ZYX",
-      18
-    ],
-    "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d": [
-      "DORA",
       18
     ],
     "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8": [
@@ -53086,10 +53470,6 @@
     ],
     "0xb685145d7f127b9093d7f9278bae902ef59ff486": [
       "FREQAI",
-      18
-    ],
-    "0x5aa158404fed6b4730c13f49d3a7f820e14a636f": [
-      "ULX",
       18
     ],
     "0xbb63e6be33bc5b5386d7ab0529dc6c400f2ac2ec": [
@@ -53143,10 +53523,6 @@
     "0xa203eb78fee91c8459c6d4ef3a899d8724ee5b35": [
       "MERC",
       18
-    ],
-    "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9": [
-      "KOMPETE",
-      10
     ],
     "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d": [
       "SHARE",
@@ -53238,10 +53614,6 @@
     ],
     "0x87de305311d5788e8da38d19bb427645b09cb4e5": [
       "VRX",
-      18
-    ],
-    "0x0305f515fa978cf87226cf8a9776d25bcfb2cc0b": [
-      "PEPE20",
       18
     ],
     "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97": [
@@ -53524,10 +53896,6 @@
       "PHYSICS",
       18
     ],
-    "0x5919dea604631016c15c805e3d948a0384879892": [
-      "PEEP",
-      9
-    ],
     "0x64b78325d7495d6d4be92f234fa3f3b8d8964b8b": [
       "SHOP",
       18
@@ -53704,10 +54072,6 @@
       "ALY",
       2
     ],
-    "0x788b6d2b37aa51d916f2837ae25b05f0e61339d1": [
-      "MVD",
-      9
-    ],
     "0x6692de64716a177c15360d8d010bc522bbc530a0": [
       "TNT",
       18
@@ -53799,10 +54163,6 @@
     "0x697a79af2de4af9e9aa0d08905374556ad1353bb": [
       "NINA",
       18
-    ],
-    "0xc08512927d12348f6620a698105e1baac6ecd911": [
-      "GYEN",
-      6
     ],
     "0x6286a9e6f7e745a6d884561d88f94542d6715698": [
       "TECH",
@@ -53968,14 +54328,6 @@
       "WIZARD",
       18
     ],
-    "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17": [
-      "DYP",
-      18
-    ],
-    "0xd101dcc414f310268c37eeb4cd376ccfa507f571": [
-      "RSC",
-      18
-    ],
     "0x87a92428bbc876d463c21c8e51b903f127d9a9f4": [
       "AUC",
       18
@@ -54102,10 +54454,6 @@
     ],
     "0x9b81686140e85d28c2236c307dd49b422a663edf": [
       "FIRE",
-      18
-    ],
-    "0xb533687ef77459093368c43e95f8df1c2b5a1f7a": [
-      "ASG",
       18
     ],
     "0x2008e3057bd734e10ad13c9eae45ff132abc1722": [
@@ -54330,10 +54678,6 @@
     ],
     "0xc7b4c17861357b8abb91f25581e7263e08dcb59c": [
       "ASNX",
-      18
-    ],
-    "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a": [
-      "ZETA",
       18
     ],
     "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b": [
@@ -54631,10 +54975,6 @@
     "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf": [
       "FIDU",
       18
-    ],
-    "0x414cbf31c62d99515bfd66497b495a585b52f703": [
-      "CHAP",
-      0
     ],
     "0x0000000005c6b7c1fd10915a05f034f90d524d6e": [
       "TRYC",
@@ -55040,10 +55380,6 @@
       "AQT",
       18
     ],
-    "0x5fe72ed557d8a02fff49b3b826792c765d5ce162": [
-      "SHEZMU",
-      18
-    ],
     "0x87869a9789291a6cec99f3c3ef2ff71fceb12a8e": [
       "CMOS",
       9
@@ -55143,10 +55479,6 @@
     "0xb1191f691a355b43542bea9b8847bc73e7abb137": [
       "KIRO",
       18
-    ],
-    "0xfc4b4ec763722b71eb1d729749b447a9645f5f30": [
-      "GME",
-      9
     ],
     "0x9a7703338730b82a803ba050df55f9b3959f3fb2": [
       "CHIKUN",
@@ -55252,10 +55584,6 @@
       "SSP",
       4
     ],
-    "0x34be5b8c30ee4fde069dc878989686abe9884470": [
-      "SENATE",
-      18
-    ],
     "0xc7f950271d118a5bdf250dffc39128dcced8472c": [
       "ARCHIVE",
       18
@@ -55334,10 +55662,6 @@
     ],
     "0x0257ffd7ea2ebba4aaa090c7adbdd032a08c1f74": [
       "ZELIX",
-      18
-    ],
-    "0x8af78f0c818302164f73b2365fe152c2d1fe80e1": [
-      "FNCT",
       18
     ],
     "0x2f57430a6ceda85a67121757785877b4a71b8e6d": [
@@ -55502,10 +55826,6 @@
     ],
     "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c": [
       "FINU",
-      18
-    ],
-    "0x7d4b8cce0591c9044a22ee543533b72e976e36c3": [
-      "CAG",
       18
     ],
     "0xaa2d8c9a8bd0f7945143bfd509be3ff23dd78918": [
@@ -55732,14 +56052,6 @@
       "DINGER",
       9
     ],
-    "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c": [
-      "BNT",
-      18
-    ],
-    "0xd567b5f02b9073ad3a982a099a23bf019ff11d1c": [
-      "GAME",
-      5
-    ],
     "0x92098551e613dfdcd4d7c7b2c35615709e4e0397": [
       "ATAI",
       18
@@ -55775,10 +56087,6 @@
     "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68": [
       "INV",
       18
-    ],
-    "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643": [
-      "CDAI",
-      8
     ],
     "0x20561172f791f915323241e885b4f7d5187c36e1": [
       "CAL",
@@ -56044,16 +56352,8 @@
       "WILD",
       18
     ],
-    "0x4b7265d153886a7dc717e815862acde6ff7b5bc8": [
-      "DENCH",
-      18
-    ],
     "0x4872208c83acbfd7f6dea5aa6ce6d5d7aed2ac1c": [
       "AIMAGE",
-      18
-    ],
-    "0x943ed852dadb5c3938ecdc6883718df8142de4c8": [
-      "FTI",
       18
     ],
     "0x777e2ae845272a2f540ebf6a3d03734a5a8f618e": [
@@ -56078,10 +56378,6 @@
     ],
     "0x7eaf9c89037e4814dc0d9952ac7f888c784548db": [
       "ROYA",
-      18
-    ],
-    "0x80c62fe4487e1351b47ba49809ebd60ed085bf52": [
-      "CLV",
       18
     ],
     "0xa50709b10c328772ea24a44b13c7e23c75561ecb": [
@@ -56216,10 +56512,6 @@
       "MYC",
       18
     ],
-    "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6": [
-      "BRD",
-      18
-    ],
     "0x269877f972622d3c293fca595c65cf34b7f527ce": [
       "FWB",
       18
@@ -56264,10 +56556,6 @@
       "PLSB",
       12
     ],
-    "0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6": [
-      "WTK",
-      18
-    ],
     "0x9f7fc686cfd64aa5ae15b351d03071e91533094b": [
       "TRACE",
       18
@@ -56279,10 +56567,6 @@
     "0x75430d0782a443bd4f1c92c69009599dea53a206": [
       "RICK",
       9
-    ],
-    "0x41ea5d41eeacc2d5c4072260945118a13bb7ebce": [
-      "CRE",
-      18
     ],
     "0x70d0ff0d3b3f5e69220c09befc70606fa5f89293": [
       "HIUNDEAD",
@@ -56355,10 +56639,6 @@
     "0x607229db773fa901215175aeb09a3a5695f813c7": [
       "DS",
       9
-    ],
-    "0xf8c3527cc04340b208c854e985240c02f7b7793f": [
-      "FRONT",
-      18
     ],
     "0x6732efaf6f39926346bef8b821a04b6361c4f3e5": [
       "SAFETH",
@@ -56660,10 +56940,6 @@
       "ESS",
       18
     ],
-    "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c": [
-      "CBOT",
-      9
-    ],
     "0x02795795196f563fdafce8dd97fca4871ded51c3": [
       "WNZ",
       18
@@ -56743,10 +57019,6 @@
     "0x77c6e4a580c0dce4e5c7a17d0bc077188a83a059": [
       "SWUSD",
       18
-    ],
-    "0x34ba042827996821cffeb06477d48a2ff9474483": [
-      "SHIB20",
-      8
     ],
     "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf": [
       "AURA",
@@ -56855,10 +57127,6 @@
     "0xd64809f5f7d772d9112a6bd379de00a77188199e": [
       "LSILVER",
       18
-    ],
-    "0xeaa260c1d247135cec29ec10fb6acedf2a55dc6b": [
-      "TADA",
-      9
     ],
     "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59": [
       "BCSPX",
@@ -57020,10 +57288,6 @@
       "ARV",
       18
     ],
-    "0x36ff4dae0e88113d68b1209e245b0e3af92e9d58": [
-      "XLON",
-      18
-    ],
     "0xa07dcc1abfe20d29d87a32e2ba89876145dafb0a": [
       "UDOODLE",
       18
@@ -57051,10 +57315,6 @@
     "0x7105e64bf67eca3ae9b123f0e5ca2b83b2ef2da0": [
       "X7DAO",
       18
-    ],
-    "0xf7168c8abb0ff80116413a8d95396bbdc318a3ff": [
-      "KEKE",
-      7
     ],
     "0xfed656555a88c86675d2bf01a3b7861c3f89d478": [
       "ALCZ",
@@ -57744,10 +58004,6 @@
       "HNB",
       18
     ],
-    "0xdefcafe7eac90d31bbba841038df365de3c4e207": [
-      "CAFE",
-      9
-    ],
     "0xbddf903f43dc7d9801f3f0034ba306169074ef8e": [
       "AGB",
       18
@@ -57816,10 +58072,6 @@
       "SHIBC",
       18
     ],
-    "0xab306326bc72c2335bd08f42cbec383691ef8446": [
-      "PPIZZA",
-      18
-    ],
     "0x60c24407d01782c2175d32fe7c8921ed732371d1": [
       "LEMO",
       18
@@ -57878,10 +58130,6 @@
     ],
     "0x4bc3263eb5bb2ef7ad9ab6fb68be80e43b43801f": [
       "VETH",
-      18
-    ],
-    "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3": [
-      "MIM",
       18
     ],
     "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3": [
@@ -58148,10 +58396,6 @@
       "UTU",
       18
     ],
-    "0x56b4f8c39e07d4d5d91692acf9d0f6d4d3493763": [
-      "TRISM",
-      18
-    ],
     "0xe46a1d19962ea120765d3139c588ffd617be04a8": [
       "EETH",
       18
@@ -58392,10 +58636,6 @@
       "ST",
       18
     ],
-    "0x72108a8cc3254813c6be2f1b77be53e185abfdd9": [
-      "ES",
-      18
-    ],
     "0x66861d5f0fbfb7b2711712fef2172c560d08d0ab": [
       "FUND",
       18
@@ -58414,10 +58654,6 @@
     ],
     "0x887168120cb89fb06f3e74dc4af20d67df0977f6": [
       "SKRT",
-      18
-    ],
-    "0x6553565eac5daa9bfc5e2892b36291634c9b2ad6": [
-      "RAKE",
       18
     ],
     "0xe5867608b51a2c9c78b9587355cc093140a49b0a": [
@@ -58578,10 +58814,6 @@
     ],
     "0x19ac2659599fd01c853de846919544276ad26f50": [
       "COVN",
-      18
-    ],
-    "0x12e2b8033420270db2f3b328e32370cb5b2ca134": [
-      "SFP",
       18
     ],
     "0x8d008cac1a5cb08ac962b1e34e977b79abeee88d": [
@@ -58752,16 +58984,8 @@
       "CUNI",
       8
     ],
-    "0x1ac1d4991edf93bd2e5594a9b38a9599071afdae": [
-      "CLONE",
-      9
-    ],
     "0x08f7be99ed83369541501d60f4e66f8e34c3f736": [
       "CKU",
-      18
-    ],
-    "0xbe9385116fbbff5fdbaea0b52c3003b92be7f81c": [
-      "REAPER",
       18
     ],
     "0x4561de8e0c2bba725d38d266ef62426e62678d82": [
@@ -58936,10 +59160,6 @@
       "GYOSHI",
       18
     ],
-    "0x8cb73eb53fa81f808f704bea15a677b6464a1f90": [
-      "GAURO",
-      9
-    ],
     "0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c": [
       "DZAR",
       6
@@ -59052,10 +59272,6 @@
       "NTRS",
       18
     ],
-    "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b": [
-      "BORA",
-      18
-    ],
     "0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1": [
       "SENSO",
       0
@@ -59075,10 +59291,6 @@
     "0xff931a7946d2fa11cf9123ef0dc6f6c7c6cb60c4": [
       "BABY",
       9
-    ],
-    "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a": [
-      "CGT",
-      18
     ],
     "0x53884b61963351c283118a8e1fc05ba464a11959": [
       "MNS",
@@ -59196,10 +59408,6 @@
       "KGC",
       18
     ],
-    "0xb444cb2bcb19180602328fa774738cb8dbd6677b": [
-      "MG",
-      9
-    ],
     "0xde0e9bd25dc63a629f40e1ec7959b57726e94d88": [
       "MEMES",
       18
@@ -59226,10 +59434,6 @@
     ],
     "0xb6dc73987848ba6cb3ce297562723c1a78f85fce": [
       "BORZOI",
-      18
-    ],
-    "0x274e7eb07b485cfde53d02270555213447570ac6": [
-      "GOV",
       18
     ],
     "0xb04dfdb8271ed2d5e13858562c44a77d3ceb9e57": [
@@ -59464,6 +59668,10 @@
       "SCCN",
       18
     ],
+    "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1": [
+      "BSOV",
+      8
+    ],
     "0xca5b0ae1d104030a9b8f879523508efd86c14483": [
       "BENJI",
       18
@@ -59604,10 +59812,6 @@
       "WIS",
       18
     ],
-    "0xb7dfa8eac59361b1d9f0c2641b516159c5306f60": [
-      "LIVE",
-      18
-    ],
     "0x09ce2b746c32528b7d864a1e3979bd97d2f095ab": [
       "DFL",
       18
@@ -59615,10 +59819,6 @@
     "0x15f73a3ab443ee6ebf36c605c7868159ce5d028c": [
       "SST",
       9
-    ],
-    "0xcd7492db29e2ab436e819b249452ee1bbdf52214": [
-      "SMI",
-      8
     ],
     "0x13a0599c493cc502ed8c4dd26f22f5cedc248fc4": [
       "EMP",
@@ -59792,10 +59992,6 @@
       "BC",
       9
     ],
-    "0x183395dbd0b5e93323a7286d1973150697fffcb3": [
-      "CVXFXN",
-      18
-    ],
     "0x8423b76be8ef6ca7400a6b4c334d29c1d5d4572c": [
       "INU",
       8
@@ -59886,10 +60082,6 @@
     ],
     "0x4a3fe75762017db0ed73a71c9a06db7768db5e66": [
       "YVCOMP",
-      18
-    ],
-    "0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2": [
-      "BLACK",
       18
     ],
     "0xda8263d8ce3f726233f8b5585bcb86a3120a58b6": [
@@ -59983,10 +60175,6 @@
     "0x87fdd1e031b356bdc1c55a3231cfe266552d8284": [
       "PBMC",
       14
-    ],
-    "0x8b6cda5cc518c904e8844f445e1a7c7d2db0ff16": [
-      "SFCP",
-      18
     ],
     "0x4ce4c025692b3142dbde1cd432ef55b9a8d18701": [
       "DCNT",
@@ -60624,10 +60812,6 @@
       "ADF",
       18
     ],
-    "0xe9f1d62c671efe99896492766c0b416bd3fb9e52": [
-      "XOY",
-      8
-    ],
     "0x3feb4fea5132695542f8ede5076ac43296d17c6d": [
       "BTC20",
       8
@@ -60655,10 +60839,6 @@
     "0xb67beb26ebeb0dceec354ae0942256d03c01771b": [
       "DS",
       18
-    ],
-    "0xf6aeaf0fe66cf2ef2e738ba465fb531ffe39b4e2": [
-      "ATR",
-      9
     ],
     "0x1fee5588cb1de19c70b6ad5399152d8c643fae7b": [
       "PHTK",
@@ -60782,10 +60962,6 @@
     ],
     "0x7051faed0775f664a0286af4f75ef5ed74e02754": [
       "CHANGE",
-      18
-    ],
-    "0x6d6554939d646f274d0fc3cecb7dab5d76bc908f": [
-      "MS",
       18
     ],
     "0xad1a5b8538a866ecd56ddd328b50ed57ced5d936": [
@@ -60970,10 +61146,6 @@
     ],
     "0x3e316791842a271ab1e138ff7408c015efd9c6be": [
       "VXAI",
-      18
-    ],
-    "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a": [
-      "BANANA",
       18
     ],
     "0xc6e145421fd494b26dcf2bfeb1b02b7c5721978f": [
@@ -61172,10 +61344,6 @@
       "MUSE",
       18
     ],
-    "0x347a96a5bd06d2e15199b032f46fb724d6c73047": [
-      "ASIC",
-      12
-    ],
     "0x8eb94a06b4716093dbfe335cbdb098deb2dcde1b": [
       "SHIB05",
       18
@@ -61296,10 +61464,6 @@
       "PKT",
       18
     ],
-    "0xbddc20ed7978b7d59ef190962f441cd18c14e19f": [
-      "CAGA",
-      18
-    ],
     "0x473037de59cf9484632f4a27b509cfe8d4a31404": [
       "GST-ETH",
       8
@@ -61387,10 +61551,6 @@
     "0x23dc3f6859e122b25b2cd5f3cf2335310b0f2b77": [
       "DESME",
       5
-    ],
-    "0x8ed97a637a790be1feff5e888d43629dc05408f6": [
-      "NPC",
-      18
     ],
     "0x246908bff0b1ba6ecadcf57fb94f6ae2fcd43a77": [
       "DIVI",
@@ -61522,10 +61682,6 @@
     ],
     "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76": [
       "GGTK",
-      18
-    ],
-    "0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4": [
-      "SKY",
       18
     ],
     "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28": [
@@ -61864,10 +62020,6 @@
       "NPM",
       18
     ],
-    "0x428dca9537116148616a5a3e44035af17238fe9d": [
-      "OXAI",
-      18
-    ],
     "0xc5fdf3569af74f3b3e97e46a187a626352d2d508": [
       "ZINU",
       9
@@ -61968,10 +62120,6 @@
       "LHINU",
       18
     ],
-    "0x1e4746dc744503b53b4a082cb3607b169a289090": [
-      "IPOR",
-      18
-    ],
     "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0": [
       "FOUR",
       18
@@ -62070,10 +62218,6 @@
     ],
     "0x03042482d64577a7bdb282260e2ea4c8a89c064b": [
       "CNTR",
-      18
-    ],
-    "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e": [
-      "CRVUSD",
       18
     ],
     "0x4ec1b60b96193a64acae44778e51f7bff2007831": [
@@ -62244,10 +62388,6 @@
       "POW",
       18
     ],
-    "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18": [
-      "XCN",
-      18
-    ],
     "0xc3960227e41c3f54e9b399ce216149dea5315c34": [
       "CZ",
       9
@@ -62288,20 +62428,12 @@
       "TRXC",
       0
     ],
-    "0x389999216860ab8e0175387a0c90e5c52522c945": [
-      "FEG",
-      9
-    ],
     "0x144805be43c48ef85435c94e0da4cb4efb1ab4f3": [
       "MBX",
       18
     ],
     "0x8c6778023c3d4fd79ddd14810079f64c39e9e43d": [
       "0XAISWAP",
-      18
-    ],
-    "0xb29663aa4e2e81e425294193616c1b102b70a158": [
-      "LDN",
       18
     ],
     "0x8355dbe8b0e275abad27eb843f3eaf3fc855e525": [
@@ -62604,10 +62736,6 @@
       "SHIBDOGE",
       9
     ],
-    "0x340d2bde5eb28c1eed91b2f790723e3b160613b7": [
-      "VEE",
-      18
-    ],
     "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae": [
       "EGAME",
       18
@@ -62640,10 +62768,6 @@
       "KBC",
       18
     ],
-    "0xbaac2b4491727d78d2b78815144570b9f2fe8899": [
-      "DOG",
-      18
-    ],
     "0x4f640f2529ee0cf119a2881485845fa8e61a782a": [
       "ORE",
       18
@@ -62660,10 +62784,6 @@
       "HBCH",
       18
     ],
-    "0xd807f7e2818db8eda0d28b5be74866338eaedb86": [
-      "JIM",
-      18
-    ],
     "0xad22f63404f7305e4713ccbd4f296f34770513f4": [
       "AWC",
       8
@@ -62674,10 +62794,6 @@
     ],
     "0x34635280737b5bfe6c7dc2fc3065d60d66e78185": [
       "CVXPRISMA",
-      18
-    ],
-    "0xe55d97a97ae6a17706ee281486e98a84095d8aaf": [
-      "AIPAD",
       18
     ],
     "0xa8c08d8bb15a2d1a4d3b78def9c635ef1e340e16": [
@@ -62714,10 +62830,6 @@
     ],
     "0x0d5639a1442730372e2a650a2900ba07937854f4": [
       "CHUB",
-      18
-    ],
-    "0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675": [
-      "TOKO",
       18
     ],
     "0x71fc1f555a39e0b698653ab0b475488ec3c34d57": [
@@ -62770,10 +62882,6 @@
     ],
     "0xfac77a24e52b463ba9857d6b758ba41ae20e31ff": [
       "LSD",
-      18
-    ],
-    "0xbededdf2ef49e87037c4fb2ca34d1ff3d3992a11": [
-      "FEG",
       18
     ],
     "0x2c642cd3bed9b4e4eeec493611779f13efb502f1": [
@@ -63060,10 +63168,6 @@
       "LIT",
       18
     ],
-    "0x354c8cda7e3b737d360513a0dc5abcee8ee1cea3": [
-      "BABYTRUMP",
-      18
-    ],
     "0xb9098d3669a78e9afe8b94a97290407400d9da31": [
       "PRTC",
       18
@@ -63184,10 +63288,6 @@
       "GHO",
       18
     ],
-    "0x6e39a587691b8c9d4341ce0a960998ed6f537af6": [
-      "MEMAG",
-      18
-    ],
     "0xab85fc558d722a2b7c040ffb77db676bd9e7d322": [
       "MOROS",
       18
@@ -63216,16 +63316,8 @@
       "WSTOR",
       18
     ],
-    "0x35156b404c3f9bdaf45ab65ba315419bcde3775c": [
-      "CHIRO",
-      9
-    ],
     "0xeb9e3c6cda17c8755a4e8a1cc944afb7fc7d7905": [
       "MATCH",
-      18
-    ],
-    "0x6100dd79fcaa88420750dcee3f735d168abcb771": [
-      "OS",
       18
     ],
     "0x8365332d4baf69bc24ca2401b90c3853ab9f818e": [
@@ -63668,10 +63760,6 @@
       "VEIL",
       18
     ],
-    "0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6": [
-      "ODDZ",
-      18
-    ],
     "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa": [
       "ORBS",
       18
@@ -63746,10 +63834,6 @@
     ],
     "0x79126d32a86e6663f3aaac4527732d0701c1ae6c": [
       "DMT",
-      18
-    ],
-    "0x4594cffbfc09bc5e7ecf1c2e1c1e24f0f7d29036": [
-      "0KN",
       18
     ],
     "0xc4c346edc55504574cceb00aa1091d22404a4bc3": [
@@ -64400,6 +64484,14 @@
       "OSEAN",
       18
     ],
+    "0x01824357d7d7eaf4677bc17786abd26cbdec9ad7": [
+      "FORWARD",
+      18
+    ],
+    "0xe5acbb03d73267c03349c76ead672ee4d941f499": [
+      "BEAM",
+      8
+    ],
     "0x0000000000300dd8b0230efcfef136ecdf6abcde": [
       "DGNX",
       18
@@ -65040,10 +65132,6 @@
       "COM",
       18
     ],
-    "0x377d552914e7a104bc22b4f3b6268ddc69615be7": [
-      "NEXT",
-      18
-    ],
     "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845": [
       "NEX",
       8
@@ -65490,10 +65578,6 @@
     ],
     "0xae788f80f2756a86aa2f410c651f2af83639b95b": [
       "MV",
-      18
-    ],
-    "0x888888888888f195e27a2e0f98d712952ab9348e": [
-      "IPISTR",
       18
     ],
     "0x1416946162b1c2c871a73b07e932d2fb6c932069": [
@@ -73848,6 +73932,10 @@
       "WBTC.e",
       8
     ],
+    "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f": [
+      "SOL",
+      9
+    ],
     "0x40df1ae6074c35047bff66675488aa2f9f6384f3": [
       "WMATIC",
       18
@@ -74806,6 +74894,14 @@
     ],
     "0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e": [
       "LADYS",
+      18
+    ],
+    "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0": [
+      "UNI",
+      18
+    ],
+    "0xf97f4df75117a78c1a5a0dbb814af92458539fb4": [
+      "LINK",
       18
     ],
     "0x382bb369d343125bfb2117af9c149795c6c65c50": [

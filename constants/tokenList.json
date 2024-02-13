@@ -2253,6 +2253,12 @@
 			"symbol": "WBTC.e",
 			"decimals": 8,
 			"coingeckoId": "wrapped-bitcoin"
+		},
+		{
+			"address": "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
+			"symbol": "SOL",
+			"decimals": 9,
+			"coingeckoId": "sol-wormhole"
 		}
 	],
 	"fantom": [
@@ -3791,6 +3797,18 @@
 			"symbol": "LADYS",
 			"coingeckoId": "milady-meme-coin",
 			"decimals": 18
+		},
+		{
+			"address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+			"symbol": "UNI",
+			"coingeckoId": "uniswap",
+			"decimals": 18
+		},
+		{
+			"address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+			"symbol": "LINK",
+			"decimals": 18,
+			"coingeckoId": "chainlink"
 		}
 	],
 	"rinkeby": [
