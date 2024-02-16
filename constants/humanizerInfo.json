@@ -75010,7 +75010,7 @@
     "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110": "CowSwap",
     "0x216b4b4ba9f3e719726886d34a177484278bfcae": "ParaSwapV5",
     "0xdef171fe48cf0115b1d80b88dc8eab59176fee57": "ParaSwapV5",
-    "0x000000000022d473030f116ddee9f6b43ac78ba3": "Permit2",
+    "0x000000000022d473030f116ddee9f6b43ac78ba3": "Permit 2 Contract",
     "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f": "SushiSwap",
     "0xeb94eca012ec0bbb254722fdda2ce7475875a52b": "SushiSwap",
     "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506": "SushiSwap",
@@ -83934,7 +83934,7 @@
         "isSC": {}
       },
       "0x000000000022d473030f116ddee9f6b43ac78ba3": {
-        "name": "Permit2",
+        "name": "Permit 2 Contract",
         "address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
         "isSC": {}
       },

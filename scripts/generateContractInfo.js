@@ -478,10 +478,10 @@ const contractsData = [
     addr: '0xDEF171Fe48CF0115B1d80b88dc8eAB59176FEe57',
     abiName: 'ParaSwapV5'
   },
-  { name: 'Permit2', network: 'ethereum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'Permit2', network: 'polygon', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'Permit2', network: 'arbitrum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'Permit2', network: 'optimism', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
+  { name: 'Permit 2 Contract', network: 'ethereum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
+  { name: 'Permit 2 Contract' , network: 'polygon', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3'},
+  { name: 'Permit 2 Contract' , network: 'arbitrum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3'},
+  { name: 'Permit 2 Contract' , network: 'optimism', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3'},
   { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F', abiName: 'Sushiswap' },
   { name: 'SushiSwap', network: 'optimism', addr: '0xEb94EcA012eC0bbB254722FdDa2CE7475875A52B', abiName:'RouteProcessor' },
   { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506'}, // abi same as eth
