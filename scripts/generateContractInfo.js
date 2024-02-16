@@ -2110,13 +2110,13 @@ function generatehumanizerV2({ abis, names, tokens }){
   })
 
   const newAddresses = Object.fromEntries(Object.entries(names).map(([address,name])=>
-    [
+  [
       address.toLowerCase(),
-      {
+       {
         name,
         address:address.toLowerCase(),
         // here we should add more data about every address if they are a contract or not
-        isSC: {}
+        isSC: name.toLowerCase() !== 'gas tank' && address !== ethers.ZeroAddress  ? {} : undefined
       }
     ]
   ))
@@ -2130,7 +2130,7 @@ function generatehumanizerV2({ abis, names, tokens }){
         name: `${symbol} token contract`,
         address:address.toLowerCase(),
         token:{decimals,symbol},
-        isSC: {}
+        isSC: address!==ethers.ZeroAddress  ? {} : undefined
       }
     }
   })
