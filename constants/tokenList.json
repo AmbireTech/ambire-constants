@@ -3809,6 +3809,18 @@
 			"symbol": "LINK",
 			"decimals": 18,
 			"coingeckoId": "chainlink"
+		},
+		{
+			"address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+			"symbol": "PEPE",
+			"decimals": 18,
+			"coingeckoId": "pepe"
+		},
+		{
+			"address": "0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74",
+			"symbol": "Bonk",
+			"decimals": 5,
+			"coingeckoId": "bonk"
 		}
 	],
 	"rinkeby": [

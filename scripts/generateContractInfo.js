@@ -3,6 +3,8 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 const ERC20 = require('adex-protocol-eth/abi/ERC20.json')
 const ambireTokenList = require('../constants/tokenList.json')
 const SWAPPIN_NFT_ABI = require('../abis/SWAPPIN_NFT.json')
+const { keccak256 } = require('js-sha3');
+const { ethers } = require('ethers');
 
 const SWAPPIN_UNVERIFIED_NFT_CONTRACT_ADDR = '0xFd090f34707Ac2cA546a4B442FF708308dEd8909'
 
@@ -356,7 +358,7 @@ const tesseractVaults = [
     decimals: 18
   }
 ]
-const contracts = [
+const contractsData = [
   {
     name: '$WALLET distributor',
     network: 'ethereum',
@@ -476,10 +478,10 @@ const contracts = [
     addr: '0xDEF171Fe48CF0115B1d80b88dc8eAB59176FEe57',
     abiName: 'ParaSwapV5'
   },
-  { name: 'Permit2', network: 'ethereum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'Permit2', network: 'polygon', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'Permit2', network: 'arbitrum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
-  { name: 'Permit2', network: 'optimism', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
+  { name: 'Permit 2 Contract', network: 'ethereum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3', abiName: 'Permit2' },
+  { name: 'Permit 2 Contract' , network: 'polygon', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3'},
+  { name: 'Permit 2 Contract' , network: 'arbitrum', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3'},
+  { name: 'Permit 2 Contract' , network: 'optimism', addr: '0x000000000022d473030f116ddee9f6b43ac78ba3'},
   { name: 'SushiSwap', network: 'ethereum', addr: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F', abiName: 'Sushiswap' },
   { name: 'SushiSwap', network: 'optimism', addr: '0xEb94EcA012eC0bbB254722FdDa2CE7475875A52B', abiName:'RouteProcessor' },
   { name: 'SushiSwap', network: 'polygon', addr: '0x1b02da8cb0d097eb8d57a175b88c7d8b47997506'}, // abi same as eth
@@ -1604,7 +1606,7 @@ const tokenlists = [
   'https://api-polygon-tokens.polygon.technology/tokenlists/allTokens.tokenlist.json'
 ]
 
-const customTokens = [
+const hardcodedTokens = [
   {
     address: '0x88800092ff476844f74dc2fc427974bbee2794ae',
     symbol: 'WALLET',
@@ -2085,13 +2087,60 @@ const customTokens = [
     symbol: 'WZRD-BUSD LP',
     decimals: 18
   },
-  ...Object.keys(ambireTokenList)
-    .map((n) => ambireTokenList[n])
+  ...Object.values(ambireTokenList)
     .flat()
 ]
 
-async function generate() {
-  let abis = {}
+
+function generatehumanizerV2({ abis, names, tokens }){
+  const newAbis = {}
+  
+  const parseAbi = (abi) =>{
+    const iface = new ethers.Interface(abi)
+    return Object.fromEntries(iface.fragments.map(i=>{
+      if(i.type === 'function' || i.type === 'error') return [
+        i.selector,
+        { selector: i.selector, type: i.type, signature: i.format('full') } 
+      ]
+    }).filter(x=>x))
+  }
+
+  Object.entries(abis).forEach(([name,abi])=>{
+    newAbis[name] = parseAbi(abi)
+  })
+
+  const newAddresses = Object.fromEntries(Object.entries(names).map(([address,name])=>
+  [
+      address.toLowerCase(),
+       {
+        name,
+        address:address.toLowerCase(),
+        // here we should add more data about every address if they are a contract or not
+        isSC: name.toLowerCase() !== 'gas tank' && address !== ethers.ZeroAddress  ? {} : undefined
+      }
+    ]
+  ))
+  Object.entries(tokens).forEach(([_address,[symbol,decimals]])=>{
+    const address= _address.toLowerCase()
+    if(newAddresses[address]){
+      newAddresses[address].token = {decimals,symbol}
+    }
+    else{
+      newAddresses[address] = {
+        name: `${symbol} token contract`,
+        address:address.toLowerCase(),
+        token:{decimals,symbol},
+        isSC: address!==ethers.ZeroAddress  ? {} : undefined
+      }
+    }
+  })
+  
+  return {abis:newAbis, knownAddresses:newAddresses}
+}
+
+
+async function fetchAbis(contracts){
+  const abis = {}
   for (let contract of contracts) {
     const { network, addr, abiName, abiAddr } = contract
     if (!abiName) continue
@@ -2110,23 +2159,28 @@ async function generate() {
       continue
     }
 
-    // console.log(SWAPPIN_NFT_ABI)
     abis[abiName] = SWAPPIN_NFT_ABI
   }
   abis.ERC20 = ERC20
+  return abis
+}
 
-  let names = {}
+function extractNames(contracts){
+  const names = {}
   contracts.forEach(({ name, addr }) => {
     const address = addr.toLowerCase()
     if (names[address] && names[address] !== name)
       throw new Error(`unexpected name confict: ${addr} ${name}`)
     names[address] = name
   })
+  return names
+}
 
+async function getTokens(customTokens){
   const tokenLists = (
     await Promise.all(tokenlists.map(async (url) => await fetch(url).then((r) => r.json())))
   ).concat({ tokens: customTokens })
-
+  
 	const tokens = tokenLists.filter((tokenListT) => typeof tokenListT === 'object').reduce((acc, list) => {
 		list.tokens.forEach((t) => {
 			const address = t.address.toLowerCase()
@@ -2138,8 +2192,15 @@ async function generate() {
 		})
 		return acc
 	}, {})
+  return tokens
+}
 
-  console.log(JSON.stringify({ abis, tokens, names, yearnVaults, tesseractVaults }, null, 2))
+async function generate() {
+  const abis = await fetchAbis(contractsData)
+  const names = extractNames(contractsData)
+  const tokens = await getTokens(hardcodedTokens)
+  const humanizerV2 = generatehumanizerV2({abis, names, tokens})
+  console.log(JSON.stringify({ abis, tokens, names, yearnVaults, tesseractVaults, humanizerV2}, null, 2))
 }
 
 generate()
