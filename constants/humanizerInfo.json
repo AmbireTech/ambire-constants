@@ -75903,6 +75903,18 @@
     "0x5300000000000000000000000000000000000004": [
       "WETH",
       18
+    ],
+    "0x1d738a3436a8c49ceffbab7fbf04b660fb528cbd": [
+      "aScrUSDC",
+      6
+    ],
+    "0xf301805be1df81102c957f6d4ce29d2b8c056b2a": [
+      "aScrWETH",
+      18
+    ],
+    "0x8a035644322129800c3f747f54db0f4d3c0a2877": [
+      "variableDebtScrwstETH",
+      18
     ]
   },
   "names": {
