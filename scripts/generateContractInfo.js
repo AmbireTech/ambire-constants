@@ -20,7 +20,8 @@ const etherscans = {
   fantom: { host: 'api.ftmscan.com', key: 'D2UJ8TV1UNUDA4TPWE2DWTPF69PWAJPTNG' },
   gnosis: { host: 'blockscout.com/eth/mainnet', key: ''},
   kucoin: { host: 'api.explorer.kcc.io/vip', key: 'cpzPVTSUT2FowxQOFlIn'},
-  base: { host: 'api.basescan.org', key: 'PSWKUAFEQVAIQ33CJNNVVBGP7ZU2W1MB35'}
+  base: { host: 'api.basescan.org', key: 'PSWKUAFEQVAIQ33CJNNVVBGP7ZU2W1MB35'},
+  scroll: { host: 'api.scrollscan.com', key: 'E8Z1SS4KXNJQ6YRAWC6GKUMAKUJF6SY7F3'}
 }
 
 const yearnVaults = [
