@@ -20,7 +20,8 @@ const etherscans = {
   fantom: { host: 'api.ftmscan.com', key: 'D2UJ8TV1UNUDA4TPWE2DWTPF69PWAJPTNG' },
   gnosis: { host: 'blockscout.com/eth/mainnet', key: ''},
   kucoin: { host: 'api.explorer.kcc.io/vip', key: 'cpzPVTSUT2FowxQOFlIn'},
-  base: { host: 'api.basescan.org', key: 'PSWKUAFEQVAIQ33CJNNVVBGP7ZU2W1MB35'}
+  base: { host: 'api.basescan.org', key: 'PSWKUAFEQVAIQ33CJNNVVBGP7ZU2W1MB35'},
+  scroll: { host: 'api.scrollscan.com', key: 'E8Z1SS4KXNJQ6YRAWC6GKUMAKUJF6SY7F3'}
 }
 
 const yearnVaults = [
@@ -1594,6 +1595,44 @@ const contracts = [
       "network":"ethereum",
       "addr":"0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
       "abiName":"ERC-4337-EntryPoint-0.6.0"
+  },
+  {
+    "name":"L2 WETH Gateway",
+    "network":"scroll",
+    "addr":"0x7003E7B7186f0E6601203b99F7B8DECBfA391cf9",
+    "abiName":"L2-WETH-Gateway"
+  },
+  {
+    "name":"L2 ERC20 Standard Gateway",
+    "network":"scroll",
+    "addr":"0xE2b4795039517653c5Ae8C2A9BFdd783b48f447A",
+    "abiName":"L2-ERC20-Standard-Gateway"
+  },
+  {
+    "name":"L2 ERC20 Custom Gateway",
+    "network":"scroll",
+    "addr":"0x64CCBE37c9A82D85A1F2E74649b7A42923067988",
+    "abiName":"L2-ERC20-Custom-Gateway"
+  },
+  {
+    "name":"Uni Router",
+    "network":"scroll",
+    "addr":"0xfc30937f5cDe93Df8d48aCAF7e6f5D8D8A31F636",
+  },
+  {
+    "name":"NFT Position Manager",
+    "network":"scroll",
+    "addr":"0xB39002E4033b162fAc607fc3471E205FA2aE5967",
+  },
+  {
+    "name":"NFT Position Manager",
+    "network":"scroll",
+    "addr":"0xB39002E4033b162fAc607fc3471E205FA2aE5967",
+  },
+  {
+    "name":"Aave Pool",
+    "network":"scroll",
+    "addr":"0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
   }
 ]
 const tokenlists = [
