@@ -1633,6 +1633,12 @@ const contracts = [
     "name":"Aave Pool",
     "network":"scroll",
     "addr":"0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
+  },
+  {
+    "name":"Paraswap router",
+    "network":"ethereum",
+    "addr":"0x6a000f20005980200259b80c5102003040001068",
+    "abiName": "ParaswapRouter"
   }
 ]
 const tokenlists = [
