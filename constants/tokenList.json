@@ -956,7 +956,7 @@
 	"polygon": [
 		{
 			"address": "0x0000000000000000000000000000000000000000",
-			"symbol": "MATIC",
+			"symbol": "POL",
 			"coingeckoId": "matic-network",
 			"decimals": 18
 		},
